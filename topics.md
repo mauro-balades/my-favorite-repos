@@ -30,6 +30,7 @@
 - [golang](#golang)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
+- [html](#html)
 - [ios](#ios)
 - [java](#java)
 - [javascript](#javascript)
@@ -133,6 +134,7 @@
 
 ## css 
 
+- [chr15m/DoodleCSS](https://github.com/chr15m/DoodleCSS) - A simple hand drawn HTML/CSS theme
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 
 ## data-science 
@@ -198,6 +200,10 @@
 ## haskell 
 
 - [mauro-balades/hello-world](https://github.com/mauro-balades/hello-world) - hello-world in any programming language.
+
+## html 
+
+- [chr15m/DoodleCSS](https://github.com/chr15m/DoodleCSS) - A simple hand drawn HTML/CSS theme
 
 ## ios 
 
@@ -269,6 +275,7 @@
 
 ## others 
 
+- [ml-for-nlp/build-your-search-engine](https://github.com/ml-for-nlp/build-your-search-engine) - A repository to learn basic data processing techniques (Wikipedia processing, feature selection), and use them for some basic Web query classification.
 - [mauro-balades/my-favorite-repos](https://github.com/mauro-balades/my-favorite-repos) - ⭐:octocat: A curated list of GitHub repositories I've starred!
 - [mauro-balades/GarbleLang](https://github.com/mauro-balades/GarbleLang) - An esoteric language to do some experiments with it
 - [rogue-shadowdancer/misbrands](https://github.com/rogue-shadowdancer/misbrands) - The world's most hated IT stickers
