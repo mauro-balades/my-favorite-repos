@@ -130,6 +130,7 @@
 
 ## HTML 
 
+- [chr15m/DoodleCSS](https://github.com/chr15m/DoodleCSS) - A simple hand drawn HTML/CSS theme
 - [spikecodes/peacock](https://github.com/spikecodes/peacock) - 🦚 Open source experimental private-by-default web browser.
 - [mauro-balades/secondssincelastjavascriptframework](https://github.com/mauro-balades/secondssincelastjavascriptframework) - Get the up to date information about how many seconds has passed since last javascript framework has been published.
 - [brave/brave-core](https://github.com/brave/brave-core) - Core engine for the Brave browser for Android, Linux, macOS, Windows. For issues https://github.com/brave/brave-browser/issues
@@ -237,6 +238,7 @@
 
 ## Python 
 
+- [ml-for-nlp/build-your-search-engine](https://github.com/ml-for-nlp/build-your-search-engine) - A repository to learn basic data processing techniques (Wikipedia processing, feature selection), and use them for some basic Web query classification.
 - [mauro-balades/breeze-rect](https://github.com/mauro-balades/breeze-rect) - A breeze plugin for the Rect programming language
 - [RedditWritesCode/RedditWritesCode](https://github.com/RedditWritesCode/RedditWritesCode) - The mirror of the series "The most upvoted comment picks the next line of code" on Reddit by https://www.reddit.com/user/AggravatingCorner133/
 - [joaq-26/python-2022](https://github.com/joaq-26/python-2022) - Mi experiencias en python 2022
