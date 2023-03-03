@@ -62,6 +62,7 @@
 - [testing](#testing)
 - [typescript](#typescript)
 - [vue](#vue)
+- [vuejs](#vuejs)
 - [website](#website)
 
 ## automation 
@@ -480,6 +481,10 @@
 
 - [NightCatSama/vue-slider-component](https://github.com/NightCatSama/vue-slider-component) - 🌡 A highly customized slider component
 - [biigpongsatorn/vue-slide-bar](https://github.com/biigpongsatorn/vue-slide-bar) - 🎢 A Simple Vue Slider Bar Component.
+
+## vuejs 
+
+- [Electron-Store/electron-app-store](https://github.com/Electron-Store/electron-app-store) - A Cross-Platform App Store for Electron.js Apps
 
 ## website 
 
