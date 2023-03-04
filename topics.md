@@ -62,7 +62,6 @@
 - [testing](#testing)
 - [typescript](#typescript)
 - [vue](#vue)
-- [vuejs](#vuejs)
 - [website](#website)
 
 ## automation 
@@ -276,6 +275,7 @@
 
 ## others 
 
+- [dstogov/ir](https://github.com/dstogov/ir) - Lightweight JIT Compilation Framework
 - [ml-for-nlp/build-your-search-engine](https://github.com/ml-for-nlp/build-your-search-engine) - A repository to learn basic data processing techniques (Wikipedia processing, feature selection), and use them for some basic Web query classification.
 - [mauro-balades/my-favorite-repos](https://github.com/mauro-balades/my-favorite-repos) - ⭐:octocat: A curated list of GitHub repositories I've starred!
 - [mauro-balades/GarbleLang](https://github.com/mauro-balades/GarbleLang) - An esoteric language to do some experiments with it
@@ -481,10 +481,6 @@
 
 - [NightCatSama/vue-slider-component](https://github.com/NightCatSama/vue-slider-component) - 🌡 A highly customized slider component
 - [biigpongsatorn/vue-slide-bar](https://github.com/biigpongsatorn/vue-slide-bar) - 🎢 A Simple Vue Slider Bar Component.
-
-## vuejs 
-
-- [Electron-Store/electron-app-store](https://github.com/Electron-Store/electron-app-store) - A Cross-Platform App Store for Electron.js Apps
 
 ## website 
 
