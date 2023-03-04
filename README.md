@@ -54,6 +54,7 @@
 
 ## C 
 
+- [dstogov/ir](https://github.com/dstogov/ir) - Lightweight JIT Compilation Framework
 - [travisdoor/bl](https://github.com/travisdoor/bl) - Simple imperative programming language created for fun.
 - [graydon/rust-prehistory](https://github.com/graydon/rust-prehistory) - historical archive of rust pre-publication development
 - [lz4/lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm
