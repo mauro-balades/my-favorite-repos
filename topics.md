@@ -62,6 +62,7 @@
 - [testing](#testing)
 - [typescript](#typescript)
 - [vue](#vue)
+- [vuejs](#vuejs)
 - [website](#website)
 
 ## automation 
@@ -290,7 +291,7 @@
 - [mauro-balades/breeze-rect](https://github.com/mauro-balades/breeze-rect) - A breeze plugin for the Rect programming language
 - [mauro-balades/httplog](https://github.com/mauro-balades/httplog) - View a summary of your logs produced by your http server
 - [RedditWritesCode/RedditWritesCode](https://github.com/RedditWritesCode/RedditWritesCode) - The mirror of the series "The most upvoted comment picks the next line of code" on Reddit by https://www.reddit.com/user/AggravatingCorner133/
-- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - Detect Browser, Engine, OS, CPU, and Device type/model from User-Agent data. Supports browser & node.js environment.
+- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - Detect Browser, Engine, OS, CPU, and Device type/model from User-Agent & Client-Hints data. Supports browser & node.js environment.
 - [zspecza/system](https://github.com/zspecza/system) - A component system syntax for CSS
 - [mauro-balades/aurora.css](https://github.com/mauro-balades/aurora.css) - A css preprocessor that allows you to write less and style more with an overall clear and beginner-friendly syntax
 - [dibsonthis/Glide--old](https://github.com/dibsonthis/Glide--old) - Glide programming language
@@ -481,6 +482,10 @@
 
 - [NightCatSama/vue-slider-component](https://github.com/NightCatSama/vue-slider-component) - 🌡 A highly customized slider component
 - [biigpongsatorn/vue-slide-bar](https://github.com/biigpongsatorn/vue-slide-bar) - 🎢 A Simple Vue Slider Bar Component.
+
+## vuejs 
+
+- [Electron-Store/electron-app-store](https://github.com/Electron-Store/electron-app-store) - A Cross-Platform App Store for Electron.js Apps
 
 ## website 
 
