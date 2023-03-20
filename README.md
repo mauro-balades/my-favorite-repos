@@ -54,6 +54,7 @@
 
 ## C 
 
+- [Ninesquared81/caretbang](https://github.com/Ninesquared81/caretbang) - A stack-based esoteric langauge
 - [dstogov/ir](https://github.com/dstogov/ir) - Lightweight JIT Compilation Framework
 - [travisdoor/bl](https://github.com/travisdoor/bl) - Simple imperative programming language created for fun.
 - [graydon/rust-prehistory](https://github.com/graydon/rust-prehistory) - historical archive of rust pre-publication development
@@ -153,6 +154,7 @@
 
 ## JavaScript 
 
+- [skiplang/skip](https://github.com/skiplang/skip) - A programming language to skip the things you have already computed
 - [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - Detect Browser, Engine, OS, CPU, and Device type/model from User-Agent & Client-Hints data. Supports browser & node.js environment.
 - [zspecza/system](https://github.com/zspecza/system) - A component system syntax for CSS
 - [curist/lxlox](https://github.com/curist/lxlox) - Lox derived programming language
@@ -204,6 +206,8 @@
 
 ## Others 
 
+- [cpp-linter/cpp-linter-action](https://github.com/cpp-linter/cpp-linter-action) - Lint C/C++ code with clang-format and clang-tidy then post annotations and comments with faulty results.
+- [Nik-Nothing/binfetch](https://github.com/Nik-Nothing/binfetch) - Neofetch inspired utility for binaries. CC0
 - [mauro-balades/my-favorite-repos](https://github.com/mauro-balades/my-favorite-repos) - ⭐:octocat: A curated list of GitHub repositories I've starred!
 - [rogue-shadowdancer/misbrands](https://github.com/rogue-shadowdancer/misbrands) - The world's most hated IT stickers
 - [jozefg/learn-tt](https://github.com/jozefg/learn-tt) - A collection of resources for learning type theory and type theory adjacent fields.
@@ -276,6 +280,7 @@
 
 ## Shell 
 
+- [IvanLudvig/clang-format-action](https://github.com/IvanLudvig/clang-format-action) - A github action to run clang-format on all C/C++ sources in a repository
 - [EugeneKay/git-jokes](https://github.com/EugeneKay/git-jokes) - Collection of questionably humorous git sayings
 - [mauro-balades/bash-plusplus](https://github.com/mauro-balades/bash-plusplus) - Bring bash to the next level
 - [diejuse/pseudo3dbash](https://github.com/diejuse/pseudo3dbash) - A prototype of a pseudo 3d-engine made in Bash.
@@ -295,12 +300,12 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [mauro-balades/aurora.css](https://github.com/mauro-balades/aurora.css) - A css preprocessor that allows you to write less and style more with an overall clear and beginner-friendly syntax
 - [mburakerman/reactplosive-modal](https://github.com/mburakerman/reactplosive-modal) - 🔥 A simple React modal component with an explosion effect
-- [passageway-proxy/server](https://github.com/passageway-proxy/server) - Server used for managing subdomains and IDs
+- [TunnelMate/server](https://github.com/TunnelMate/server) - Server used for managing subdomains and IDs
 - [mauro-balades/debug-print](https://github.com/mauro-balades/debug-print) - Write meaningful messages for debugging, supported in multiple languages
 - [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
 - [mauro-balades/color-tornado](https://github.com/mauro-balades/color-tornado) - Choose randomly generated colors with a user-friendly and interactive interface.
 - [NightCatSama/vue-slider-component](https://github.com/NightCatSama/vue-slider-component) - 🌡 A highly customized slider component
-- [passageway-proxy/client](https://github.com/passageway-proxy/client) - Passageway's client CLI to expose your local server to the world
+- [TunnelMate/client](https://github.com/TunnelMate/client) - TunnelMate is a secure tool that allows developers to easily expose their local development environment to the internet, providing a seamless way to share their work with the world.
 - [mauro-balades/cdn-create](https://github.com/mauro-balades/cdn-create) - Create script/link tags to fetch your CDN resources and add them to your site at any time.
 - [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website
 - [mauro-balades/www](https://github.com/mauro-balades/www) - My own portfolio!
