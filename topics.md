@@ -276,6 +276,11 @@
 
 ## others 
 
+- [skiplang/skip](https://github.com/skiplang/skip) - A programming language to skip the things you have already computed
+- [cpp-linter/cpp-linter-action](https://github.com/cpp-linter/cpp-linter-action) - Lint C/C++ code with clang-format and clang-tidy then post annotations and comments with faulty results.
+- [IvanLudvig/clang-format-action](https://github.com/IvanLudvig/clang-format-action) - A github action to run clang-format on all C/C++ sources in a repository
+- [Ninesquared81/caretbang](https://github.com/Ninesquared81/caretbang) - A stack-based esoteric langauge
+- [Nik-Nothing/binfetch](https://github.com/Nik-Nothing/binfetch) - Neofetch inspired utility for binaries. CC0
 - [dstogov/ir](https://github.com/dstogov/ir) - Lightweight JIT Compilation Framework
 - [ml-for-nlp/build-your-search-engine](https://github.com/ml-for-nlp/build-your-search-engine) - A repository to learn basic data processing techniques (Wikipedia processing, feature selection), and use them for some basic Web query classification.
 - [mauro-balades/my-favorite-repos](https://github.com/mauro-balades/my-favorite-repos) - ⭐:octocat: A curated list of GitHub repositories I've starred!
@@ -297,7 +302,7 @@
 - [dibsonthis/Glide--old](https://github.com/dibsonthis/Glide--old) - Glide programming language
 - [mauro-balades/WhyIHateJS](https://github.com/mauro-balades/WhyIHateJS) - A curated list containing things that will make you cry, re-evaluate about your decisions in life and feel disappointed at yourself for even trying JS
 - [cyda-hub/www](https://github.com/cyda-hub/www) - main website for cyda
-- [passageway-proxy/server](https://github.com/passageway-proxy/server) - Server used for managing subdomains and IDs
+- [TunnelMate/server](https://github.com/TunnelMate/server) - Server used for managing subdomains and IDs
 - [dark-flow/vscode](https://github.com/dark-flow/vscode) - Dark theme for visual studio code
 - [joaq-26/python-2022](https://github.com/joaq-26/python-2022) - Mi experiencias en python 2022
 - [curist/lxlox](https://github.com/curist/lxlox) - Lox derived programming language
@@ -324,7 +329,7 @@
 - [wonoly/ui](https://github.com/wonoly/ui) - UI elements used all over @wonoly's services.
 - [Wonoly-Search/search](https://github.com/Wonoly-Search/search) - A private, user-friendly search engine made by @wonoly
 - [CWeb3-project/CWeb3](https://github.com/CWeb3-project/CWeb3) - a step on step guide on what not to do in life.
-- [passageway-proxy/client](https://github.com/passageway-proxy/client) - Passageway's client CLI to expose your local server to the world
+- [TunnelMate/client](https://github.com/TunnelMate/client) - TunnelMate is a secure tool that allows developers to easily expose their local development environment to the internet, providing a seamless way to share their work with the world.
 - [Wonoly-Search/packages](https://github.com/Wonoly-Search/packages) - Wonoly's instant answer packages
 - [aosabook/500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
 - [mauro-balades/cdn-create](https://github.com/mauro-balades/cdn-create) - Create script/link tags to fetch your CDN resources and add them to your site at any time.
