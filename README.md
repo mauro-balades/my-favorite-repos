@@ -206,6 +206,7 @@
 
 ## Others 
 
+- [qexat/Vism](https://github.com/qexat/Vism) - Specification for the Vism esoteric programming language.
 - [cpp-linter/cpp-linter-action](https://github.com/cpp-linter/cpp-linter-action) - Lint C/C++ code with clang-format and clang-tidy then post annotations and comments with faulty results.
 - [Nik-Nothing/binfetch](https://github.com/Nik-Nothing/binfetch) - Neofetch inspired utility for binaries. CC0
 - [mauro-balades/my-favorite-repos](https://github.com/mauro-balades/my-favorite-repos) - ⭐:octocat: A curated list of GitHub repositories I've starred!
@@ -243,6 +244,7 @@
 
 ## Python 
 
+- [snowball-lang/SnowBot](https://github.com/snowball-lang/SnowBot) - A discord bot that can compile and execute snowball code.
 - [ml-for-nlp/build-your-search-engine](https://github.com/ml-for-nlp/build-your-search-engine) - A repository to learn basic data processing techniques (Wikipedia processing, feature selection), and use them for some basic Web query classification.
 - [mauro-balades/breeze-rect](https://github.com/mauro-balades/breeze-rect) - A breeze plugin for the Rect programming language
 - [RedditWritesCode/RedditWritesCode](https://github.com/RedditWritesCode/RedditWritesCode) - The mirror of the series "The most upvoted comment picks the next line of code" on Reddit by https://www.reddit.com/user/AggravatingCorner133/
