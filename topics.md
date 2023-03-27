@@ -276,6 +276,8 @@
 
 ## others 
 
+- [qexat/Vism](https://github.com/qexat/Vism) - Specification for the Vism esoteric programming language.
+- [snowball-lang/SnowBot](https://github.com/snowball-lang/SnowBot) - A discord bot that can compile and execute snowball code.
 - [skiplang/skip](https://github.com/skiplang/skip) - A programming language to skip the things you have already computed
 - [cpp-linter/cpp-linter-action](https://github.com/cpp-linter/cpp-linter-action) - Lint C/C++ code with clang-format and clang-tidy then post annotations and comments with faulty results.
 - [IvanLudvig/clang-format-action](https://github.com/IvanLudvig/clang-format-action) - A github action to run clang-format on all C/C++ sources in a repository
