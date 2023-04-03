@@ -276,8 +276,11 @@
 
 ## others 
 
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
+- [snowball-lang/.github](https://github.com/snowball-lang/.github) - Snowballers, Unite!
+- [TheAssassin/prebuilt-cmake](https://github.com/TheAssassin/prebuilt-cmake) - CMake builds, made on various distros. Very useful for CI purposes.
 - [qexat/Vism](https://github.com/qexat/Vism) - Specification for the Vism esoteric programming language.
-- [snowball-lang/SnowBot](https://github.com/snowball-lang/SnowBot) - A discord bot that can compile and execute snowball code.
+- [snowball-lang/SnowBot](https://github.com/snowball-lang/SnowBot) - 🤖 A discord bot that can compile and execute snowball code.
 - [skiplang/skip](https://github.com/skiplang/skip) - A programming language to skip the things you have already computed
 - [cpp-linter/cpp-linter-action](https://github.com/cpp-linter/cpp-linter-action) - Lint C/C++ code with clang-format and clang-tidy then post annotations and comments with faulty results.
 - [IvanLudvig/clang-format-action](https://github.com/IvanLudvig/clang-format-action) - A github action to run clang-format on all C/C++ sources in a repository
@@ -313,7 +316,7 @@
 - [jesseduffield/OK](https://github.com/jesseduffield/OK) - Welcome to the future of programming languages: OK?
 - [spikecodes/peacock](https://github.com/spikecodes/peacock) - 🦚 Open source experimental private-by-default web browser.
 - [mauro-balades/CloneFish](https://github.com/mauro-balades/CloneFish) - Clone any website and convert it into a phishing website (Look at note in the readme)
-- [snowball-lang/www](https://github.com/snowball-lang/www) - Official website for snowball containing documentation, homepage and package registry.
+- [snowball-lang/www](https://github.com/snowball-lang/www) - 🌐 Official website for snowball containing documentation, homepage and package registry.
 - [mauro-balades/rect-isEven](https://github.com/mauro-balades/rect-isEven) - Check if a number is even for the rect programming language
 - [mauro-balades/rect-dictionaries](https://github.com/mauro-balades/rect-dictionaries) - Dictionaries support for the rect programming language
 - [aemkei/jsfuck](https://github.com/aemkei/jsfuck) - Write any JavaScript with 6 Characters: []()!+
