@@ -32,6 +32,7 @@
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
+- [Scala](#scala)
 - [Shell](#shell)
 - [Swift](#swift)
 - [TypeScript](#typescript)
@@ -206,6 +207,7 @@
 
 ## Others 
 
+- [snowball-lang/.github](https://github.com/snowball-lang/.github) - Snowballers, Unite!
 - [qexat/Vism](https://github.com/qexat/Vism) - Specification for the Vism esoteric programming language.
 - [cpp-linter/cpp-linter-action](https://github.com/cpp-linter/cpp-linter-action) - Lint C/C++ code with clang-format and clang-tidy then post annotations and comments with faulty results.
 - [Nik-Nothing/binfetch](https://github.com/Nik-Nothing/binfetch) - Neofetch inspired utility for binaries. CC0
@@ -234,7 +236,7 @@
 
 ## PHP 
 
-- [snowball-lang/www](https://github.com/snowball-lang/www) - Official website for snowball containing documentation, homepage and package registry.
+- [snowball-lang/www](https://github.com/snowball-lang/www) - 🌐 Official website for snowball containing documentation, homepage and package registry.
 - [wonoly/id-gen](https://github.com/wonoly/id-gen) - 🆔 Simple ID generator for anything that needs identifying.
 - [blade-ui-kit/blade-ui-kit](https://github.com/blade-ui-kit/blade-ui-kit) - A set of renderless components to utilise in your Laravel Blade views.
 - [joshgaber/NovaUnit](https://github.com/joshgaber/NovaUnit) - Unit testing suite for Laravel Nova, built to extend PHPUnit
@@ -244,13 +246,12 @@
 
 ## Python 
 
-- [snowball-lang/SnowBot](https://github.com/snowball-lang/SnowBot) - A discord bot that can compile and execute snowball code.
+- [snowball-lang/SnowBot](https://github.com/snowball-lang/SnowBot) - 🤖 A discord bot that can compile and execute snowball code.
 - [ml-for-nlp/build-your-search-engine](https://github.com/ml-for-nlp/build-your-search-engine) - A repository to learn basic data processing techniques (Wikipedia processing, feature selection), and use them for some basic Web query classification.
 - [mauro-balades/breeze-rect](https://github.com/mauro-balades/breeze-rect) - A breeze plugin for the Rect programming language
 - [RedditWritesCode/RedditWritesCode](https://github.com/RedditWritesCode/RedditWritesCode) - The mirror of the series "The most upvoted comment picks the next line of code" on Reddit by https://www.reddit.com/user/AggravatingCorner133/
 - [joaq-26/python-2022](https://github.com/joaq-26/python-2022) - Mi experiencias en python 2022
 - [mauro-balades/CloneFish](https://github.com/mauro-balades/CloneFish) - Clone any website and convert it into a phishing website (Look at note in the readme)
-- [orchest/orchest](https://github.com/orchest/orchest) - Build data pipelines, the easy way 🛠️
 - [return-node/python](https://github.com/return-node/python) - A python module used to return a node
 - [shreder95ua/teasharp](https://github.com/shreder95ua/teasharp) - My new begginer-friendly programming language
 - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨
@@ -280,8 +281,13 @@
 - [dimitri-br/micro-http-async](https://github.com/dimitri-br/micro-http-async) - Small, lightweight asynchrynous webserver written in Rust
 - [mauro-balades/r-shell](https://github.com/mauro-balades/r-shell) - A shell made in rust
 
+## Scala 
+
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
+
 ## Shell 
 
+- [TheAssassin/prebuilt-cmake](https://github.com/TheAssassin/prebuilt-cmake) - CMake builds, made on various distros. Very useful for CI purposes.
 - [IvanLudvig/clang-format-action](https://github.com/IvanLudvig/clang-format-action) - A github action to run clang-format on all C/C++ sources in a repository
 - [EugeneKay/git-jokes](https://github.com/EugeneKay/git-jokes) - Collection of questionably humorous git sayings
 - [mauro-balades/bash-plusplus](https://github.com/mauro-balades/bash-plusplus) - Bring bash to the next level
@@ -304,6 +310,7 @@
 - [mburakerman/reactplosive-modal](https://github.com/mburakerman/reactplosive-modal) - 🔥 A simple React modal component with an explosion effect
 - [TunnelMate/server](https://github.com/TunnelMate/server) - Server used for managing subdomains and IDs
 - [mauro-balades/debug-print](https://github.com/mauro-balades/debug-print) - Write meaningful messages for debugging, supported in multiple languages
+- [orchest/orchest](https://github.com/orchest/orchest) - Build data pipelines, the easy way 🛠️
 - [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
 - [mauro-balades/color-tornado](https://github.com/mauro-balades/color-tornado) - Choose randomly generated colors with a user-friendly and interactive interface.
 - [NightCatSama/vue-slider-component](https://github.com/NightCatSama/vue-slider-component) - 🌡 A highly customized slider component
