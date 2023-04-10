@@ -6,7 +6,6 @@
 ## Contents
 
 - [Assembly](#assembly)
-- [Blade](#blade)
 - [Brainfuck](#brainfuck)
 - [C](#c)
 - [C++](#c++)
@@ -45,10 +44,6 @@
 - [mauro-balades/afetch](https://github.com/mauro-balades/afetch) - A command-line system information tool written in x86 assembly language
 - [mauro-balades/hello-world](https://github.com/mauro-balades/hello-world) - hello-world in any programming language.
 
-## Blade 
-
-- [WillTheDeveloper/StudyPortal](https://github.com/WillTheDeveloper/StudyPortal) - Study Portal is a place where students can collaborate on work and access everything else they need as a student.
-
 ## Brainfuck 
 
 - [mauro-balades/brainfuck-plusplus](https://github.com/mauro-balades/brainfuck-plusplus) - A brainfuck interpreter and compiler with some extra functionality.
@@ -73,6 +68,7 @@
 
 ## C++ 
 
+- [felixjulianheitmann/licensecxx](https://github.com/felixjulianheitmann/licensecxx) - Software licensing, copy protection in C++
 - [Fuechs/Fux](https://github.com/Fuechs/Fux) - Flawless Unambiguous Programming - A Modern, Flexible Programming Language for All
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [jonahisadev/demmio](https://github.com/jonahisadev/demmio) - A software developer's replacement for PowerPoint
@@ -133,6 +129,7 @@
 
 ## HTML 
 
+- [proglangdesign/proglangdesign.github.io](https://github.com/proglangdesign/proglangdesign.github.io) - A website for the #proglangdesign community on freenode
 - [chr15m/DoodleCSS](https://github.com/chr15m/DoodleCSS) - A simple hand drawn HTML/CSS theme
 - [spikecodes/peacock](https://github.com/spikecodes/peacock) - 🦚 Open source experimental private-by-default web browser.
 - [mauro-balades/secondssincelastjavascriptframework](https://github.com/mauro-balades/secondssincelastjavascriptframework) - Get the up to date information about how many seconds has passed since last javascript framework has been published.
@@ -155,6 +152,7 @@
 
 ## JavaScript 
 
+- [thesephist/tabloid](https://github.com/thesephist/tabloid) - A minimal programming language inspired by clickbait headlines
 - [skiplang/skip](https://github.com/skiplang/skip) - A programming language to skip the things you have already computed
 - [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - Detect Browser, Engine, OS, CPU, and Device type/model from User-Agent & Client-Hints data. Supports browser & node.js environment.
 - [zspecza/system](https://github.com/zspecza/system) - A component system syntax for CSS
@@ -301,7 +299,6 @@
 
 ## TypeScript 
 
-- [mauro-balades/GarbleLang](https://github.com/mauro-balades/GarbleLang) - An esoteric language to do some experiments with it
 - [TypeFox/monaco-languageclient](https://github.com/TypeFox/monaco-languageclient) - NPM module to connect Monaco editor with language servers
 - [Basl-Language/Basl-Compiler](https://github.com/Basl-Language/Basl-Compiler) - :monkey: Compiler for the Backend Server Language (formerly known as Bad Ass Language).
 - [mauro-balades/url-motion](https://github.com/mauro-balades/url-motion) - Animate your browser url and make your website 1000 times more attractive.
