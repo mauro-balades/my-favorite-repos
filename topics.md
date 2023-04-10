@@ -179,7 +179,6 @@
 ## github 
 
 - [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) - A collection listing all Achievements available on the GitHub profile 🏆
-- [WillTheDeveloper/StudyPortal](https://github.com/WillTheDeveloper/StudyPortal) - Study Portal is a place where students can collaborate on work and access everything else they need as a student.
 - [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
 - [mauro-balades/mauro-balades](https://github.com/mauro-balades/mauro-balades) - My own github profile!
 
@@ -240,7 +239,6 @@
 ## laravel 
 
 - [blade-ui-kit/blade-ui-kit](https://github.com/blade-ui-kit/blade-ui-kit) - A set of renderless components to utilise in your Laravel Blade views.
-- [WillTheDeveloper/StudyPortal](https://github.com/WillTheDeveloper/StudyPortal) - Study Portal is a place where students can collaborate on work and access everything else they need as a student.
 
 ## library 
 
@@ -276,6 +274,9 @@
 
 ## others 
 
+- [proglangdesign/proglangdesign.github.io](https://github.com/proglangdesign/proglangdesign.github.io) - A website for the #proglangdesign community on freenode
+- [felixjulianheitmann/licensecxx](https://github.com/felixjulianheitmann/licensecxx) - Software licensing, copy protection in C++
+- [thesephist/tabloid](https://github.com/thesephist/tabloid) - A minimal programming language inspired by clickbait headlines
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
 - [snowball-lang/.github](https://github.com/snowball-lang/.github) - Snowballers, Unite!
 - [TheAssassin/prebuilt-cmake](https://github.com/TheAssassin/prebuilt-cmake) - CMake builds, made on various distros. Very useful for CI purposes.
@@ -289,7 +290,6 @@
 - [dstogov/ir](https://github.com/dstogov/ir) - Lightweight JIT Compilation Framework
 - [ml-for-nlp/build-your-search-engine](https://github.com/ml-for-nlp/build-your-search-engine) - A repository to learn basic data processing techniques (Wikipedia processing, feature selection), and use them for some basic Web query classification.
 - [mauro-balades/my-favorite-repos](https://github.com/mauro-balades/my-favorite-repos) - ⭐:octocat: A curated list of GitHub repositories I've starred!
-- [mauro-balades/GarbleLang](https://github.com/mauro-balades/GarbleLang) - An esoteric language to do some experiments with it
 - [rogue-shadowdancer/misbrands](https://github.com/rogue-shadowdancer/misbrands) - The world's most hated IT stickers
 - [TypeFox/monaco-languageclient](https://github.com/TypeFox/monaco-languageclient) - NPM module to connect Monaco editor with language servers
 - [Basl-Language/Basl-Compiler](https://github.com/Basl-Language/Basl-Compiler) - :monkey: Compiler for the Backend Server Language (formerly known as Bad Ass Language).
