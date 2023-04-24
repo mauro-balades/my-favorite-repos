@@ -94,6 +94,7 @@
 
 ## CSS 
 
+- [mauro-balades/pixel-perfect](https://github.com/mauro-balades/pixel-perfect) - Perfectly Designed, Pixel by Pixel
 - [mauro-balades/WhyIHateJS](https://github.com/mauro-balades/WhyIHateJS) - A curated list containing things that will make you cry, re-evaluate about your decisions in life and feel disappointed at yourself for even trying JS
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [mauro-balades/dotfiles](https://github.com/mauro-balades/dotfiles) - There is no place like ~/
@@ -271,6 +272,7 @@
 
 ## Rust 
 
+- [emm312/iron](https://github.com/emm312/iron) - 
 - [Champii/Rock](https://github.com/Champii/Rock) - Native language with Rust & LLVM
 - [mauro-balades/rect-isEven](https://github.com/mauro-balades/rect-isEven) - Check if a number is even for the rect programming language
 - [mauro-balades/img2ascii](https://github.com/mauro-balades/img2ascii) - Get ASCII art from your image
@@ -299,6 +301,8 @@
 
 ## TypeScript 
 
+- [mauro-balades/SnapKit](https://github.com/mauro-balades/SnapKit) - 🎨 Make your UI design dreams come true with SnapKit! 🚀
+- [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [TypeFox/monaco-languageclient](https://github.com/TypeFox/monaco-languageclient) - NPM module to connect Monaco editor with language servers
 - [Basl-Language/Basl-Compiler](https://github.com/Basl-Language/Basl-Compiler) - :monkey: Compiler for the Backend Server Language (formerly known as Bad Ass Language).
 - [mauro-balades/url-motion](https://github.com/mauro-balades/url-motion) - Animate your browser url and make your website 1000 times more attractive.
@@ -315,7 +319,7 @@
 - [mauro-balades/cdn-create](https://github.com/mauro-balades/cdn-create) - Create script/link tags to fetch your CDN resources and add them to your site at any time.
 - [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website
 - [mauro-balades/www](https://github.com/mauro-balades/www) - My own portfolio!
-- [mauro-balades/blobify](https://github.com/mauro-balades/blobify) - Create buautiful cursors for your website
+- [mauro-balades/cursora](https://github.com/mauro-balades/cursora) - Create buautiful cursors for your website
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [FriendlyCaptcha/friendly-challenge](https://github.com/FriendlyCaptcha/friendly-challenge) - The widget and docs for the proof of work challenge used in Friendly Captcha. Protect your websites and online services from spam and abuse with Friendly Captcha, a privacy-first anti-bot solution.
 - [JedWatson/react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
