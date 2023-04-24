@@ -17,6 +17,7 @@
 - [cpp](#cpp)
 - [css](#css)
 - [data-science](#data-science)
+- [deno](#deno)
 - [deployment](#deployment)
 - [devops](#devops)
 - [discord](#discord)
@@ -57,6 +58,7 @@
 - [security](#security)
 - [shell](#shell)
 - [sketch](#sketch)
+- [svelte](#svelte)
 - [swift](#swift)
 - [swiftui](#swiftui)
 - [testing](#testing)
@@ -141,6 +143,10 @@
 ## data-science 
 
 - [orchest/orchest](https://github.com/orchest/orchest) - Build data pipelines, the easy way 🛠️
+
+## deno 
+
+- [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 
 ## deployment 
 
@@ -274,6 +280,9 @@
 
 ## others 
 
+- [mauro-balades/SnapKit](https://github.com/mauro-balades/SnapKit) - 🎨 Make your UI design dreams come true with SnapKit! 🚀
+- [emm312/iron](https://github.com/emm312/iron) - 
+- [mauro-balades/pixel-perfect](https://github.com/mauro-balades/pixel-perfect) - Perfectly Designed, Pixel by Pixel
 - [mauro-balades/RTCM](https://github.com/mauro-balades/RTCM) - RTCM is a tool to monitor command performance in real-time.
 - [proglangdesign/proglangdesign.github.io](https://github.com/proglangdesign/proglangdesign.github.io) - A website for the #proglangdesign community on freenode
 - [felixjulianheitmann/licensecxx](https://github.com/felixjulianheitmann/licensecxx) - Software licensing, copy protection in C++
@@ -342,7 +351,7 @@
 - [mauro-balades/hands](https://github.com/mauro-balades/hands) - A repository storing my assets
 - [callstack/react-theme-provider](https://github.com/callstack/react-theme-provider) - A set of utilities that help you create your own React theming system in few easy steps
 - [mauro-balades/www](https://github.com/mauro-balades/www) - My own portfolio!
-- [mauro-balades/blobify](https://github.com/mauro-balades/blobify) - Create buautiful cursors for your website
+- [mauro-balades/cursora](https://github.com/mauro-balades/cursora) - Create buautiful cursors for your website
 - [gmrchk/kinet](https://github.com/gmrchk/kinet) - Kind of a most lightweight animation library of all. Changes value with that spring effect, but keeps the rest to you.
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [joshgaber/NovaUnit](https://github.com/joshgaber/NovaUnit) - Unit testing suite for Laravel Nova, built to extend PHPUnit
@@ -471,6 +480,10 @@
 
 - [maksmakuta/CProcessing](https://github.com/maksmakuta/CProcessing) - Processsing programming for C++
 
+## svelte 
+
+- [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
+
 ## swift 
 
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
@@ -485,11 +498,13 @@
 
 ## typescript 
 
+- [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [mauro-balades/url-motion](https://github.com/mauro-balades/url-motion) - Animate your browser url and make your website 1000 times more attractive.
 - [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website
 
 ## vue 
 
+- [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [NightCatSama/vue-slider-component](https://github.com/NightCatSama/vue-slider-component) - 🌡 A highly customized slider component
 - [biigpongsatorn/vue-slide-bar](https://github.com/biigpongsatorn/vue-slide-bar) - 🎢 A Simple Vue Slider Bar Component.
 
