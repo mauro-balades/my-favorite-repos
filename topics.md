@@ -11,6 +11,8 @@
 - [bash](#bash)
 - [bootstrap](#bootstrap)
 - [c](#c)
+- [chatgpt](#chatgpt)
+- [chatgpt-api](#chatgpt-api)
 - [cli](#cli)
 - [compiler](#compiler)
 - [continuous-integration](#continuous-integration)
@@ -53,6 +55,7 @@
 - [python](#python)
 - [python3](#python3)
 - [react](#react)
+- [reverse-engineering](#reverse-engineering)
 - [ruby](#ruby)
 - [rust](#rust)
 - [security](#security)
@@ -103,6 +106,14 @@
 - [robiot/xclicker](https://github.com/robiot/xclicker) - XClicker - Fast gui autoclicker for x11 linux desktops
 - [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter) - 🚀 Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more.
 - [mauro-balades/hello-world](https://github.com/mauro-balades/hello-world) - hello-world in any programming language.
+
+## chatgpt 
+
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
+
+## chatgpt-api 
+
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
 
 ## cli 
 
@@ -280,6 +291,13 @@
 
 ## others 
 
+- [scrwdrv/colorful-log](https://github.com/scrwdrv/colorful-log) - Simple, lightweight and good looking logger.
+- [mauro-balades/gravity](https://github.com/mauro-balades/gravity) - Gravity browser - Privacy is not an option, it's a must
+- [dyyllaann/simplefolio-react](https://github.com/dyyllaann/simplefolio-react) - A clean, beautiful and responsive React-based portfolio template for developers!
+- [mauro-useless-web/randomemoji](https://github.com/mauro-useless-web/randomemoji) - Generate a random sequence of emojis
+- [mauro-useless-web/whydidyouclickthis](https://github.com/mauro-useless-web/whydidyouclickthis) - Sometimes the journey is more important than the destination
+- [mauro-useless-web/whattimeisit](https://github.com/mauro-useless-web/whattimeisit) - Because knowing the time dramatically is the only way to know it.
+- [mauro-useless-web/infinite-building](https://github.com/mauro-useless-web/infinite-building) - Legend says that there will be a reward at 1K scrolls...
 - [mauro-balades/SnapKit](https://github.com/mauro-balades/SnapKit) - 🎨 Make your UI design dreams come true with SnapKit! 🚀
 - [emm312/iron](https://github.com/emm312/iron) - 
 - [mauro-balades/pixel-perfect](https://github.com/mauro-balades/pixel-perfect) - Perfectly Designed, Pixel by Pixel
@@ -322,6 +340,7 @@
 - [joaq-26/python-2022](https://github.com/joaq-26/python-2022) - Mi experiencias en python 2022
 - [curist/lxlox](https://github.com/curist/lxlox) - Lox derived programming language
 - [mauro-balades/debug-print](https://github.com/mauro-balades/debug-print) - Write meaningful messages for debugging, supported in multiple languages
+- [mauro-balades/breeze](https://github.com/mauro-balades/breeze) - Breeze is a light-weight, highly-customizable build tool for different languages such as C(++) and Java
 - [jesseduffield/OK](https://github.com/jesseduffield/OK) - Welcome to the future of programming languages: OK?
 - [spikecodes/peacock](https://github.com/spikecodes/peacock) - 🦚 Open source experimental private-by-default web browser.
 - [mauro-balades/CloneFish](https://github.com/mauro-balades/CloneFish) - Clone any website and convert it into a phishing website (Look at note in the readme)
@@ -340,14 +359,10 @@
 - [samuelmarina/is-even](https://github.com/samuelmarina/is-even) - Is a number even?
 - [mauro-balades/color-tornado](https://github.com/mauro-balades/color-tornado) - Choose randomly generated colors with a user-friendly and interactive interface.
 - [WillTheDeveloper/RectDocsJS](https://github.com/WillTheDeveloper/RectDocsJS) - Updated Rect Docs created with NextJS and Tailwind
-- [wonoly/ui](https://github.com/wonoly/ui) - UI elements used all over @wonoly's services.
-- [Wonoly-Search/search](https://github.com/Wonoly-Search/search) - A private, user-friendly search engine made by @wonoly
 - [CWeb3-project/CWeb3](https://github.com/CWeb3-project/CWeb3) - a step on step guide on what not to do in life.
 - [TunnelMate/client](https://github.com/TunnelMate/client) - TunnelMate is a secure tool that allows developers to easily expose their local development environment to the internet, providing a seamless way to share their work with the world.
-- [Wonoly-Search/packages](https://github.com/Wonoly-Search/packages) - Wonoly's instant answer packages
 - [aosabook/500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
 - [mauro-balades/cdn-create](https://github.com/mauro-balades/cdn-create) - Create script/link tags to fetch your CDN resources and add them to your site at any time.
-- [wonoly/id-gen](https://github.com/wonoly/id-gen) - 🆔 Simple ID generator for anything that needs identifying.
 - [mauro-balades/hands](https://github.com/mauro-balades/hands) - A repository storing my assets
 - [callstack/react-theme-provider](https://github.com/callstack/react-theme-provider) - A set of utilities that help you create your own React theming system in few easy steps
 - [mauro-balades/www](https://github.com/mauro-balades/www) - My own portfolio!
@@ -365,7 +380,6 @@
 - [berzniz/github_pr_tree](https://github.com/berzniz/github_pr_tree) - Add a file tree to GitHub's Pull Request
 - [acdemiralp/cmake_templates](https://github.com/acdemiralp/cmake_templates) - Concise CMake templates for creating C++ libraries or executables.
 - [mauro-balades/cpp-html-parser](https://github.com/mauro-balades/cpp-html-parser) - A HTML tree generator library for C(PP)
-- [wonoly/roadmap](https://github.com/wonoly/roadmap) - The public roadmap for wonoly
 - [mauro-balades/cclipboard](https://github.com/mauro-balades/cclipboard) - A multi-platform utility module to handle common tasks with the clipboard for C/C++
 - [mauro-balades/site-head](https://github.com/mauro-balades/site-head) - Create &lt;head&gt; tags for your website to focus on the website rather than the meta tags
 - [JedWatson/react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
@@ -375,7 +389,6 @@
 - [cheese-official/.github](https://github.com/cheese-official/.github) - Cheese is a dairy product produced in wide ranges of flavors, textures and forms by coagulation of the milk protein casein.
 - [mauro-balades/py-include](https://github.com/mauro-balades/py-include) - Include python files on runtime.
 - [diejuse/pseudo3dbash](https://github.com/diejuse/pseudo3dbash) - A prototype of a pseudo 3d-engine made in Bash.
-- [wonoly/www](https://github.com/wonoly/www) - The main website used for wonoly
 - [dimitri-br/micro-http-async](https://github.com/dimitri-br/micro-http-async) - Small, lightweight asynchrynous webserver written in Rust
 - [mauro-balades/brainfuck-plusplus](https://github.com/mauro-balades/brainfuck-plusplus) - A brainfuck interpreter and compiler with some extra functionality.
 - [mauro-balades/socket-library-c](https://github.com/mauro-balades/socket-library-c) - Librería para implementar comunicación entre un servidor y cliente
@@ -443,6 +456,7 @@
 
 ## python 
 
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
 - [orchest/orchest](https://github.com/orchest/orchest) - Build data pipelines, the easy way 🛠️
 - [mauro-balades/PyTests](https://github.com/mauro-balades/PyTests) - Write small or big tests with PyTests a (testing framework)
 - [mauro-b-cringe-zone/meeSeeks-Kirkland](https://github.com/mauro-b-cringe-zone/meeSeeks-Kirkland) - Mee6 (Kirkland) | El mejor bot de la historia
@@ -456,6 +470,10 @@
 
 - [mburakerman/reactplosive-modal](https://github.com/mburakerman/reactplosive-modal) - 🔥 A simple React modal component with an explosion effect
 - [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website
+
+## reverse-engineering 
+
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
 
 ## ruby 
 
