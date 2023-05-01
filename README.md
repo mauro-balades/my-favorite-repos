@@ -129,6 +129,10 @@
 
 ## HTML 
 
+- [mauro-useless-web/randomemoji](https://github.com/mauro-useless-web/randomemoji) - Generate a random sequence of emojis
+- [mauro-useless-web/whydidyouclickthis](https://github.com/mauro-useless-web/whydidyouclickthis) - Sometimes the journey is more important than the destination
+- [mauro-useless-web/whattimeisit](https://github.com/mauro-useless-web/whattimeisit) - Because knowing the time dramatically is the only way to know it.
+- [mauro-useless-web/infinite-building](https://github.com/mauro-useless-web/infinite-building) - Legend says that there will be a reward at 1K scrolls...
 - [proglangdesign/proglangdesign.github.io](https://github.com/proglangdesign/proglangdesign.github.io) - A website for the #proglangdesign community on freenode
 - [chr15m/DoodleCSS](https://github.com/chr15m/DoodleCSS) - A simple hand drawn HTML/CSS theme
 - [spikecodes/peacock](https://github.com/spikecodes/peacock) - 🦚 Open source experimental private-by-default web browser.
@@ -152,6 +156,7 @@
 
 ## JavaScript 
 
+- [mauro-balades/gravity](https://github.com/mauro-balades/gravity) - Gravity browser - Privacy is not an option, it's a must
 - [thesephist/tabloid](https://github.com/thesephist/tabloid) - A minimal programming language inspired by clickbait headlines
 - [skiplang/skip](https://github.com/skiplang/skip) - A programming language to skip the things you have already computed
 - [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - Detect Browser, Engine, OS, CPU, and Device type/model from User-Agent & Client-Hints data. Supports browser & node.js environment.
@@ -161,8 +166,6 @@
 - [utmp/ht](https://github.com/utmp/ht) - Hacker's Terminal - Pretend To Be A Hacker
 - [mauro-balades/is-even](https://github.com/mauro-balades/is-even) - Checking if a number is even can get difficult sometimes. This repository contains different solutions for one problem. If you are questioning why this repository exists, please visit r/programmerhumo
 - [WillTheDeveloper/RectDocsJS](https://github.com/WillTheDeveloper/RectDocsJS) - Updated Rect Docs created with NextJS and Tailwind
-- [wonoly/ui](https://github.com/wonoly/ui) - UI elements used all over @wonoly's services.
-- [Wonoly-Search/packages](https://github.com/Wonoly-Search/packages) - Wonoly's instant answer packages
 - [aosabook/500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
 - [gautamkrishnar/nothing-private](https://github.com/gautamkrishnar/nothing-private) - Do you think you are safe using private browsing or incognito mode?. :smile: :imp: This will prove that you're wrong.
 - [callstack/react-theme-provider](https://github.com/callstack/react-theme-provider) - A set of utilities that help you create your own React theming system in few easy steps
@@ -221,7 +224,6 @@
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [mauro-balades/hands](https://github.com/mauro-balades/hands) - A repository storing my assets
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
-- [wonoly/roadmap](https://github.com/wonoly/roadmap) - The public roadmap for wonoly
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [cheese-official/.github](https://github.com/cheese-official/.github) - Cheese is a dairy product produced in wide ranges of flavors, textures and forms by coagulation of the milk protein casein.
 - [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
@@ -235,15 +237,14 @@
 ## PHP 
 
 - [snowball-lang/www](https://github.com/snowball-lang/www) - 🌐 Official website for snowball containing documentation, homepage and package registry.
-- [wonoly/id-gen](https://github.com/wonoly/id-gen) - 🆔 Simple ID generator for anything that needs identifying.
 - [blade-ui-kit/blade-ui-kit](https://github.com/blade-ui-kit/blade-ui-kit) - A set of renderless components to utilise in your Laravel Blade views.
 - [joshgaber/NovaUnit](https://github.com/joshgaber/NovaUnit) - Unit testing suite for Laravel Nova, built to extend PHPUnit
-- [wonoly/www](https://github.com/wonoly/www) - The main website used for wonoly
 - [RobThree/TwoFactorAuth](https://github.com/RobThree/TwoFactorAuth) - PHP library for Two Factor Authentication (TFA / 2FA)
 - [maurobalades-contributions/laravel](https://github.com/maurobalades-contributions/laravel) - A PHP framework for web artisans.
 
 ## Python 
 
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
 - [snowball-lang/SnowBot](https://github.com/snowball-lang/SnowBot) - 🤖 A discord bot that can compile and execute snowball code.
 - [ml-for-nlp/build-your-search-engine](https://github.com/ml-for-nlp/build-your-search-engine) - A repository to learn basic data processing techniques (Wikipedia processing, feature selection), and use them for some basic Web query classification.
 - [mauro-balades/breeze-rect](https://github.com/mauro-balades/breeze-rect) - A breeze plugin for the Rect programming language
@@ -253,7 +254,6 @@
 - [return-node/python](https://github.com/return-node/python) - A python module used to return a node
 - [shreder95ua/teasharp](https://github.com/shreder95ua/teasharp) - My new begginer-friendly programming language
 - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨
-- [Wonoly-Search/search](https://github.com/Wonoly-Search/search) - A private, user-friendly search engine made by @wonoly
 - [mauro-balades/yate](https://github.com/mauro-balades/yate) - Yet another template engine. Yate is a small, fast html template engine.
 - [mauro-balades/py-include](https://github.com/mauro-balades/py-include) - Include python files on runtime.
 - [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
@@ -274,6 +274,7 @@
 
 - [emm312/iron](https://github.com/emm312/iron) - 
 - [Champii/Rock](https://github.com/Champii/Rock) - Native language with Rust & LLVM
+- [mauro-balades/breeze](https://github.com/mauro-balades/breeze) - Breeze is a light-weight, highly-customizable build tool for different languages such as C(++) and Java
 - [mauro-balades/rect-isEven](https://github.com/mauro-balades/rect-isEven) - Check if a number is even for the rect programming language
 - [mauro-balades/img2ascii](https://github.com/mauro-balades/img2ascii) - Get ASCII art from your image
 - [mauro-balades/is-url](https://github.com/mauro-balades/is-url) - A rust library to check if a string is an URL
@@ -301,6 +302,8 @@
 
 ## TypeScript 
 
+- [scrwdrv/colorful-log](https://github.com/scrwdrv/colorful-log) - Simple, lightweight and good looking logger.
+- [dyyllaann/simplefolio-react](https://github.com/dyyllaann/simplefolio-react) - A clean, beautiful and responsive React-based portfolio template for developers!
 - [mauro-balades/SnapKit](https://github.com/mauro-balades/SnapKit) - 🎨 Make your UI design dreams come true with SnapKit! 🚀
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [TypeFox/monaco-languageclient](https://github.com/TypeFox/monaco-languageclient) - NPM module to connect Monaco editor with language servers
