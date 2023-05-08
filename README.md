@@ -272,6 +272,7 @@
 
 ## Rust 
 
+- [snowball-lang/snowball-rs](https://github.com/snowball-lang/snowball-rs) - (WIP): [borken] rewrite for the snowball programming language in rust!
 - [emm312/iron](https://github.com/emm312/iron) - 
 - [Champii/Rock](https://github.com/Champii/Rock) - Native language with Rust & LLVM
 - [mauro-balades/breeze](https://github.com/mauro-balades/breeze) - Breeze is a light-weight, highly-customizable build tool for different languages such as C(++) and Java
