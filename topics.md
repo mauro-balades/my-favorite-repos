@@ -291,6 +291,7 @@
 
 ## others 
 
+- [snowball-lang/snowball-rs](https://github.com/snowball-lang/snowball-rs) - (WIP): [borken] rewrite for the snowball programming language in rust!
 - [scrwdrv/colorful-log](https://github.com/scrwdrv/colorful-log) - Simple, lightweight and good looking logger.
 - [mauro-balades/gravity](https://github.com/mauro-balades/gravity) - Gravity browser - Privacy is not an option, it's a must
 - [dyyllaann/simplefolio-react](https://github.com/dyyllaann/simplefolio-react) - A clean, beautiful and responsive React-based portfolio template for developers!
