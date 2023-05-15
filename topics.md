@@ -210,6 +210,7 @@
 
 ## hacktoberfest 
 
+- [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs) - 🦕 A collection of Orpheus (Hack Club's mascot) drawings!
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [gautamkrishnar/nothing-private](https://github.com/gautamkrishnar/nothing-private) - Do you think you are safe using private browsing or incognito mode?. :smile: :imp: This will prove that you're wrong.
@@ -291,6 +292,9 @@
 
 ## others 
 
+- [DestroyerXyz/upstash-kv](https://github.com/DestroyerXyz/upstash-kv) - Simple Upstash Redis client based on @vercel/kv
+- [sander15/CobraR](https://github.com/sander15/CobraR) - Website for information related to the different Mustangs Cobra R!
+- [ric2b/Vivaldi-browser](https://github.com/ric2b/Vivaldi-browser) - Source code for the Vivali browser, taken from
 - [snowball-lang/snowball-rs](https://github.com/snowball-lang/snowball-rs) - (WIP): [borken] rewrite for the snowball programming language in rust!
 - [scrwdrv/colorful-log](https://github.com/scrwdrv/colorful-log) - Simple, lightweight and good looking logger.
 - [mauro-balades/gravity](https://github.com/mauro-balades/gravity) - Gravity browser - Privacy is not an option, it's a must
@@ -315,7 +319,7 @@
 - [cpp-linter/cpp-linter-action](https://github.com/cpp-linter/cpp-linter-action) - Lint C/C++ code with clang-format and clang-tidy then post annotations and comments with faulty results.
 - [IvanLudvig/clang-format-action](https://github.com/IvanLudvig/clang-format-action) - A github action to run clang-format on all C/C++ sources in a repository
 - [Ninesquared81/caretbang](https://github.com/Ninesquared81/caretbang) - A stack-based esoteric langauge
-- [Nik-Nothing/binfetch](https://github.com/Nik-Nothing/binfetch) - Neofetch inspired utility for binaries. CC0
+- [Niki-Nu/binfetch](https://github.com/Niki-Nu/binfetch) - Neofetch inspired utility for binaries. CC0
 - [dstogov/ir](https://github.com/dstogov/ir) - Lightweight JIT Compilation Framework
 - [ml-for-nlp/build-your-search-engine](https://github.com/ml-for-nlp/build-your-search-engine) - A repository to learn basic data processing techniques (Wikipedia processing, feature selection), and use them for some basic Web query classification.
 - [mauro-balades/my-favorite-repos](https://github.com/mauro-balades/my-favorite-repos) - ⭐:octocat: A curated list of GitHub repositories I've starred!
