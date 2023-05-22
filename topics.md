@@ -13,6 +13,8 @@
 - [c](#c)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
+- [chrome](#chrome)
+- [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [compiler](#compiler)
 - [continuous-integration](#continuous-integration)
@@ -26,6 +28,7 @@
 - [docker](#docker)
 - [documentation](#documentation)
 - [electron](#electron)
+- [firefox](#firefox)
 - [framework](#framework)
 - [git](#git)
 - [github](#github)
@@ -115,6 +118,14 @@
 
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
 
+## chrome 
+
+- [zombieFox/nightTab](https://github.com/zombieFox/nightTab) - A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks with nightTab.
+
+## chrome-extension 
+
+- [zombieFox/nightTab](https://github.com/zombieFox/nightTab) - A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks with nightTab.
+
 ## cli 
 
 - [digitallyserviced/tdfgo](https://github.com/digitallyserviced/tdfgo) - TheDraw font renderer in Go
@@ -182,6 +193,10 @@
 ## electron 
 
 - [Electron-Store/electron-app-store](https://github.com/Electron-Store/electron-app-store) - A Cross-Platform App Store for Electron.js Apps
+
+## firefox 
+
+- [zombieFox/nightTab](https://github.com/zombieFox/nightTab) - A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks with nightTab.
 
 ## framework 
 
@@ -292,6 +307,7 @@
 
 ## others 
 
+- [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
 - [DestroyerXyz/upstash-kv](https://github.com/DestroyerXyz/upstash-kv) - Simple Upstash Redis client based on @vercel/kv
 - [sander15/CobraR](https://github.com/sander15/CobraR) - Website for information related to the different Mustangs Cobra R!
 - [ric2b/Vivaldi-browser](https://github.com/ric2b/Vivaldi-browser) - Source code for the Vivali browser, taken from
@@ -319,7 +335,7 @@
 - [cpp-linter/cpp-linter-action](https://github.com/cpp-linter/cpp-linter-action) - Lint C/C++ code with clang-format and clang-tidy then post annotations and comments with faulty results.
 - [IvanLudvig/clang-format-action](https://github.com/IvanLudvig/clang-format-action) - A github action to run clang-format on all C/C++ sources in a repository
 - [Ninesquared81/caretbang](https://github.com/Ninesquared81/caretbang) - A stack-based esoteric langauge
-- [Niki-Nu/binfetch](https://github.com/Niki-Nu/binfetch) - Neofetch inspired utility for binaries. CC0
+- [Niki-Nu/binfetch](https://github.com/Niki-Nu/binfetch) - A Neofetch inspired binary analyzer. CC0
 - [dstogov/ir](https://github.com/dstogov/ir) - Lightweight JIT Compilation Framework
 - [ml-for-nlp/build-your-search-engine](https://github.com/ml-for-nlp/build-your-search-engine) - A repository to learn basic data processing techniques (Wikipedia processing, feature selection), and use them for some basic Web query classification.
 - [mauro-balades/my-favorite-repos](https://github.com/mauro-balades/my-favorite-repos) - ⭐:octocat: A curated list of GitHub repositories I've starred!
