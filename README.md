@@ -262,7 +262,7 @@
 - [mauro-balades/py-include](https://github.com/mauro-balades/py-include) - Include python files on runtime.
 - [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
 - [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
-- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
+- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [mauro-balades/PyTests](https://github.com/mauro-balades/PyTests) - Write small or big tests with PyTests a (testing framework)
 - [mauro-balades/number-recognizer](https://github.com/mauro-balades/number-recognizer) - Recognize numbers from an (28 x 28) image using neural networks
 - [mauro-balades/expross](https://github.com/mauro-balades/expross) - Expross is a lightweight webserver to introduce JavaScript developers familiar with Express to Python.
@@ -307,6 +307,7 @@
 
 ## TypeScript 
 
+- [mauro-balades/password-judger](https://github.com/mauro-balades/password-judger) - Does he bite? no, he judges you
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
 - [DestroyerXyz/upstash-kv](https://github.com/DestroyerXyz/upstash-kv) - Simple Upstash Redis client based on @vercel/kv
 - [scrwdrv/colorful-log](https://github.com/scrwdrv/colorful-log) - Simple, lightweight and good looking logger.
