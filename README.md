@@ -129,7 +129,6 @@
 
 ## HTML 
 
-- [sander15/CobraR](https://github.com/sander15/CobraR) - Website for information related to the different Mustangs Cobra R!
 - [mauro-useless-web/randomemoji](https://github.com/mauro-useless-web/randomemoji) - Generate a random sequence of emojis
 - [mauro-useless-web/whydidyouclickthis](https://github.com/mauro-useless-web/whydidyouclickthis) - Sometimes the journey is more important than the destination
 - [mauro-useless-web/whattimeisit](https://github.com/mauro-useless-web/whattimeisit) - Because knowing the time dramatically is the only way to know it.
@@ -215,7 +214,7 @@
 - [snowball-lang/.github](https://github.com/snowball-lang/.github) - Snowballers, Unite!
 - [qexat/Vism](https://github.com/qexat/Vism) - Specification for the Vism esoteric programming language.
 - [cpp-linter/cpp-linter-action](https://github.com/cpp-linter/cpp-linter-action) - Lint C/C++ code with clang-format and clang-tidy then post annotations, comments, and step summary with results.
-- [Niki-Nu/binfetch](https://github.com/Niki-Nu/binfetch) - A Neofetch inspired binary analyzer. CC0
+- [Im-0xea/binfetch](https://github.com/Im-0xea/binfetch) - A Neofetch inspired binary analyzer. CC0
 - [mauro-balades/my-favorite-repos](https://github.com/mauro-balades/my-favorite-repos) - ⭐:octocat: A curated list of GitHub repositories I've starred!
 - [rogue-shadowdancer/misbrands](https://github.com/rogue-shadowdancer/misbrands) - The world's most hated IT stickers
 - [jozefg/learn-tt](https://github.com/jozefg/learn-tt) - A collection of resources for learning type theory and type theory adjacent fields.
@@ -248,6 +247,7 @@
 
 ## Python 
 
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 123 stars and 172 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover and connect with social media accounts across multiple platforms using just a username with SocialTrackr, the ultimate account hunting software.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
 - [snowball-lang/SnowBot](https://github.com/snowball-lang/SnowBot) - 🤖 A discord bot that can compile and execute snowball code.
