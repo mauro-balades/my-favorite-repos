@@ -307,8 +307,10 @@
 
 ## others 
 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 123 stars and 172 forks 🌟
-- [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover and connect with social media accounts across multiple platforms using just a username with SocialTrackr, the ultimate account hunting software.
+- [Khhs167/memstack](https://github.com/Khhs167/memstack) - A basic linked-list based tool for managing memory
+- [mauro-balades/ChromeVaultExtract](https://github.com/mauro-balades/ChromeVaultExtract) - a powerful software tool designed to effortlessly retrieve and extract saved passwords from the Google Chrome web browser.
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 126 stars and 172 forks 🌟
+- [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username with SocialTrackr, the ultimate account hunting software.
 - [mauro-balades/password-judger](https://github.com/mauro-balades/password-judger) - Does he bite? no, he judges you
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
 - [DestroyerXyz/upstash-kv](https://github.com/DestroyerXyz/upstash-kv) - Simple Upstash Redis client based on @vercel/kv
@@ -337,7 +339,7 @@
 - [cpp-linter/cpp-linter-action](https://github.com/cpp-linter/cpp-linter-action) - Lint C/C++ code with clang-format and clang-tidy then post annotations, comments, and step summary with results.
 - [IvanLudvig/clang-format-action](https://github.com/IvanLudvig/clang-format-action) - A github action to run clang-format on all C/C++ sources in a repository
 - [Ninesquared81/caretbang](https://github.com/Ninesquared81/caretbang) - A stack-based esoteric langauge
-- [Im-0xea/binfetch](https://github.com/Im-0xea/binfetch) - A Neofetch inspired binary analyzer. CC0
+- [Im-0xea/binfetch](https://github.com/Im-0xea/binfetch) - A Neofetch inspired binary analyzer.
 - [dstogov/ir](https://github.com/dstogov/ir) - Lightweight JIT Compilation Framework
 - [ml-for-nlp/build-your-search-engine](https://github.com/ml-for-nlp/build-your-search-engine) - A repository to learn basic data processing techniques (Wikipedia processing, feature selection), and use them for some basic Web query classification.
 - [mauro-balades/my-favorite-repos](https://github.com/mauro-balades/my-favorite-repos) - ⭐:octocat: A curated list of GitHub repositories I've starred!
@@ -418,7 +420,7 @@
 - [mauro-balades/socket-library-c](https://github.com/mauro-balades/socket-library-c) - Librería para implementar comunicación entre un servidor y cliente
 - [mauro-balades/afetch](https://github.com/mauro-balades/afetch) - A command-line system information tool written in x86 assembly language
 - [mauro-balades/npm-name-cli](https://github.com/mauro-balades/npm-name-cli) - Check whether a package or organization name is available on npm
-- [hehuapei/visitor-badge](https://github.com/hehuapei/visitor-badge) - A badge generator service to count visitors of your markdown file.
+- [hehuapei/visitor-badge](https://github.com/hehuapei/visitor-badge) - A badge generator service to count visitors of your markdown file. Fork From:jwenjian/visitor-badge
 - [mauro-balades/sf](https://github.com/mauro-balades/sf) - A small system information fetcher.
 - [mauro-balades/card-me](https://github.com/mauro-balades/card-me) - Create personal cards for your profile
 - [mauro-balades/dotfiles](https://github.com/mauro-balades/dotfiles) - There is no place like ~/
