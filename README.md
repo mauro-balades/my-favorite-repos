@@ -165,7 +165,7 @@
 - [zspecza/system](https://github.com/zspecza/system) - A component system syntax for CSS
 - [curist/lxlox](https://github.com/curist/lxlox) - Lox derived programming language
 - [aemkei/jsfuck](https://github.com/aemkei/jsfuck) - Write any JavaScript with 6 Characters: []()!+
-- [utmp/ht](https://github.com/utmp/ht) - Hacker's Terminal - Pretend To Be A Hacker
+- [attu96/ht](https://github.com/attu96/ht) - Hacker's Terminal - Pretend To Be A Hacker
 - [mauro-balades/is-even](https://github.com/mauro-balades/is-even) - Checking if a number is even can get difficult sometimes. This repository contains different solutions for one problem. If you are questioning why this repository exists, please visit r/programmerhumo
 - [WillTheDeveloper/RectDocsJS](https://github.com/WillTheDeveloper/RectDocsJS) - Updated Rect Docs created with NextJS and Tailwind
 - [aosabook/500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
@@ -210,6 +210,7 @@
 
 ## Others 
 
+- [payloadbox/xss-payload-list](https://github.com/payloadbox/xss-payload-list) - 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List
 - [ric2b/Vivaldi-browser](https://github.com/ric2b/Vivaldi-browser) - Source code for the Vivali browser, taken from
 - [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs) - 🦕 A collection of Orpheus (Hack Club's mascot) drawings!
 - [snowball-lang/.github](https://github.com/snowball-lang/.github) - Snowballers, Unite!
@@ -249,13 +250,14 @@
 ## Python 
 
 - [mauro-balades/ChromeVaultExtract](https://github.com/mauro-balades/ChromeVaultExtract) - a powerful software tool designed to effortlessly retrieve and extract saved passwords from the Google Chrome web browser.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 126 stars and 172 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 127 stars and 172 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username with SocialTrackr, the ultimate account hunting software.
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [snowball-lang/SnowBot](https://github.com/snowball-lang/SnowBot) - 🤖 A discord bot that can compile and execute snowball code.
 - [ml-for-nlp/build-your-search-engine](https://github.com/ml-for-nlp/build-your-search-engine) - A repository to learn basic data processing techniques (Wikipedia processing, feature selection), and use them for some basic Web query classification.
 - [mauro-balades/breeze-rect](https://github.com/mauro-balades/breeze-rect) - A breeze plugin for the Rect programming language
 - [RedditWritesCode/RedditWritesCode](https://github.com/RedditWritesCode/RedditWritesCode) - The mirror of the series "The most upvoted comment picks the next line of code" on Reddit by https://www.reddit.com/user/AggravatingCorner133/
+- [TunnelMate/server](https://github.com/TunnelMate/server) - Server used for managing subdomains and IDs
 - [joaq-26/python-2022](https://github.com/joaq-26/python-2022) - Mi experiencias en python 2022
 - [mauro-balades/CloneFish](https://github.com/mauro-balades/CloneFish) - Clone any website and convert it into a phishing website (Look at note in the readme)
 - [return-node/python](https://github.com/return-node/python) - A python module used to return a node
@@ -279,6 +281,8 @@
 
 ## Rust 
 
+- [emm312/eepy](https://github.com/emm312/eepy) - 
+- [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - A SQL like query language called GQL (Git Query Language) to perform queries on your local .git files with functions, conditions and statements
 - [snowball-lang/snowball-rs](https://github.com/snowball-lang/snowball-rs) - (WIP): [borken] rewrite for the snowball programming language in rust!
 - [emm312/iron](https://github.com/emm312/iron) - 
 - [Champii/Rock](https://github.com/Champii/Rock) - Native language with Rust & LLVM
@@ -310,6 +314,7 @@
 
 ## TypeScript 
 
+- [matteobortolazzo/stylo](https://github.com/matteobortolazzo/stylo) - A new Design-as-code language side project.
 - [mauro-balades/password-judger](https://github.com/mauro-balades/password-judger) - Does he bite? no, he judges you
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
 - [DestroyerXyz/upstash-kv](https://github.com/DestroyerXyz/upstash-kv) - Simple Upstash Redis client based on @vercel/kv
@@ -323,7 +328,6 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [mauro-balades/aurora.css](https://github.com/mauro-balades/aurora.css) - A css preprocessor that allows you to write less and style more with an overall clear and beginner-friendly syntax
 - [mburakerman/reactplosive-modal](https://github.com/mburakerman/reactplosive-modal) - 🔥 A simple React modal component with an explosion effect
-- [TunnelMate/server](https://github.com/TunnelMate/server) - Server used for managing subdomains and IDs
 - [mauro-balades/debug-print](https://github.com/mauro-balades/debug-print) - Write meaningful messages for debugging, supported in multiple languages
 - [orchest/orchest](https://github.com/orchest/orchest) - Build data pipelines, the easy way 🛠️
 - [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
