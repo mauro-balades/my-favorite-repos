@@ -78,7 +78,7 @@
 - [dibsonthis/Glide--old](https://github.com/dibsonthis/Glide--old) - Glide programming language
 - [snowball-lang/snowball](https://github.com/snowball-lang/snowball) - [WIP] 🐱 Snowball is a low-weight, statically typed, object oriented programming language with garbage collector and module system.
 - [mauro-balades/rect-dictionaries](https://github.com/mauro-balades/rect-dictionaries) - Dictionaries support for the rect programming language
-- [dauw-lang/dauw](https://github.com/dauw-lang/dauw) - Interpreter and compiler for the Dauw programming language
+- [danae/dauw](https://github.com/danae/dauw) - Interpreter and compiler for the Dauw programming language
 - [qiubit/lattec](https://github.com/qiubit/lattec) - LLVM based compiler for simple OO programming language, made for compilers university class
 - [Haruno19/CustomQuest](https://github.com/Haruno19/CustomQuest) - Modular turn-based-RPG-like battle simulator with JSON configuration files
 - [google/googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework
@@ -157,6 +157,7 @@
 
 ## JavaScript 
 
+- [DevTaube/iolitec](https://github.com/DevTaube/iolitec) - A statically typed, bytecode-compiled language
 - [zombieFox/nightTab](https://github.com/zombieFox/nightTab) - A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks with nightTab.
 - [mauro-balades/gravity](https://github.com/mauro-balades/gravity) - Gravity browser - Privacy is not an option, it's a must
 - [thesephist/tabloid](https://github.com/thesephist/tabloid) - A minimal programming language inspired by clickbait headlines
@@ -281,6 +282,7 @@
 
 ## Rust 
 
+- [mauro-balades/RetroByte](https://github.com/mauro-balades/RetroByte) - Minimalist, nostalgic, text-based OS.
 - [emm312/eepy](https://github.com/emm312/eepy) - 
 - [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - A SQL like query language called GQL (Git Query Language) to perform queries on your local .git files with functions, conditions and statements
 - [snowball-lang/snowball-rs](https://github.com/snowball-lang/snowball-rs) - (WIP): [borken] rewrite for the snowball programming language in rust!
