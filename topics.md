@@ -144,7 +144,7 @@
 - [ALANVF/star](https://github.com/ALANVF/star) - An experimental programming language that's made to be powerful, productive, and predictable
 - [MarkLeone/WeekendCompiler](https://github.com/MarkLeone/WeekendCompiler) - An example LLVM-based compiler for a subset of C.
 - [snowball-lang/snowball](https://github.com/snowball-lang/snowball) - [WIP] 🐱 Snowball is a low-weight, statically typed, object oriented programming language with garbage collector and module system.
-- [dauw-lang/dauw](https://github.com/dauw-lang/dauw) - Interpreter and compiler for the Dauw programming language
+- [danae/dauw](https://github.com/danae/dauw) - Interpreter and compiler for the Dauw programming language
 - [qiubit/lattec](https://github.com/qiubit/lattec) - LLVM based compiler for simple OO programming language, made for compilers university class
 
 ## continuous-integration 
@@ -316,6 +316,8 @@
 
 ## others 
 
+- [DevTaube/iolitec](https://github.com/DevTaube/iolitec) - A statically typed, bytecode-compiled language
+- [mauro-balades/RetroByte](https://github.com/mauro-balades/RetroByte) - Minimalist, nostalgic, text-based OS.
 - [payloadbox/xss-payload-list](https://github.com/payloadbox/xss-payload-list) - 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List
 - [emm312/eepy](https://github.com/emm312/eepy) - 
 - [Khhs167/memstack](https://github.com/Khhs167/memstack) - A basic linked-list based tool for managing memory
