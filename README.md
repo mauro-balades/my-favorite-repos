@@ -50,6 +50,7 @@
 
 ## C 
 
+- [c3lang/c3c](https://github.com/c3lang/c3c) - Compiler for the C3 language
 - [Khhs167/memstack](https://github.com/Khhs167/memstack) - A basic linked-list based tool for managing memory
 - [Ninesquared81/caretbang](https://github.com/Ninesquared81/caretbang) - A stack-based esoteric langauge
 - [dstogov/ir](https://github.com/dstogov/ir) - Lightweight JIT Compilation Framework
@@ -68,6 +69,7 @@
 
 ## C++ 
 
+- [RainingComputers/ShnooTalk](https://github.com/RainingComputers/ShnooTalk) - ShnooTalk is a new programming language
 - [felixjulianheitmann/licensecxx](https://github.com/felixjulianheitmann/licensecxx) - Software licensing, copy protection in C++
 - [Fuechs/Fux](https://github.com/Fuechs/Fux) - Flawless Unambiguous Programming - A Modern, Flexible Programming Language for All
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
@@ -157,7 +159,8 @@
 
 ## JavaScript 
 
-- [DevTaube/iolitec](https://github.com/DevTaube/iolitec) - A statically typed, bytecode-compiled language
+- [TypeSafeSchwalbe/hasm](https://github.com/TypeSafeSchwalbe/hasm) - Simple assembly language
+- [TypeSafeSchwalbe/iolitec](https://github.com/TypeSafeSchwalbe/iolitec) - A statically typed, bytecode-compiled language
 - [zombieFox/nightTab](https://github.com/zombieFox/nightTab) - A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks with nightTab.
 - [mauro-balades/gravity](https://github.com/mauro-balades/gravity) - Gravity browser - Privacy is not an option, it's a must
 - [thesephist/tabloid](https://github.com/thesephist/tabloid) - A minimal programming language inspired by clickbait headlines
@@ -166,7 +169,7 @@
 - [zspecza/system](https://github.com/zspecza/system) - A component system syntax for CSS
 - [curist/lxlox](https://github.com/curist/lxlox) - Lox derived programming language
 - [aemkei/jsfuck](https://github.com/aemkei/jsfuck) - Write any JavaScript with 6 Characters: []()!+
-- [attu96/ht](https://github.com/attu96/ht) - Hacker's Terminal - Pretend To Be A Hacker
+- [utmp/ht](https://github.com/utmp/ht) - Hacker's Terminal - Pretend To Be A Hacker
 - [mauro-balades/is-even](https://github.com/mauro-balades/is-even) - Checking if a number is even can get difficult sometimes. This repository contains different solutions for one problem. If you are questioning why this repository exists, please visit r/programmerhumo
 - [WillTheDeveloper/RectDocsJS](https://github.com/WillTheDeveloper/RectDocsJS) - Updated Rect Docs created with NextJS and Tailwind
 - [aosabook/500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
@@ -211,6 +214,7 @@
 
 ## Others 
 
+- [snowball-lang/docs](https://github.com/snowball-lang/docs) - 📚 The official documentation for @snowball-lang.
 - [payloadbox/xss-payload-list](https://github.com/payloadbox/xss-payload-list) - 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List
 - [ric2b/Vivaldi-browser](https://github.com/ric2b/Vivaldi-browser) - Source code for the Vivali browser, taken from
 - [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs) - 🦕 A collection of Orpheus (Hack Club's mascot) drawings!
@@ -250,8 +254,11 @@
 
 ## Python 
 
+- [NNeryx/shaggy](https://github.com/NNeryx/shaggy) - Discover and connect with social media accounts across multiple platforms using just a username with SocialTrackr, the ultimate account hunting software.
+- [mauro-balades/infra](https://github.com/mauro-balades/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
+- [compiler-explorer/infra](https://github.com/compiler-explorer/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [mauro-balades/ChromeVaultExtract](https://github.com/mauro-balades/ChromeVaultExtract) - a powerful software tool designed to effortlessly retrieve and extract saved passwords from the Google Chrome web browser.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 127 stars and 172 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 128 stars and 173 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username with SocialTrackr, the ultimate account hunting software.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [snowball-lang/SnowBot](https://github.com/snowball-lang/SnowBot) - 🤖 A discord bot that can compile and execute snowball code.
@@ -316,6 +323,8 @@
 
 ## TypeScript 
 
+- [mauro-balades/compiler-explorer](https://github.com/mauro-balades/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
+- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [matteobortolazzo/stylo](https://github.com/matteobortolazzo/stylo) - A new Design-as-code language side project.
 - [mauro-balades/password-judger](https://github.com/mauro-balades/password-judger) - Does he bite? no, he judges you
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
