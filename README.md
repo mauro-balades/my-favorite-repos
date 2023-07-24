@@ -50,6 +50,7 @@
 
 ## C 
 
+- [TypeSafeSchwalbe/iolitevm](https://github.com/TypeSafeSchwalbe/iolitevm) - The virtual machine for the Iolite programming language.
 - [c3lang/c3c](https://github.com/c3lang/c3c) - Compiler for the C3 language
 - [Khhs167/memstack](https://github.com/Khhs167/memstack) - A basic linked-list based tool for managing memory
 - [Ninesquared81/caretbang](https://github.com/Ninesquared81/caretbang) - A stack-based esoteric langauge
@@ -69,6 +70,9 @@
 
 ## C++ 
 
+- [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
+- [snowball-lang/snowball](https://github.com/snowball-lang/snowball) - [WIP] 🐱 Snowball is a low-weight, statically typed, object oriented programming language with garbage collector and module system.
+- [lhmouse/asteria](https://github.com/lhmouse/asteria) - The Asteria Programming Language
 - [RainingComputers/ShnooTalk](https://github.com/RainingComputers/ShnooTalk) - ShnooTalk is a new programming language
 - [felixjulianheitmann/licensecxx](https://github.com/felixjulianheitmann/licensecxx) - Software licensing, copy protection in C++
 - [Fuechs/Fux](https://github.com/Fuechs/Fux) - Flawless Unambiguous Programming - A Modern, Flexible Programming Language for All
@@ -78,7 +82,6 @@
 - [MarkLeone/WeekendCompiler](https://github.com/MarkLeone/WeekendCompiler) - An example LLVM-based compiler for a subset of C.
 - [mauro-balades/httplog](https://github.com/mauro-balades/httplog) - View a summary of your logs produced by your http server
 - [dibsonthis/Glide--old](https://github.com/dibsonthis/Glide--old) - Glide programming language
-- [snowball-lang/snowball](https://github.com/snowball-lang/snowball) - [WIP] 🐱 Snowball is a low-weight, statically typed, object oriented programming language with garbage collector and module system.
 - [mauro-balades/rect-dictionaries](https://github.com/mauro-balades/rect-dictionaries) - Dictionaries support for the rect programming language
 - [danae/dauw](https://github.com/danae/dauw) - Interpreter and compiler for the Dauw programming language
 - [qiubit/lattec](https://github.com/qiubit/lattec) - LLVM based compiler for simple OO programming language, made for compilers university class
@@ -159,8 +162,8 @@
 
 ## JavaScript 
 
-- [TypeSafeSchwalbe/hasm](https://github.com/TypeSafeSchwalbe/hasm) - Simple assembly language
 - [TypeSafeSchwalbe/iolitec](https://github.com/TypeSafeSchwalbe/iolitec) - A statically typed, bytecode-compiled language
+- [TypeSafeSchwalbe/hasm](https://github.com/TypeSafeSchwalbe/hasm) - Simple assembly language
 - [zombieFox/nightTab](https://github.com/zombieFox/nightTab) - A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks with nightTab.
 - [mauro-balades/gravity](https://github.com/mauro-balades/gravity) - Gravity browser - Privacy is not an option, it's a must
 - [thesephist/tabloid](https://github.com/thesephist/tabloid) - A minimal programming language inspired by clickbait headlines
@@ -173,7 +176,7 @@
 - [mauro-balades/is-even](https://github.com/mauro-balades/is-even) - Checking if a number is even can get difficult sometimes. This repository contains different solutions for one problem. If you are questioning why this repository exists, please visit r/programmerhumo
 - [WillTheDeveloper/RectDocsJS](https://github.com/WillTheDeveloper/RectDocsJS) - Updated Rect Docs created with NextJS and Tailwind
 - [aosabook/500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
-- [gautamkrishnar/nothing-private](https://github.com/gautamkrishnar/nothing-private) - Do you think you are safe using private browsing or incognito mode?. :smile: :imp: This will prove that you're wrong.
+- [gautamkrishnar/nothing-private](https://github.com/gautamkrishnar/nothing-private) - Do you think you are safe using private browsing or incognito mode?. :smile: :imp: This will prove that you're wrong.   Previously hosted at nothingprivate.ml
 - [callstack/react-theme-provider](https://github.com/callstack/react-theme-provider) - A set of utilities that help you create your own React theming system in few easy steps
 - [gmrchk/kinet](https://github.com/gmrchk/kinet) - Kind of a most lightweight animation library of all. Changes value with that spring effect, but keeps the rest to you.
 - [shieldCaptcha/captcha](https://github.com/shieldCaptcha/captcha) - A secure, anty bots, good looking captcha to protect your bussiness.
@@ -258,7 +261,7 @@
 - [mauro-balades/infra](https://github.com/mauro-balades/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [compiler-explorer/infra](https://github.com/compiler-explorer/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [mauro-balades/ChromeVaultExtract](https://github.com/mauro-balades/ChromeVaultExtract) - a powerful software tool designed to effortlessly retrieve and extract saved passwords from the Google Chrome web browser.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 128 stars and 173 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 129 stars and 174 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username with SocialTrackr, the ultimate account hunting software.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [snowball-lang/SnowBot](https://github.com/snowball-lang/SnowBot) - 🤖 A discord bot that can compile and execute snowball code.
@@ -290,10 +293,8 @@
 ## Rust 
 
 - [mauro-balades/RetroByte](https://github.com/mauro-balades/RetroByte) - Minimalist, nostalgic, text-based OS.
-- [emm312/eepy](https://github.com/emm312/eepy) - 
 - [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - A SQL like query language called GQL (Git Query Language) to perform queries on your local .git files with functions, conditions and statements
 - [snowball-lang/snowball-rs](https://github.com/snowball-lang/snowball-rs) - (WIP): [borken] rewrite for the snowball programming language in rust!
-- [emm312/iron](https://github.com/emm312/iron) - 
 - [Champii/Rock](https://github.com/Champii/Rock) - Native language with Rust & LLVM
 - [mauro-balades/breeze](https://github.com/mauro-balades/breeze) - Breeze is a light-weight, highly-customizable build tool for different languages such as C(++) and Java
 - [mauro-balades/rect-isEven](https://github.com/mauro-balades/rect-isEven) - Check if a number is even for the rect programming language
