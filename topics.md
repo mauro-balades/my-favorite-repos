@@ -137,6 +137,7 @@
 
 ## compiler 
 
+- [snowball-lang/snowball](https://github.com/snowball-lang/snowball) - [WIP] 🐱 Snowball is a low-weight, statically typed, object oriented programming language with garbage collector and module system.
 - [c3lang/c3c](https://github.com/c3lang/c3c) - Compiler for the C3 language
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [matteobortolazzo/stylo](https://github.com/matteobortolazzo/stylo) - A new Design-as-code language side project.
@@ -146,7 +147,6 @@
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [ALANVF/star](https://github.com/ALANVF/star) - An experimental programming language that's made to be powerful, productive, and predictable
 - [MarkLeone/WeekendCompiler](https://github.com/MarkLeone/WeekendCompiler) - An example LLVM-based compiler for a subset of C.
-- [snowball-lang/snowball](https://github.com/snowball-lang/snowball) - [WIP] 🐱 Snowball is a low-weight, statically typed, object oriented programming language with garbage collector and module system.
 - [danae/dauw](https://github.com/danae/dauw) - Interpreter and compiler for the Dauw programming language
 - [qiubit/lattec](https://github.com/qiubit/lattec) - LLVM based compiler for simple OO programming language, made for compilers university class
 
@@ -242,7 +242,7 @@
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs) - 🦕 A collection of Orpheus (Hack Club's mascot) drawings!
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
-- [gautamkrishnar/nothing-private](https://github.com/gautamkrishnar/nothing-private) - Do you think you are safe using private browsing or incognito mode?. :smile: :imp: This will prove that you're wrong.
+- [gautamkrishnar/nothing-private](https://github.com/gautamkrishnar/nothing-private) - Do you think you are safe using private browsing or incognito mode?. :smile: :imp: This will prove that you're wrong.   Previously hosted at nothingprivate.ml
 
 ## haskell 
 
@@ -325,18 +325,20 @@
 
 ## others 
 
+- [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
+- [TypeSafeSchwalbe/iolitevm](https://github.com/TypeSafeSchwalbe/iolitevm) - The virtual machine for the Iolite programming language.
+- [TypeSafeSchwalbe/iolitec](https://github.com/TypeSafeSchwalbe/iolitec) - A statically typed, bytecode-compiled language
+- [lhmouse/asteria](https://github.com/lhmouse/asteria) - The Asteria Programming Language
 - [TypeSafeSchwalbe/hasm](https://github.com/TypeSafeSchwalbe/hasm) - Simple assembly language
 - [NNeryx/shaggy](https://github.com/NNeryx/shaggy) - Discover and connect with social media accounts across multiple platforms using just a username with SocialTrackr, the ultimate account hunting software.
 - [mauro-balades/compiler-explorer](https://github.com/mauro-balades/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [mauro-balades/infra](https://github.com/mauro-balades/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [snowball-lang/docs](https://github.com/snowball-lang/docs) - 📚 The official documentation for @snowball-lang.
-- [TypeSafeSchwalbe/iolitec](https://github.com/TypeSafeSchwalbe/iolitec) - A statically typed, bytecode-compiled language
 - [mauro-balades/RetroByte](https://github.com/mauro-balades/RetroByte) - Minimalist, nostalgic, text-based OS.
 - [payloadbox/xss-payload-list](https://github.com/payloadbox/xss-payload-list) - 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List
-- [emm312/eepy](https://github.com/emm312/eepy) - 
 - [Khhs167/memstack](https://github.com/Khhs167/memstack) - A basic linked-list based tool for managing memory
 - [mauro-balades/ChromeVaultExtract](https://github.com/mauro-balades/ChromeVaultExtract) - a powerful software tool designed to effortlessly retrieve and extract saved passwords from the Google Chrome web browser.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 128 stars and 173 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 129 stars and 174 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username with SocialTrackr, the ultimate account hunting software.
 - [mauro-balades/password-judger](https://github.com/mauro-balades/password-judger) - Does he bite? no, he judges you
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
@@ -351,7 +353,6 @@
 - [mauro-useless-web/whattimeisit](https://github.com/mauro-useless-web/whattimeisit) - Because knowing the time dramatically is the only way to know it.
 - [mauro-useless-web/infinite-building](https://github.com/mauro-useless-web/infinite-building) - Legend says that there will be a reward at 1K scrolls...
 - [mauro-balades/SnapKit](https://github.com/mauro-balades/SnapKit) - 🎨 Make your UI design dreams come true with SnapKit! 🚀
-- [emm312/iron](https://github.com/emm312/iron) - 
 - [mauro-balades/pixel-perfect](https://github.com/mauro-balades/pixel-perfect) - Perfectly Designed, Pixel by Pixel
 - [mauro-balades/RTCM](https://github.com/mauro-balades/RTCM) - RTCM is a tool to monitor command performance in real-time.
 - [proglangdesign/proglangdesign.github.io](https://github.com/proglangdesign/proglangdesign.github.io) - A website for the #proglangdesign community on freenode
@@ -542,7 +543,7 @@
 
 ## security 
 
-- [gautamkrishnar/nothing-private](https://github.com/gautamkrishnar/nothing-private) - Do you think you are safe using private browsing or incognito mode?. :smile: :imp: This will prove that you're wrong.
+- [gautamkrishnar/nothing-private](https://github.com/gautamkrishnar/nothing-private) - Do you think you are safe using private browsing or incognito mode?. :smile: :imp: This will prove that you're wrong.   Previously hosted at nothingprivate.ml
 - [RobThree/TwoFactorAuth](https://github.com/RobThree/TwoFactorAuth) - PHP library for Two Factor Authentication (TFA / 2FA)
 
 ## self-hosted 
@@ -600,7 +601,7 @@
 
 ## website 
 
-- [gautamkrishnar/nothing-private](https://github.com/gautamkrishnar/nothing-private) - Do you think you are safe using private browsing or incognito mode?. :smile: :imp: This will prove that you're wrong.
+- [gautamkrishnar/nothing-private](https://github.com/gautamkrishnar/nothing-private) - Do you think you are safe using private browsing or incognito mode?. :smile: :imp: This will prove that you're wrong.   Previously hosted at nothingprivate.ml
 
 
 ## License
