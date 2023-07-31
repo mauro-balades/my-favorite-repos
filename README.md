@@ -70,6 +70,9 @@
 
 ## C++ 
 
+- [AmrDeveloper/Amun](https://github.com/AmrDeveloper/Amun) - A Statically typed, compiled general purpose low level programming language built using C++ and LLVM Infrastructure framework designed to be simple and fast
+- [demqa/Language](https://github.com/demqa/Language) - This is my own programming language
+- [Ark1409/shift](https://github.com/Ark1409/shift) - The 'shift' programming language
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
 - [snowball-lang/snowball](https://github.com/snowball-lang/snowball) - [WIP] 🐱 Snowball is a low-weight, statically typed, object oriented programming language with garbage collector and module system.
 - [lhmouse/asteria](https://github.com/lhmouse/asteria) - The Asteria Programming Language
@@ -87,7 +90,7 @@
 - [qiubit/lattec](https://github.com/qiubit/lattec) - LLVM based compiler for simple OO programming language, made for compilers university class
 - [Haruno19/CustomQuest](https://github.com/Haruno19/CustomQuest) - Modular turn-based-RPG-like battle simulator with JSON configuration files
 - [google/googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework
-- [maksmakuta/CProcessing](https://github.com/maksmakuta/CProcessing) - Processsing programming for C++
+- [maksmakuta/CProcessing](https://github.com/maksmakuta/CProcessing) - Processing C++ Edition
 - [acdemiralp/cmake_templates](https://github.com/acdemiralp/cmake_templates) - Concise CMake templates for creating C++ libraries or executables.
 - [mauro-balades/cpp-html-parser](https://github.com/mauro-balades/cpp-html-parser) - A HTML tree generator library for C(PP)
 - [mauro-balades/cclipboard](https://github.com/mauro-balades/cclipboard) - A multi-platform utility module to handle common tasks with the clipboard for C/C++
@@ -135,6 +138,7 @@
 
 ## HTML 
 
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [mauro-useless-web/randomemoji](https://github.com/mauro-useless-web/randomemoji) - Generate a random sequence of emojis
 - [mauro-useless-web/whydidyouclickthis](https://github.com/mauro-useless-web/whydidyouclickthis) - Sometimes the journey is more important than the destination
 - [mauro-useless-web/whattimeisit](https://github.com/mauro-useless-web/whattimeisit) - Because knowing the time dramatically is the only way to know it.
@@ -261,7 +265,7 @@
 - [mauro-balades/infra](https://github.com/mauro-balades/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [compiler-explorer/infra](https://github.com/compiler-explorer/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [mauro-balades/ChromeVaultExtract](https://github.com/mauro-balades/ChromeVaultExtract) - a powerful software tool designed to effortlessly retrieve and extract saved passwords from the Google Chrome web browser.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 129 stars and 174 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 131 stars and 173 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username with SocialTrackr, the ultimate account hunting software.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [snowball-lang/SnowBot](https://github.com/snowball-lang/SnowBot) - 🤖 A discord bot that can compile and execute snowball code.
@@ -293,8 +297,10 @@
 ## Rust 
 
 - [mauro-balades/RetroByte](https://github.com/mauro-balades/RetroByte) - Minimalist, nostalgic, text-based OS.
+- [emm312/eepy](https://github.com/emm312/eepy) - 
 - [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - A SQL like query language called GQL (Git Query Language) to perform queries on your local .git files with functions, conditions and statements
 - [snowball-lang/snowball-rs](https://github.com/snowball-lang/snowball-rs) - (WIP): [borken] rewrite for the snowball programming language in rust!
+- [emm312/iron](https://github.com/emm312/iron) - 
 - [Champii/Rock](https://github.com/Champii/Rock) - Native language with Rust & LLVM
 - [mauro-balades/breeze](https://github.com/mauro-balades/breeze) - Breeze is a light-weight, highly-customizable build tool for different languages such as C(++) and Java
 - [mauro-balades/rect-isEven](https://github.com/mauro-balades/rect-isEven) - Check if a number is even for the rect programming language
