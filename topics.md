@@ -134,17 +134,18 @@
 
 ## cli 
 
+- [aelliixx/cpp-inquirer](https://github.com/aelliixx/cpp-inquirer) - Interactive command line prompts with C++
 - [digitallyserviced/tdfgo](https://github.com/digitallyserviced/tdfgo) - TheDraw font renderer in Go
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 
 ## compiler 
 
+- [Fuechs/Fux](https://github.com/Fuechs/Fux) - Flawless Unambiguous Programming - A Modern, Flexible Programming Language for All
 - [AmrDeveloper/Amun](https://github.com/AmrDeveloper/Amun) - A Statically typed, compiled general purpose low level programming language built using C++ and LLVM Infrastructure framework designed to be simple and fast
-- [snowball-lang/snowball](https://github.com/snowball-lang/snowball) - [WIP] 🐱 Snowball is a low-weight, statically typed, object oriented programming language with garbage collector and module system.
+- [snowball-lang/snowball](https://github.com/snowball-lang/snowball) - [WIP] 🐱 Snowball is a low-weight, statically typed, object oriented programming language.
 - [c3lang/c3c](https://github.com/c3lang/c3c) - Compiler for the C3 language
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [matteobortolazzo/stylo](https://github.com/matteobortolazzo/stylo) - A new Design-as-code language side project.
-- [Fuechs/Fux](https://github.com/Fuechs/Fux) - Flawless Unambiguous Programming - A Modern, Flexible Programming Language for All
 - [travisdoor/bl](https://github.com/travisdoor/bl) - Simple imperative programming language created for fun.
 - [iamgio/pikt](https://github.com/iamgio/pikt) - :art: Image-based poetic programming language.
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
@@ -160,10 +161,11 @@
 
 ## cpp 
 
+- [aelliixx/cpp-inquirer](https://github.com/aelliixx/cpp-inquirer) - Interactive command line prompts with C++
+- [Fuechs/Fux](https://github.com/Fuechs/Fux) - Flawless Unambiguous Programming - A Modern, Flexible Programming Language for All
 - [AmrDeveloper/Amun](https://github.com/AmrDeveloper/Amun) - A Statically typed, compiled general purpose low level programming language built using C++ and LLVM Infrastructure framework designed to be simple and fast
 - [Ark1409/shift](https://github.com/Ark1409/shift) - The 'shift' programming language
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
-- [Fuechs/Fux](https://github.com/Fuechs/Fux) - Flawless Unambiguous Programming - A Modern, Flexible Programming Language for All
 - [yhirose/cpp-peglib](https://github.com/yhirose/cpp-peglib) - A single file C++ header-only PEG (Parsing Expression Grammars) library
 - [qiubit/lattec](https://github.com/qiubit/lattec) - LLVM based compiler for simple OO programming language, made for compilers university class
 - [maksmakuta/CProcessing](https://github.com/maksmakuta/CProcessing) - Processing C++ Edition
@@ -244,6 +246,7 @@
 
 ## hacktoberfest 
 
+- [thuva4/Algorithms](https://github.com/thuva4/Algorithms) - Collection of algorithms in multiple programming languages.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs) - 🦕 A collection of Orpheus (Hack Club's mascot) drawings!
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
@@ -284,6 +287,7 @@
 
 ## language 
 
+- [Fuechs/Fux](https://github.com/Fuechs/Fux) - Flawless Unambiguous Programming - A Modern, Flexible Programming Language for All
 - [AmrDeveloper/Amun](https://github.com/AmrDeveloper/Amun) - A Statically typed, compiled general purpose low level programming language built using C++ and LLVM Infrastructure framework designed to be simple and fast
 - [demqa/Language](https://github.com/demqa/Language) - This is my own programming language
 - [Ark1409/shift](https://github.com/Ark1409/shift) - The 'shift' programming language
@@ -291,7 +295,6 @@
 - [c3lang/c3c](https://github.com/c3lang/c3c) - Compiler for the C3 language
 - [RainingComputers/ShnooTalk](https://github.com/RainingComputers/ShnooTalk) - ShnooTalk is a new programming language
 - [matteobortolazzo/stylo](https://github.com/matteobortolazzo/stylo) - A new Design-as-code language side project.
-- [Fuechs/Fux](https://github.com/Fuechs/Fux) - Flawless Unambiguous Programming - A Modern, Flexible Programming Language for All
 - [travisdoor/bl](https://github.com/travisdoor/bl) - Simple imperative programming language created for fun.
 - [ALANVF/star](https://github.com/ALANVF/star) - An experimental programming language that's made to be powerful, productive, and predictable
 - [shreder95ua/teasharp](https://github.com/shreder95ua/teasharp) - My new begginer-friendly programming language
@@ -334,6 +337,8 @@
 
 ## others 
 
+- [Naotonosato/Clawn](https://github.com/Naotonosato/Clawn) - The Clawn Programming Language
+- [siko-lang/siko](https://github.com/siko-lang/siko) - siko
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
 - [TypeSafeSchwalbe/iolitevm](https://github.com/TypeSafeSchwalbe/iolitevm) - The virtual machine for the Iolite programming language.
 - [TypeSafeSchwalbe/iolitec](https://github.com/TypeSafeSchwalbe/iolitec) - A statically typed, bytecode-compiled language
@@ -348,7 +353,7 @@
 - [emm312/eepy](https://github.com/emm312/eepy) - 
 - [Khhs167/memstack](https://github.com/Khhs167/memstack) - A basic linked-list based tool for managing memory
 - [mauro-balades/ChromeVaultExtract](https://github.com/mauro-balades/ChromeVaultExtract) - a powerful software tool designed to effortlessly retrieve and extract saved passwords from the Google Chrome web browser.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 131 stars and 173 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 132 stars and 173 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username with SocialTrackr, the ultimate account hunting software.
 - [mauro-balades/password-judger](https://github.com/mauro-balades/password-judger) - Does he bite? no, he judges you
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
