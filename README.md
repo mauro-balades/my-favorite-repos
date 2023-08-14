@@ -54,6 +54,7 @@
 - [c3lang/c3c](https://github.com/c3lang/c3c) - Compiler for the C3 language
 - [Khhs167/memstack](https://github.com/Khhs167/memstack) - A basic linked-list based tool for managing memory
 - [Ninesquared81/caretbang](https://github.com/Ninesquared81/caretbang) - A stack-based esoteric langauge
+- [Im-0xea/binfetch](https://github.com/Im-0xea/binfetch) - A Neofetch inspired binary analyzer
 - [dstogov/ir](https://github.com/dstogov/ir) - Lightweight JIT Compilation Framework
 - [travisdoor/bl](https://github.com/travisdoor/bl) - Simple imperative programming language created for fun.
 - [graydon/rust-prehistory](https://github.com/graydon/rust-prehistory) - historical archive of rust pre-publication development
@@ -70,6 +71,7 @@
 
 ## C++ 
 
+- [mauro-balades/prompts-cpp](https://github.com/mauro-balades/prompts-cpp) - 🎨 A powerful C++ library designed to streamline the process of creating and managing beautiful prompts within your applications.
 - [aelliixx/cpp-inquirer](https://github.com/aelliixx/cpp-inquirer) - Interactive command line prompts with C++
 - [Fuechs/Fux](https://github.com/Fuechs/Fux) - Flawless Unambiguous Programming - A Modern, Flexible Programming Language for All
 - [Naotonosato/Clawn](https://github.com/Naotonosato/Clawn) - The Clawn Programming Language
@@ -179,7 +181,7 @@
 - [zspecza/system](https://github.com/zspecza/system) - A component system syntax for CSS
 - [curist/lxlox](https://github.com/curist/lxlox) - Lox derived programming language
 - [aemkei/jsfuck](https://github.com/aemkei/jsfuck) - Write any JavaScript with 6 Characters: []()!+
-- [utmp/ht](https://github.com/utmp/ht) - Hacker's Terminal - Pretend To Be A Hacker
+- [nxnxu/ht](https://github.com/nxnxu/ht) - Hacker's Terminal - Pretend To Be A Hacker
 - [mauro-balades/is-even](https://github.com/mauro-balades/is-even) - Checking if a number is even can get difficult sometimes. This repository contains different solutions for one problem. If you are questioning why this repository exists, please visit r/programmerhumo
 - [WillTheDeveloper/RectDocsJS](https://github.com/WillTheDeveloper/RectDocsJS) - Updated Rect Docs created with NextJS and Tailwind
 - [aosabook/500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
@@ -232,7 +234,6 @@
 - [snowball-lang/.github](https://github.com/snowball-lang/.github) - Snowballers, Unite!
 - [qexat/Vism](https://github.com/qexat/Vism) - Specification for the Vism esoteric programming language.
 - [cpp-linter/cpp-linter-action](https://github.com/cpp-linter/cpp-linter-action) - Lint C/C++ code with clang-format and clang-tidy then post annotations, comments, and step summary with results.
-- [Im-0xea/binfetch](https://github.com/Im-0xea/binfetch) - A Neofetch inspired binary analyzer.
 - [mauro-balades/my-favorite-repos](https://github.com/mauro-balades/my-favorite-repos) - ⭐:octocat: A curated list of GitHub repositories I've starred!
 - [rogue-shadowdancer/misbrands](https://github.com/rogue-shadowdancer/misbrands) - The world's most hated IT stickers
 - [jozefg/learn-tt](https://github.com/jozefg/learn-tt) - A collection of resources for learning type theory and type theory adjacent fields.
@@ -269,7 +270,7 @@
 - [mauro-balades/infra](https://github.com/mauro-balades/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [compiler-explorer/infra](https://github.com/compiler-explorer/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [mauro-balades/ChromeVaultExtract](https://github.com/mauro-balades/ChromeVaultExtract) - a powerful software tool designed to effortlessly retrieve and extract saved passwords from the Google Chrome web browser.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 132 stars and 173 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 131 stars and 173 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username with SocialTrackr, the ultimate account hunting software.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [snowball-lang/SnowBot](https://github.com/snowball-lang/SnowBot) - 🤖 A discord bot that can compile and execute snowball code.
@@ -334,6 +335,7 @@
 
 ## TypeScript 
 
+- [tutao/tutanota](https://github.com/tutao/tutanota) - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [mauro-balades/compiler-explorer](https://github.com/mauro-balades/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [matteobortolazzo/stylo](https://github.com/matteobortolazzo/stylo) - A new Design-as-code language side project.
