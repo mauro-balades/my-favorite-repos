@@ -272,6 +272,7 @@
 
 ## javascript 
 
+- [tutao/tutanota](https://github.com/tutao/tutanota) - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [mauro-balades/secondssincelastjavascriptframework](https://github.com/mauro-balades/secondssincelastjavascriptframework) - Get the up to date information about how many seconds has passed since last javascript framework has been published.
 - [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website
@@ -337,6 +338,7 @@
 
 ## others 
 
+- [mauro-balades/prompts-cpp](https://github.com/mauro-balades/prompts-cpp) - 🎨 A powerful C++ library designed to streamline the process of creating and managing beautiful prompts within your applications.
 - [Naotonosato/Clawn](https://github.com/Naotonosato/Clawn) - The Clawn Programming Language
 - [siko-lang/siko](https://github.com/siko-lang/siko) - siko
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
@@ -353,7 +355,7 @@
 - [emm312/eepy](https://github.com/emm312/eepy) - 
 - [Khhs167/memstack](https://github.com/Khhs167/memstack) - A basic linked-list based tool for managing memory
 - [mauro-balades/ChromeVaultExtract](https://github.com/mauro-balades/ChromeVaultExtract) - a powerful software tool designed to effortlessly retrieve and extract saved passwords from the Google Chrome web browser.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 132 stars and 173 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 131 stars and 173 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username with SocialTrackr, the ultimate account hunting software.
 - [mauro-balades/password-judger](https://github.com/mauro-balades/password-judger) - Does he bite? no, he judges you
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
@@ -383,7 +385,7 @@
 - [cpp-linter/cpp-linter-action](https://github.com/cpp-linter/cpp-linter-action) - Lint C/C++ code with clang-format and clang-tidy then post annotations, comments, and step summary with results.
 - [IvanLudvig/clang-format-action](https://github.com/IvanLudvig/clang-format-action) - A github action to run clang-format on all C/C++ sources in a repository
 - [Ninesquared81/caretbang](https://github.com/Ninesquared81/caretbang) - A stack-based esoteric langauge
-- [Im-0xea/binfetch](https://github.com/Im-0xea/binfetch) - A Neofetch inspired binary analyzer.
+- [Im-0xea/binfetch](https://github.com/Im-0xea/binfetch) - A Neofetch inspired binary analyzer
 - [dstogov/ir](https://github.com/dstogov/ir) - Lightweight JIT Compilation Framework
 - [ml-for-nlp/build-your-search-engine](https://github.com/ml-for-nlp/build-your-search-engine) - A repository to learn basic data processing techniques (Wikipedia processing, feature selection), and use them for some basic Web query classification.
 - [mauro-balades/my-favorite-repos](https://github.com/mauro-balades/my-favorite-repos) - ⭐:octocat: A curated list of GitHub repositories I've starred!
@@ -418,7 +420,7 @@
 - [mauro-balades/rect-isEven](https://github.com/mauro-balades/rect-isEven) - Check if a number is even for the rect programming language
 - [mauro-balades/rect-dictionaries](https://github.com/mauro-balades/rect-dictionaries) - Dictionaries support for the rect programming language
 - [aemkei/jsfuck](https://github.com/aemkei/jsfuck) - Write any JavaScript with 6 Characters: []()!+
-- [utmp/ht](https://github.com/utmp/ht) - Hacker's Terminal - Pretend To Be A Hacker
+- [nxnxu/ht](https://github.com/nxnxu/ht) - Hacker's Terminal - Pretend To Be A Hacker
 - [sudo-project/sudo](https://github.com/sudo-project/sudo) - Utility to execute a command as another user
 - [return-node/requests](https://github.com/return-node/requests) - Submit new languages!
 - [return-node/python](https://github.com/return-node/python) - A python module used to return a node
@@ -559,6 +561,7 @@
 
 ## security 
 
+- [tutao/tutanota](https://github.com/tutao/tutanota) - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [gautamkrishnar/nothing-private](https://github.com/gautamkrishnar/nothing-private) - Do you think you are safe using private browsing or incognito mode?. :smile: :imp: This will prove that you're wrong.   Previously hosted at nothingprivate.ml
 - [RobThree/TwoFactorAuth](https://github.com/RobThree/TwoFactorAuth) - PHP library for Two Factor Authentication (TFA / 2FA)
 
