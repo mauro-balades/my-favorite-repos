@@ -338,6 +338,8 @@
 
 ## others 
 
+- [mauro-balades/real-fake-updates](https://github.com/mauro-balades/real-fake-updates) - 🕶️ Fool your pals with super believable fake OS updates.
+- [mauro-balades/sslb](https://github.com/mauro-balades/sslb) - 😊 Super Simple Language Backend - An IR constructed language backend that can compile to various different targets, designed to be simple and safe.
 - [mauro-balades/prompts-cpp](https://github.com/mauro-balades/prompts-cpp) - 🎨 A powerful C++ library designed to streamline the process of creating and managing beautiful prompts within your applications.
 - [Naotonosato/Clawn](https://github.com/Naotonosato/Clawn) - The Clawn Programming Language
 - [siko-lang/siko](https://github.com/siko-lang/siko) - siko
