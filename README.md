@@ -136,6 +136,7 @@
 
 ## Go 
 
+- [gabivlj/candice](https://github.com/gabivlj/candice) - Candice, a dead simple language and multi-platform.
 - [thought-machine/please](https://github.com/thought-machine/please) - High-performance extensible build system for reproducible multi-language builds.
 - [jesseduffield/OK](https://github.com/jesseduffield/OK) - Welcome to the future of programming languages: OK?
 - [digitallyserviced/tdfgo](https://github.com/digitallyserviced/tdfgo) - TheDraw font renderer in Go
@@ -172,8 +173,7 @@
 
 ## JavaScript 
 
-- [TypeSafeSchwalbe/iolitec](https://github.com/TypeSafeSchwalbe/iolitec) - A statically typed, bytecode-compiled language
-- [TypeSafeSchwalbe/hasm](https://github.com/TypeSafeSchwalbe/hasm) - Simple assembly language
+- [TypeSafeSchwalbe/hasm](https://github.com/TypeSafeSchwalbe/hasm) - Very simple assembly-like language
 - [zombieFox/nightTab](https://github.com/zombieFox/nightTab) - A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks with nightTab.
 - [mauro-balades/gravity](https://github.com/mauro-balades/gravity) - Gravity browser - Privacy is not an option, it's a must
 - [thesephist/tabloid](https://github.com/thesephist/tabloid) - A minimal programming language inspired by clickbait headlines
