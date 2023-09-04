@@ -173,6 +173,8 @@
 
 ## JavaScript 
 
+- [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
+- [mauro-balades/CodeQuest](https://github.com/mauro-balades/CodeQuest) - 🕵️‍♂️ CodeQuest - Guess the Programming Language CLI Game
 - [TypeSafeSchwalbe/hasm](https://github.com/TypeSafeSchwalbe/hasm) - Very simple assembly-like language
 - [zombieFox/nightTab](https://github.com/zombieFox/nightTab) - A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks with nightTab.
 - [mauro-balades/gravity](https://github.com/mauro-balades/gravity) - Gravity browser - Privacy is not an option, it's a must
@@ -228,6 +230,7 @@
 
 ## Others 
 
+- [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [snowball-lang/docs](https://github.com/snowball-lang/docs) - 📚 The official documentation for @snowball-lang.
 - [payloadbox/xss-payload-list](https://github.com/payloadbox/xss-payload-list) - 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List
 - [ric2b/Vivaldi-browser](https://github.com/ric2b/Vivaldi-browser) - Source code for the Vivali browser, taken from
@@ -337,6 +340,7 @@
 
 ## TypeScript 
 
+- [ovr/StaticScript](https://github.com/ovr/StaticScript) - :rocket: TypeScript compiler on top of TypeScript as frontend and LLVM as backend
 - [tutao/tutanota](https://github.com/tutao/tutanota) - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [mauro-balades/compiler-explorer](https://github.com/mauro-balades/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
