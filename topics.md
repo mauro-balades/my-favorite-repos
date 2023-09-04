@@ -83,6 +83,8 @@
 
 ## awesome 
 
+- [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
+- [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [jin/awesome-bazel](https://github.com/jin/awesome-bazel) - A curated list of Bazel rules, tooling and resources.
 - [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
 - [Blankj/awesome-comment](https://github.com/Blankj/awesome-comment) - :boom: Funny comments
@@ -90,6 +92,8 @@
 
 ## awesome-list 
 
+- [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
+- [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [jin/awesome-bazel](https://github.com/jin/awesome-bazel) - A curated list of Bazel rules, tooling and resources.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
@@ -192,6 +196,7 @@
 
 ## design 
 
+- [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [matteobortolazzo/stylo](https://github.com/matteobortolazzo/stylo) - A new Design-as-code language side project.
 
 ## devops 
@@ -341,6 +346,7 @@
 
 ## others 
 
+- [mauro-balades/CodeQuest](https://github.com/mauro-balades/CodeQuest) - 🕵️‍♂️ CodeQuest - Guess the Programming Language CLI Game
 - [mauro-balades/real-fake-updates](https://github.com/mauro-balades/real-fake-updates) - 🕶️ Fool your pals with super believable fake OS updates.
 - [mauro-balades/sslb](https://github.com/mauro-balades/sslb) - 😊 Super Simple Language Backend - An IR constructed language backend that can compile to various different targets, designed to be simple and safe.
 - [mauro-balades/prompts-cpp](https://github.com/mauro-balades/prompts-cpp) - 🎨 A powerful C++ library designed to streamline the process of creating and managing beautiful prompts within your applications.
@@ -608,6 +614,7 @@
 
 ## typescript 
 
+- [ovr/StaticScript](https://github.com/ovr/StaticScript) - :rocket: TypeScript compiler on top of TypeScript as frontend and LLVM as backend
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [mauro-balades/url-motion](https://github.com/mauro-balades/url-motion) - Animate your browser url and make your website 1000 times more attractive.
 - [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website
