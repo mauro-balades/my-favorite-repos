@@ -71,6 +71,7 @@
 
 ## C++ 
 
+- [orosmatthew/hydrogen-cpp](https://github.com/orosmatthew/hydrogen-cpp) - A hobby programming language 🔥
 - [mauro-balades/prompts-cpp](https://github.com/mauro-balades/prompts-cpp) - 🎨 A powerful C++ library designed to streamline the process of creating and managing beautiful prompts within your applications.
 - [aelliixx/cpp-inquirer](https://github.com/aelliixx/cpp-inquirer) - Interactive command line prompts with C++
 - [Fuechs/Fux](https://github.com/Fuechs/Fux) - Flawless Unambiguous Programming - A Modern, Flexible Programming Language for All
@@ -173,6 +174,7 @@
 
 ## JavaScript 
 
+- [TypeSafeSchwalbe/typeshields](https://github.com/TypeSafeSchwalbe/typeshields) - Add runtime type checking to your Javascript code without writing a bunch of boilerplate.
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [mauro-balades/CodeQuest](https://github.com/mauro-balades/CodeQuest) - 🕵️‍♂️ CodeQuest - Guess the Programming Language CLI Game
 - [TypeSafeSchwalbe/hasm](https://github.com/TypeSafeSchwalbe/hasm) - Very simple assembly-like language
@@ -230,6 +232,8 @@
 
 ## Others 
 
+- [mauro-balades/llvm-project](https://github.com/mauro-balades/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [snowball-lang/docs](https://github.com/snowball-lang/docs) - 📚 The official documentation for @snowball-lang.
 - [payloadbox/xss-payload-list](https://github.com/payloadbox/xss-payload-list) - 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List
@@ -308,7 +312,7 @@
 - [mauro-balades/sslb](https://github.com/mauro-balades/sslb) - 😊 Super Simple Language Backend - An IR constructed language backend that can compile to various different targets, designed to be simple and safe.
 - [mauro-balades/RetroByte](https://github.com/mauro-balades/RetroByte) - Minimalist, nostalgic, text-based OS.
 - [emm312/eepy](https://github.com/emm312/eepy) - 
-- [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - A SQL like query language called GQL (Git Query Language) to perform queries on your local .git files with functions, conditions and statements
+- [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - Git Query language is a SQL like query language to perform queries on multi repositories on the fly :yum:
 - [snowball-lang/snowball-rs](https://github.com/snowball-lang/snowball-rs) - (WIP): [borken] rewrite for the snowball programming language in rust!
 - [emm312/iron](https://github.com/emm312/iron) - 
 - [Champii/Rock](https://github.com/Champii/Rock) - Native language with Rust & LLVM
