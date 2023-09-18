@@ -21,6 +21,7 @@
 - [cpp](#cpp)
 - [css](#css)
 - [data-science](#data-science)
+- [database](#database)
 - [deno](#deno)
 - [deployment](#deployment)
 - [design](#design)
@@ -31,6 +32,7 @@
 - [electron](#electron)
 - [firefox](#firefox)
 - [framework](#framework)
+- [game](#game)
 - [git](#git)
 - [github](#github)
 - [go](#go)
@@ -187,6 +189,10 @@
 
 - [orchest/orchest](https://github.com/orchest/orchest) - Build data pipelines, the easy way 🛠️
 
+## database 
+
+- [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions
+
 ## deno 
 
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
@@ -228,9 +234,13 @@
 
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 
+## game 
+
+- [TypeSafeSchwalbe/Lania](https://github.com/TypeSafeSchwalbe/Lania) - (WIP) 2d top-down turn-based strategy terminal game written from scratch in C
+
 ## git 
 
-- [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - Git Query language is a SQL like query language to perform queries on multi repositories on the fly :yum:
+- [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
 - [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
@@ -297,6 +307,7 @@
 
 ## language 
 
+- [Usbac/borealis](https://github.com/Usbac/borealis) - The elegant and consistent programming language.
 - [orosmatthew/hydrogen-cpp](https://github.com/orosmatthew/hydrogen-cpp) - A hobby programming language 🔥
 - [Fuechs/Fux](https://github.com/Fuechs/Fux) - Flawless Unambiguous Programming - A Modern, Flexible Programming Language for All
 - [AmrDeveloper/Amun](https://github.com/AmrDeveloper/Amun) - A Statically typed, compiled general purpose low level programming language built using C++ and LLVM Infrastructure framework designed to be simple and fast
@@ -348,6 +359,7 @@
 
 ## others 
 
+- [mauro-balades/ultimate-string-library](https://github.com/mauro-balades/ultimate-string-library) - The ultimate string library for C where it's purpose is to eliminate the use of null terminators but allow C stdlib interactivity without the use of structs and still use char* arrays
 - [TypeSafeSchwalbe/typeshields](https://github.com/TypeSafeSchwalbe/typeshields) - Add runtime type checking to your Javascript code without writing a bunch of boilerplate.
 - [mauro-balades/llvm-project](https://github.com/mauro-balades/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
@@ -370,7 +382,7 @@
 - [emm312/eepy](https://github.com/emm312/eepy) - 
 - [Khhs167/memstack](https://github.com/Khhs167/memstack) - A basic linked-list based tool for managing memory
 - [mauro-balades/ChromeVaultExtract](https://github.com/mauro-balades/ChromeVaultExtract) - a powerful software tool designed to effortlessly retrieve and extract saved passwords from the Google Chrome web browser.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 131 stars and 173 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 132 stars and 174 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username with SocialTrackr, the ultimate account hunting software.
 - [mauro-balades/password-judger](https://github.com/mauro-balades/password-judger) - Does he bite? no, he judges you
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
@@ -538,6 +550,7 @@
 
 ## programming 
 
+- [Usbac/borealis](https://github.com/Usbac/borealis) - The elegant and consistent programming language.
 - [orosmatthew/hydrogen-cpp](https://github.com/orosmatthew/hydrogen-cpp) - A hobby programming language 🔥
 - [travisdoor/bl](https://github.com/travisdoor/bl) - Simple imperative programming language created for fun.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
@@ -571,7 +584,7 @@
 ## rust 
 
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
-- [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - Git Query language is a SQL like query language to perform queries on multi repositories on the fly :yum:
+- [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions
 - [Champii/Rock](https://github.com/Champii/Rock) - Native language with Rust & LLVM
 - [mauro-balades/is-url](https://github.com/mauro-balades/is-url) - A rust library to check if a string is an URL
 - [Rust-for-Linux/linux](https://github.com/Rust-for-Linux/linux) - Adding support for the Rust language to the Linux kernel.
@@ -596,7 +609,7 @@
 
 ## sql 
 
-- [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - Git Query language is a SQL like query language to perform queries on multi repositories on the fly :yum:
+- [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions
 
 ## svelte 
 
