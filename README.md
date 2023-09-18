@@ -50,6 +50,9 @@
 
 ## C 
 
+- [TypeSafeSchwalbe/Lania](https://github.com/TypeSafeSchwalbe/Lania) - (WIP) 2d top-down turn-based strategy terminal game written from scratch in C
+- [Usbac/borealis](https://github.com/Usbac/borealis) - The elegant and consistent programming language.
+- [mauro-balades/ultimate-string-library](https://github.com/mauro-balades/ultimate-string-library) - The ultimate string library for C where it's purpose is to eliminate the use of null terminators but allow C stdlib interactivity without the use of structs and still use char* arrays
 - [TypeSafeSchwalbe/iolitevm](https://github.com/TypeSafeSchwalbe/iolitevm) - The virtual machine for the Iolite programming language.
 - [c3lang/c3c](https://github.com/c3lang/c3c) - Compiler for the C3 language
 - [Khhs167/memstack](https://github.com/Khhs167/memstack) - A basic linked-list based tool for managing memory
@@ -278,7 +281,7 @@
 - [mauro-balades/infra](https://github.com/mauro-balades/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [compiler-explorer/infra](https://github.com/compiler-explorer/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [mauro-balades/ChromeVaultExtract](https://github.com/mauro-balades/ChromeVaultExtract) - a powerful software tool designed to effortlessly retrieve and extract saved passwords from the Google Chrome web browser.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 131 stars and 173 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 132 stars and 174 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username with SocialTrackr, the ultimate account hunting software.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [snowball-lang/SnowBot](https://github.com/snowball-lang/SnowBot) - 🤖 A discord bot that can compile and execute snowball code.
@@ -312,7 +315,7 @@
 - [mauro-balades/sslb](https://github.com/mauro-balades/sslb) - 😊 Super Simple Language Backend - An IR constructed language backend that can compile to various different targets, designed to be simple and safe.
 - [mauro-balades/RetroByte](https://github.com/mauro-balades/RetroByte) - Minimalist, nostalgic, text-based OS.
 - [emm312/eepy](https://github.com/emm312/eepy) - 
-- [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - Git Query language is a SQL like query language to perform queries on multi repositories on the fly :yum:
+- [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions
 - [snowball-lang/snowball-rs](https://github.com/snowball-lang/snowball-rs) - (WIP): [borken] rewrite for the snowball programming language in rust!
 - [emm312/iron](https://github.com/emm312/iron) - 
 - [Champii/Rock](https://github.com/Champii/Rock) - Native language with Rust & LLVM
