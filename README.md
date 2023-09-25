@@ -116,7 +116,6 @@
 - [mauro-balades/WhyIHateJS](https://github.com/mauro-balades/WhyIHateJS) - A curated list containing things that will make you cry, re-evaluate about your decisions in life and feel disappointed at yourself for even trying JS
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [mauro-balades/dotfiles](https://github.com/mauro-balades/dotfiles) - There is no place like ~/
-- [ItsRealmy/Idey](https://github.com/ItsRealmy/Idey) - An IDE with the worst name ever.
 
 ## D 
 
