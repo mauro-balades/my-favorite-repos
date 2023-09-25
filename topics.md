@@ -500,7 +500,6 @@
 - [jondgoodwin/conesite](https://github.com/jondgoodwin/conesite) - Cone website and playground
 - [mauro-balades/WorldGuard](https://github.com/mauro-balades/WorldGuard) - 🛡️ Protect your Minecraft server and lets players claim areas
 - [sindresorhus/npm-name-cli](https://github.com/sindresorhus/npm-name-cli) - Check whether a package or organization name is available on npm
-- [ItsRealmy/Idey](https://github.com/ItsRealmy/Idey) - An IDE with the worst name ever.
 - [maurobalades-contributions/command-t](https://github.com/maurobalades-contributions/command-t) - ⌨️ Fast file navigation for VIM
 - [mauro-balades/http-parser](https://github.com/mauro-balades/http-parser) - http request/response parser for c
 - [maurobalades-contributions/async-http-client](https://github.com/maurobalades-contributions/async-http-client) - HTTP client library built on SwiftNIO
