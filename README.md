@@ -258,7 +258,6 @@
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [cheese-official/.github](https://github.com/cheese-official/.github) - Cheese is a dairy product produced in wide ranges of flavors, textures and forms by coagulation of the milk protein casein.
-- [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
 - [Blankj/awesome-comment](https://github.com/Blankj/awesome-comment) - :boom: Funny comments
 - [maurobalades-contributions/Best-README-Template](https://github.com/maurobalades-contributions/Best-README-Template) - An awesome README template to jumpstart your projects!
 - [maurobalades-contributions/awesome-tuis](https://github.com/maurobalades-contributions/awesome-tuis) - List of projects that provide terminal user interfaces
@@ -280,7 +279,7 @@
 - [mauro-balades/infra](https://github.com/mauro-balades/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [compiler-explorer/infra](https://github.com/compiler-explorer/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [mauro-balades/ChromeVaultExtract](https://github.com/mauro-balades/ChromeVaultExtract) - a powerful software tool designed to effortlessly retrieve and extract saved passwords from the Google Chrome web browser.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 133 stars and 174 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 134 stars and 174 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username with SocialTrackr, the ultimate account hunting software.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [snowball-lang/SnowBot](https://github.com/snowball-lang/SnowBot) - 🤖 A discord bot that can compile and execute snowball code.
@@ -306,6 +305,7 @@
 
 ## Ruby 
 
+- [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
 - [maurobalades-contributions/command-t](https://github.com/maurobalades-contributions/command-t) - ⌨️ Fast file navigation for VIM
 - [maurobalades-contributions/linguist](https://github.com/maurobalades-contributions/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 
@@ -346,8 +346,8 @@
 
 ## TypeScript 
 
+- [guilda-app/app](https://github.com/guilda-app/app) - 📢 A dynamic and inclusive communication platform designed for modern communities
 - [Nerimity/nerimity-web](https://github.com/Nerimity/nerimity-web) - A modern and sleek chat app.
-- [guilda-app/client](https://github.com/guilda-app/client) - 📢 A dynamic and inclusive communication platform designed for modern communities
 - [ovr/StaticScript](https://github.com/ovr/StaticScript) - :rocket: TypeScript compiler on top of TypeScript as frontend and LLVM as backend
 - [tutao/tutanota](https://github.com/tutao/tutanota) - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [mauro-balades/compiler-explorer](https://github.com/mauro-balades/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
