@@ -114,6 +114,7 @@
 
 ## c 
 
+- [thelilylang/lily](https://github.com/thelilylang/lily) - The Lily programming language ⚜
 - [lz4/lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm
 - [phillbush/xmenu](https://github.com/phillbush/xmenu) - a x11 menu utility
 - [robiot/xclicker](https://github.com/robiot/xclicker) - XClicker - Fast gui autoclicker for x11 linux desktops
@@ -146,6 +147,9 @@
 
 ## compiler 
 
+- [kuredoro/riddle](https://github.com/kuredoro/riddle) - A toy imperative Pascal/C-like compiled language.
+- [thelilylang/lily](https://github.com/thelilylang/lily) - The Lily programming language ⚜
+- [shibatch/xpass](https://github.com/shibatch/xpass) - A collection of experimental optimizing passes for LLVM
 - [TypeSafeSchwalbe/gerac](https://github.com/TypeSafeSchwalbe/gerac) - The compiler for Gera, a statically typed and garbage collected programming language.
 - [orosmatthew/hydrogen-cpp](https://github.com/orosmatthew/hydrogen-cpp) - A hobby programming language 🔥
 - [gabivlj/candice](https://github.com/gabivlj/candice) - Candice, a dead simple language and multi-platform.
@@ -311,6 +315,7 @@
 
 ## language 
 
+- [kuredoro/riddle](https://github.com/kuredoro/riddle) - A toy imperative Pascal/C-like compiled language.
 - [Usbac/borealis](https://github.com/Usbac/borealis) - The elegant and consistent programming language.
 - [orosmatthew/hydrogen-cpp](https://github.com/orosmatthew/hydrogen-cpp) - A hobby programming language 🔥
 - [Fuechs/Fux](https://github.com/Fuechs/Fux) - Flawless Unambiguous Programming - A Modern, Flexible Programming Language for All
@@ -363,6 +368,7 @@
 
 ## others 
 
+- [ianlancetaylor/libbacktrace](https://github.com/ianlancetaylor/libbacktrace) - A C library that may be linked into a C/C++ program to produce symbolic backtraces
 - [mortdeus/legacy-cc](https://github.com/mortdeus/legacy-cc) - The earliest versions of the very first c compiler known to exist in the wild written by the late legend himself dmr.
 - [guilda-app/app](https://github.com/guilda-app/app) - 📢 A dynamic and inclusive communication platform designed for modern communities
 - [Nerimity/nerimity-web](https://github.com/Nerimity/nerimity-web) - A modern and sleek chat app.
