@@ -50,6 +50,8 @@
 
 ## C 
 
+- [thelilylang/lily](https://github.com/thelilylang/lily) - The Lily programming language ⚜
+- [ianlancetaylor/libbacktrace](https://github.com/ianlancetaylor/libbacktrace) - A C library that may be linked into a C/C++ program to produce symbolic backtraces
 - [mortdeus/legacy-cc](https://github.com/mortdeus/legacy-cc) - The earliest versions of the very first c compiler known to exist in the wild written by the late legend himself dmr.
 - [TypeSafeSchwalbe/Lania](https://github.com/TypeSafeSchwalbe/Lania) - A 2d top-down turn-based strategy terminal game written from scratch in C.
 - [Usbac/borealis](https://github.com/Usbac/borealis) - The elegant and consistent programming language.
@@ -75,6 +77,8 @@
 
 ## C++ 
 
+- [kuredoro/riddle](https://github.com/kuredoro/riddle) - A toy imperative Pascal/C-like compiled language.
+- [shibatch/xpass](https://github.com/shibatch/xpass) - A collection of experimental optimizing passes for LLVM
 - [orosmatthew/hydrogen-cpp](https://github.com/orosmatthew/hydrogen-cpp) - A hobby programming language 🔥
 - [mauro-balades/prompts-cpp](https://github.com/mauro-balades/prompts-cpp) - 🎨 A powerful C++ library designed to streamline the process of creating and managing beautiful prompts within your applications.
 - [aelliixx/cpp-inquirer](https://github.com/aelliixx/cpp-inquirer) - Interactive command line prompts with C++
