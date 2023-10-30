@@ -50,6 +50,7 @@
 
 ## C 
 
+- [SenegalLang/Senegal](https://github.com/SenegalLang/Senegal) - Senegal programming language
 - [thelilylang/lily](https://github.com/thelilylang/lily) - The Lily programming language ⚜
 - [ianlancetaylor/libbacktrace](https://github.com/ianlancetaylor/libbacktrace) - A C library that may be linked into a C/C++ program to produce symbolic backtraces
 - [mortdeus/legacy-cc](https://github.com/mortdeus/legacy-cc) - The earliest versions of the very first c compiler known to exist in the wild written by the late legend himself dmr.
