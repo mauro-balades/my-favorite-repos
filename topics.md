@@ -114,6 +114,7 @@
 
 ## c 
 
+- [N-Wouda/docblock](https://github.com/N-Wouda/docblock) - Parse C++ documentation blocks using Python.
 - [thelilylang/lily](https://github.com/thelilylang/lily) - The Lily programming language ⚜
 - [lz4/lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm
 - [phillbush/xmenu](https://github.com/phillbush/xmenu) - a x11 menu utility
@@ -150,7 +151,7 @@
 - [kuredoro/riddle](https://github.com/kuredoro/riddle) - A toy imperative Pascal/C-like compiled language.
 - [thelilylang/lily](https://github.com/thelilylang/lily) - The Lily programming language ⚜
 - [shibatch/xpass](https://github.com/shibatch/xpass) - A collection of experimental optimizing passes for LLVM
-- [TypeSafeSchwalbe/gerac](https://github.com/TypeSafeSchwalbe/gerac) - The compiler for Gera, a statically typed and garbage collected programming language.
+- [TypeSafeSchwalbe/gerac](https://github.com/TypeSafeSchwalbe/gerac) - The compiler for Gera, a statically typed and garbage collected programming language without type annotations.
 - [orosmatthew/hydrogen-cpp](https://github.com/orosmatthew/hydrogen-cpp) - A hobby programming language 🔥
 - [gabivlj/candice](https://github.com/gabivlj/candice) - Candice, a dead simple language and multi-platform.
 - [Fuechs/Fux](https://github.com/Fuechs/Fux) - Flawless Unambiguous Programming - A Modern, Flexible Programming Language for All
@@ -174,6 +175,7 @@
 
 ## cpp 
 
+- [N-Wouda/docblock](https://github.com/N-Wouda/docblock) - Parse C++ documentation blocks using Python.
 - [aelliixx/cpp-inquirer](https://github.com/aelliixx/cpp-inquirer) - Interactive command line prompts with C++
 - [Fuechs/Fux](https://github.com/Fuechs/Fux) - Flawless Unambiguous Programming - A Modern, Flexible Programming Language for All
 - [AmrDeveloper/Amun](https://github.com/AmrDeveloper/Amun) - A Statically typed, compiled general purpose low level programming language built using C++ and LLVM Infrastructure framework designed to be simple and fast
@@ -315,6 +317,7 @@
 
 ## language 
 
+- [fmiras/potterscript](https://github.com/fmiras/potterscript) - The Wizarding World Programming Language written in Rust
 - [kuredoro/riddle](https://github.com/kuredoro/riddle) - A toy imperative Pascal/C-like compiled language.
 - [Usbac/borealis](https://github.com/Usbac/borealis) - The elegant and consistent programming language.
 - [orosmatthew/hydrogen-cpp](https://github.com/orosmatthew/hydrogen-cpp) - A hobby programming language 🔥
@@ -368,6 +371,8 @@
 
 ## others 
 
+- [snowball-lang/autodoc-styles](https://github.com/snowball-lang/autodoc-styles) - CSS stylings for snowball's documentation generator
+- [gleam-lang/stdlib](https://github.com/gleam-lang/stdlib) - 🎁  Gleam's standard library
 - [SenegalLang/Senegal](https://github.com/SenegalLang/Senegal) - Senegal programming language
 - [ianlancetaylor/libbacktrace](https://github.com/ianlancetaylor/libbacktrace) - A C library that may be linked into a C/C++ program to produce symbolic backtraces
 - [mortdeus/legacy-cc](https://github.com/mortdeus/legacy-cc) - The earliest versions of the very first c compiler known to exist in the wild written by the late legend himself dmr.
@@ -396,7 +401,7 @@
 - [emm312/eepy](https://github.com/emm312/eepy) - 
 - [Khhs167/memstack](https://github.com/Khhs167/memstack) - A basic linked-list based tool for managing memory
 - [mauro-balades/ChromeVaultExtract](https://github.com/mauro-balades/ChromeVaultExtract) - a powerful software tool designed to effortlessly retrieve and extract saved passwords from the Google Chrome web browser.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 134 stars and 174 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 135 stars and 173 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username with SocialTrackr, the ultimate account hunting software.
 - [mauro-balades/password-judger](https://github.com/mauro-balades/password-judger) - Does he bite? no, he judges you
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
@@ -567,6 +572,7 @@
 
 ## python 
 
+- [N-Wouda/docblock](https://github.com/N-Wouda/docblock) - Parse C++ documentation blocks using Python.
 - [compiler-explorer/infra](https://github.com/compiler-explorer/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [orchest/orchest](https://github.com/orchest/orchest) - Build data pipelines, the easy way 🛠️
@@ -593,7 +599,8 @@
 
 ## rust 
 
-- [TypeSafeSchwalbe/gerac](https://github.com/TypeSafeSchwalbe/gerac) - The compiler for Gera, a statically typed and garbage collected programming language.
+- [fmiras/potterscript](https://github.com/fmiras/potterscript) - The Wizarding World Programming Language written in Rust
+- [TypeSafeSchwalbe/gerac](https://github.com/TypeSafeSchwalbe/gerac) - The compiler for Gera, a statically typed and garbage collected programming language without type annotations.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions
 - [Champii/Rock](https://github.com/Champii/Rock) - Native language with Rust & LLVM
