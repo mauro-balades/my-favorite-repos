@@ -16,6 +16,7 @@
 - [EJS](#ejs)
 - [Fortran](#fortran)
 - [GLSL](#glsl)
+- [Gleam](#gleam)
 - [Go](#go)
 - [HTML](#html)
 - [Haxe](#haxe)
@@ -118,6 +119,7 @@
 
 ## CSS 
 
+- [snowball-lang/autodoc-styles](https://github.com/snowball-lang/autodoc-styles) - CSS stylings for snowball's documentation generator
 - [mauro-balades/pixel-perfect](https://github.com/mauro-balades/pixel-perfect) - Perfectly Designed, Pixel by Pixel
 - [mauro-balades/WhyIHateJS](https://github.com/mauro-balades/WhyIHateJS) - A curated list containing things that will make you cry, re-evaluate about your decisions in life and feel disappointed at yourself for even trying JS
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
@@ -142,6 +144,10 @@
 ## GLSL 
 
 - [mauro-balades/Doom4Doom](https://github.com/mauro-balades/Doom4Doom) - A mod for GZDoom, backporting Doom 2016's weapons, monsters and features to Doom 2.
+
+## Gleam 
+
+- [gleam-lang/stdlib](https://github.com/gleam-lang/stdlib) - 🎁  Gleam's standard library
 
 ## Go 
 
@@ -281,11 +287,12 @@
 
 ## Python 
 
+- [N-Wouda/docblock](https://github.com/N-Wouda/docblock) - Parse C++ documentation blocks using Python.
 - [NNeryx/shaggy](https://github.com/NNeryx/shaggy) - Discover and connect with social media accounts across multiple platforms using just a username with SocialTrackr, the ultimate account hunting software.
 - [mauro-balades/infra](https://github.com/mauro-balades/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [compiler-explorer/infra](https://github.com/compiler-explorer/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [mauro-balades/ChromeVaultExtract](https://github.com/mauro-balades/ChromeVaultExtract) - a powerful software tool designed to effortlessly retrieve and extract saved passwords from the Google Chrome web browser.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 134 stars and 174 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 135 stars and 173 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username with SocialTrackr, the ultimate account hunting software.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [snowball-lang/SnowBot](https://github.com/snowball-lang/SnowBot) - 🤖 A discord bot that can compile and execute snowball code.
@@ -317,7 +324,8 @@
 
 ## Rust 
 
-- [TypeSafeSchwalbe/gerac](https://github.com/TypeSafeSchwalbe/gerac) - The compiler for Gera, a statically typed and garbage collected programming language.
+- [fmiras/potterscript](https://github.com/fmiras/potterscript) - The Wizarding World Programming Language written in Rust
+- [TypeSafeSchwalbe/gerac](https://github.com/TypeSafeSchwalbe/gerac) - The compiler for Gera, a statically typed and garbage collected programming language without type annotations.
 - [mauro-balades/sslb](https://github.com/mauro-balades/sslb) - 😊 Super Simple Language Backend - An IR constructed language backend that can compile to various different targets, designed to be simple and safe.
 - [mauro-balades/RetroByte](https://github.com/mauro-balades/RetroByte) - Minimalist, nostalgic, text-based OS.
 - [emm312/eepy](https://github.com/emm312/eepy) - 
