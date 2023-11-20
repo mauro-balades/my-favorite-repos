@@ -198,6 +198,7 @@
 - [skiplang/skip](https://github.com/skiplang/skip) - A programming language to skip the things you have already computed
 - [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - Free & open-source JavaScript library to detect user's Browser, Engine, OS, CPU, and Device type/model. Runs either in browser (client-side) or node.js (server-side).
 - [zspecza/system](https://github.com/zspecza/system) - A component system syntax for CSS
+- [mauro-balades/Codex](https://github.com/mauro-balades/Codex) - Codex is a multi-platform IDE with intuitive and modern design.
 - [curist/lxlox](https://github.com/curist/lxlox) - Lox derived programming language
 - [aemkei/jsfuck](https://github.com/aemkei/jsfuck) - Write any JavaScript with 6 Characters: []()!+
 - [nxnxu/ht](https://github.com/nxnxu/ht) - Hacker's Terminal - Pretend To Be A Hacker
@@ -246,6 +247,7 @@
 
 ## Others 
 
+- [snowball-lang/syntax-vscode](https://github.com/snowball-lang/syntax-vscode) - VS Code Language extension for snowball
 - [mauro-balades/llvm-project](https://github.com/mauro-balades/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
@@ -390,6 +392,7 @@
 - [mauro-balades/cdn-create](https://github.com/mauro-balades/cdn-create) - Create script/link tags to fetch your CDN resources and add them to your site at any time.
 - [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website
 - [mauro-balades/www](https://github.com/mauro-balades/www) - My own portfolio!
+- [status-hub/monitor](https://github.com/status-hub/monitor) - 🛸 status monitor powered by GitHub actions and @status-hub
 - [mauro-balades/cursora](https://github.com/mauro-balades/cursora) - Create buautiful cursors for your website
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [FriendlyCaptcha/friendly-challenge](https://github.com/FriendlyCaptcha/friendly-challenge) - The widget and docs for the proof of work challenge used in Friendly Captcha. Protect your websites and online services from spam and abuse with Friendly Captcha, a privacy-first anti-bot solution.
