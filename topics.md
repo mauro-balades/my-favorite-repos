@@ -371,6 +371,7 @@
 
 ## others 
 
+- [snowball-lang/syntax-vscode](https://github.com/snowball-lang/syntax-vscode) - VS Code Language extension for snowball
 - [snowball-lang/autodoc-styles](https://github.com/snowball-lang/autodoc-styles) - CSS stylings for snowball's documentation generator
 - [gleam-lang/stdlib](https://github.com/gleam-lang/stdlib) - 🎁  Gleam's standard library
 - [SenegalLang/Senegal](https://github.com/SenegalLang/Senegal) - Senegal programming language
@@ -452,6 +453,7 @@
 - [cyda-hub/www](https://github.com/cyda-hub/www) - main website for cyda
 - [TunnelMate/server](https://github.com/TunnelMate/server) - Server used for managing subdomains and IDs
 - [dark-flow/vscode](https://github.com/dark-flow/vscode) - Dark theme for visual studio code
+- [mauro-balades/Codex](https://github.com/mauro-balades/Codex) - Codex is a multi-platform IDE with intuitive and modern design.
 - [joaq-26/python-2022](https://github.com/joaq-26/python-2022) - Mi experiencias en python 2022
 - [curist/lxlox](https://github.com/curist/lxlox) - Lox derived programming language
 - [mauro-balades/debug-print](https://github.com/mauro-balades/debug-print) - Write meaningful messages for debugging, supported in multiple languages
@@ -481,6 +483,7 @@
 - [mauro-balades/hands](https://github.com/mauro-balades/hands) - A repository storing my assets
 - [callstack/react-theme-provider](https://github.com/callstack/react-theme-provider) - A set of utilities that help you create your own React theming system in few easy steps
 - [mauro-balades/www](https://github.com/mauro-balades/www) - My own portfolio!
+- [status-hub/monitor](https://github.com/status-hub/monitor) - 🛸 status monitor powered by GitHub actions and @status-hub
 - [mauro-balades/cursora](https://github.com/mauro-balades/cursora) - Create buautiful cursors for your website
 - [gmrchk/kinet](https://github.com/gmrchk/kinet) - Kind of a most lightweight animation library of all. Changes value with that spring effect, but keeps the rest to you.
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
