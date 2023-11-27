@@ -247,6 +247,7 @@
 
 ## Others 
 
+- [mauro-balades/FNAF-Resurgence](https://github.com/mauro-balades/FNAF-Resurgence) - 🌟 Five Nights at Freddy's: Resurgence – a hauntingly revamped FNAF remake bringing classic scares to a new level! 🐻🌙
 - [snowball-lang/syntax-vscode](https://github.com/snowball-lang/syntax-vscode) - VS Code Language extension for snowball
 - [mauro-balades/llvm-project](https://github.com/mauro-balades/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
@@ -363,6 +364,7 @@
 
 ## TypeScript 
 
+- [mauro-balades/GitStatHub](https://github.com/mauro-balades/GitStatHub) - ✨ Find statistics about your github repository and share them!
 - [guilda-app/app](https://github.com/guilda-app/app) - 📢 A dynamic and inclusive communication platform designed for modern communities
 - [Nerimity/nerimity-web](https://github.com/Nerimity/nerimity-web) - A modern and sleek chat app.
 - [ovr/StaticScript](https://github.com/ovr/StaticScript) - :rocket: TypeScript compiler on top of TypeScript as frontend and LLVM as backend
