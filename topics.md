@@ -371,6 +371,8 @@
 
 ## others 
 
+- [mauro-balades/FNAF-Resurgence](https://github.com/mauro-balades/FNAF-Resurgence) - 🌟 Five Nights at Freddy's: Resurgence – a hauntingly revamped FNAF remake bringing classic scares to a new level! 🐻🌙
+- [mauro-balades/GitStatHub](https://github.com/mauro-balades/GitStatHub) - ✨ Find statistics about your github repository and share them!
 - [snowball-lang/syntax-vscode](https://github.com/snowball-lang/syntax-vscode) - VS Code Language extension for snowball
 - [snowball-lang/autodoc-styles](https://github.com/snowball-lang/autodoc-styles) - CSS stylings for snowball's documentation generator
 - [gleam-lang/stdlib](https://github.com/gleam-lang/stdlib) - 🎁  Gleam's standard library
