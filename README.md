@@ -223,6 +223,7 @@
 
 ## Kotlin 
 
+- [1Dr490n/SCH](https://github.com/1Dr490n/SCH) - 
 - [iamgio/pikt](https://github.com/iamgio/pikt) - :art: Image-based poetic programming language.
 - [maurobalades-contributions/jasync-sql](https://github.com/maurobalades-contributions/jasync-sql) - Java & Kotlin Async DataBase Driver for MySQL and PostgreSQL written in Kotlin
 - [maurobalades-contributions/lyricist](https://github.com/maurobalades-contributions/lyricist) - 🌎 The missing I18N/L10N (internationalization/localization) library for Jetpack Compose!
@@ -248,6 +249,7 @@
 
 ## Others 
 
+- [mauro-balades/townscaper-objects](https://github.com/mauro-balades/townscaper-objects) - my own townscaper builds and object files
 - [mauro-balades/FNAF-Resurgence](https://github.com/mauro-balades/FNAF-Resurgence) - 🌟 Five Nights at Freddy's: Resurgence – a hauntingly revamped FNAF remake bringing classic scares to a new level! 🐻🌙
 - [snowball-lang/syntax-vscode](https://github.com/snowball-lang/syntax-vscode) - VS Code Language extension for snowball
 - [mauro-balades/llvm-project](https://github.com/mauro-balades/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
@@ -332,7 +334,7 @@
 ## Rust 
 
 - [fmiras/potterscript](https://github.com/fmiras/potterscript) - The Wizarding World Programming Language written in Rust
-- [TypeSafeSchwalbe/gerac](https://github.com/TypeSafeSchwalbe/gerac) - The compiler for Gera, a statically typed and garbage collected programming language without type annotations.
+- [TypeSafeSchwalbe/gerac](https://github.com/TypeSafeSchwalbe/gerac) - The compiler for the Gera programming language.
 - [mauro-balades/sslb](https://github.com/mauro-balades/sslb) - 😊 Super Simple Language Backend - An IR constructed language backend that can compile to various different targets, designed to be simple and safe.
 - [mauro-balades/RetroByte](https://github.com/mauro-balades/RetroByte) - Minimalist, nostalgic, text-based OS.
 - [emm312/eepy](https://github.com/emm312/eepy) - 
