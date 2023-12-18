@@ -153,7 +153,7 @@
 - [kuredoro/riddle](https://github.com/kuredoro/riddle) - A toy imperative Pascal/C-like compiled language.
 - [thelilylang/lily](https://github.com/thelilylang/lily) - The Lily programming language ⚜
 - [shibatch/xpass](https://github.com/shibatch/xpass) - A collection of experimental optimizing passes for LLVM
-- [TypeSafeSchwalbe/gerac](https://github.com/TypeSafeSchwalbe/gerac) - The compiler for Gera, a statically typed and garbage collected programming language without type annotations.
+- [TypeSafeSchwalbe/gerac](https://github.com/TypeSafeSchwalbe/gerac) - The compiler for the Gera programming language.
 - [orosmatthew/hydrogen-cpp](https://github.com/orosmatthew/hydrogen-cpp) - A hobby programming language 🔥
 - [gabivlj/candice](https://github.com/gabivlj/candice) - Candice, a dead simple language and multi-platform.
 - [Fuechs/Fux](https://github.com/Fuechs/Fux) - Flawless Unambiguous Programming - A Modern, Flexible Programming Language for All
@@ -308,7 +308,7 @@
 
 ## javascript 
 
-- [TypeSafeSchwalbe/gerac](https://github.com/TypeSafeSchwalbe/gerac) - The compiler for Gera, a statically typed and garbage collected programming language without type annotations.
+- [TypeSafeSchwalbe/gerac](https://github.com/TypeSafeSchwalbe/gerac) - The compiler for the Gera programming language.
 - [tutao/tutanota](https://github.com/tutao/tutanota) - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [mauro-balades/secondssincelastjavascriptframework](https://github.com/mauro-balades/secondssincelastjavascriptframework) - Get the up to date information about how many seconds has passed since last javascript framework has been published.
@@ -379,6 +379,8 @@
 
 ## others 
 
+- [1Dr490n/SCH](https://github.com/1Dr490n/SCH) - 
+- [mauro-balades/townscaper-objects](https://github.com/mauro-balades/townscaper-objects) - my own townscaper builds and object files
 - [amukh1/Lucidus](https://github.com/amukh1/Lucidus) - A small compiled low-level statically typed LLVM-Based Programming language.
 - [Aetheris743/Blender-PBR-Texture-Exporter](https://github.com/Aetheris743/Blender-PBR-Texture-Exporter) - A Blender PBR Material Texture and Object Exporter
 - [godotengine/godot-blender-exporter](https://github.com/godotengine/godot-blender-exporter) - Addon for Blender to directly export to a Godot Scene
@@ -621,7 +623,7 @@
 ## rust 
 
 - [fmiras/potterscript](https://github.com/fmiras/potterscript) - The Wizarding World Programming Language written in Rust
-- [TypeSafeSchwalbe/gerac](https://github.com/TypeSafeSchwalbe/gerac) - The compiler for Gera, a statically typed and garbage collected programming language without type annotations.
+- [TypeSafeSchwalbe/gerac](https://github.com/TypeSafeSchwalbe/gerac) - The compiler for the Gera programming language.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions
 - [Champii/Rock](https://github.com/Champii/Rock) - Native language with Rust & LLVM
