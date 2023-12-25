@@ -150,6 +150,7 @@
 
 ## compiler 
 
+- [alumina-lang/alumina](https://github.com/alumina-lang/alumina) - A general purpose programming language
 - [kuredoro/riddle](https://github.com/kuredoro/riddle) - A toy imperative Pascal/C-like compiled language.
 - [thelilylang/lily](https://github.com/thelilylang/lily) - The Lily programming language ⚜
 - [shibatch/xpass](https://github.com/shibatch/xpass) - A collection of experimental optimizing passes for LLVM
@@ -182,6 +183,7 @@
 - [Fuechs/Fux](https://github.com/Fuechs/Fux) - Flawless Unambiguous Programming - A Modern, Flexible Programming Language for All
 - [AmrDeveloper/Amun](https://github.com/AmrDeveloper/Amun) - A Statically typed, compiled general purpose low level programming language built using C++ and LLVM Infrastructure framework designed to be simple and fast
 - [Ark1409/shift](https://github.com/Ark1409/shift) - The 'shift' programming language
+- [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [yhirose/cpp-peglib](https://github.com/yhirose/cpp-peglib) - A single file C++ header-only PEG (Parsing Expression Grammars) library
 - [qiubit/lattec](https://github.com/qiubit/lattec) - LLVM based compiler for simple OO programming language, made for compilers university class
@@ -404,7 +406,6 @@
 - [mauro-balades/prompts-cpp](https://github.com/mauro-balades/prompts-cpp) - 🎨 A powerful C++ library designed to streamline the process of creating and managing beautiful prompts within your applications.
 - [Naotonosato/Clawn](https://github.com/Naotonosato/Clawn) - The Clawn Programming Language
 - [siko-lang/siko](https://github.com/siko-lang/siko) - siko
-- [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
 - [TypeSafeSchwalbe/iolitevm](https://github.com/TypeSafeSchwalbe/iolitevm) - The virtual machine for the Iolite programming language.
 - [lhmouse/asteria](https://github.com/lhmouse/asteria) - The Asteria Programming Language
 - [TypeSafeSchwalbe/hasm](https://github.com/TypeSafeSchwalbe/hasm) - Very simple assembly-like language
@@ -417,7 +418,7 @@
 - [emm312/eepy](https://github.com/emm312/eepy) - 
 - [Khhs167/memstack](https://github.com/Khhs167/memstack) - A basic linked-list based tool for managing memory
 - [mauro-balades/ChromeVaultExtract](https://github.com/mauro-balades/ChromeVaultExtract) - a powerful software tool designed to effortlessly retrieve and extract saved passwords from the Google Chrome web browser.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 139 stars and 172 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 140 stars and 172 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username with SocialTrackr, the ultimate account hunting software.
 - [mauro-balades/password-judger](https://github.com/mauro-balades/password-judger) - Does he bite? no, he judges you
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
