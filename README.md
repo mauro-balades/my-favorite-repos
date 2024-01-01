@@ -79,6 +79,7 @@
 
 ## C++ 
 
+- [kisli/vmime](https://github.com/kisli/vmime) - VMime Mail Library
 - [amukh1/Lucidus](https://github.com/amukh1/Lucidus) - A small compiled low-level statically typed LLVM-Based Programming language.
 - [kuredoro/riddle](https://github.com/kuredoro/riddle) - A toy imperative Pascal/C-like compiled language.
 - [shibatch/xpass](https://github.com/shibatch/xpass) - A collection of experimental optimizing passes for LLVM
@@ -160,6 +161,7 @@
 
 ## HTML 
 
+- [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [mauro-balades/real-fake-updates](https://github.com/mauro-balades/real-fake-updates) - 🕶️ Fool your pals with super believable fake OS updates.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [mauro-useless-web/randomemoji](https://github.com/mauro-useless-web/randomemoji) - Generate a random sequence of emojis
@@ -189,6 +191,7 @@
 
 ## JavaScript 
 
+- [mauro-balades/JS-2-Gera](https://github.com/mauro-balades/JS-2-Gera) - 🗿 Convert javascript files into Gera!
 - [TypeSafeSchwalbe/typeshields](https://github.com/TypeSafeSchwalbe/typeshields) - Add runtime type checking to your Javascript code without writing a bunch of boilerplate.
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [mauro-balades/CodeQuest](https://github.com/mauro-balades/CodeQuest) - 🕵️‍♂️ CodeQuest - Guess the Programming Language CLI Game
@@ -249,6 +252,8 @@
 
 ## Others 
 
+- [snowball-lang/packages](https://github.com/snowball-lang/packages) - 📦 Package index for modules made by the snowball comunity.
+- [mauro-balades/rgb](https://github.com/mauro-balades/rgb) - 🎨 A library that allows the usage and modifications of RGB colors for snowball!!!
 - [mauro-balades/townscaper-objects](https://github.com/mauro-balades/townscaper-objects) - my own townscaper builds and object files
 - [mauro-balades/FNAF-Resurgence](https://github.com/mauro-balades/FNAF-Resurgence) - 🌟 Five Nights at Freddy's: Resurgence – a hauntingly revamped FNAF remake bringing classic scares to a new level! 🐻🌙
 - [snowball-lang/syntax-vscode](https://github.com/snowball-lang/syntax-vscode) - VS Code Language extension for snowball
@@ -301,7 +306,7 @@
 - [mauro-balades/infra](https://github.com/mauro-balades/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [compiler-explorer/infra](https://github.com/compiler-explorer/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [mauro-balades/ChromeVaultExtract](https://github.com/mauro-balades/ChromeVaultExtract) - a powerful software tool designed to effortlessly retrieve and extract saved passwords from the Google Chrome web browser.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 140 stars and 172 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 141 stars and 172 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username with SocialTrackr, the ultimate account hunting software.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [snowball-lang/SnowBot](https://github.com/snowball-lang/SnowBot) - 🤖 A discord bot that can compile and execute snowball code.
