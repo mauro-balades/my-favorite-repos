@@ -52,7 +52,6 @@
 - [linux](#linux)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
-- [nextjs](#nextjs)
 - [open-source](#open-source)
 - [opengl](#opengl)
 - [others](#others)
@@ -74,6 +73,7 @@
 - [svelte](#svelte)
 - [swift](#swift)
 - [swiftui](#swiftui)
+- [terminal](#terminal)
 - [terraform](#terraform)
 - [testing](#testing)
 - [typescript](#typescript)
@@ -349,6 +349,7 @@
 
 ## library 
 
+- [kisli/vmime](https://github.com/kisli/vmime) - VMime Mail Library
 - [FriendlyCaptcha/friendly-challenge](https://github.com/FriendlyCaptcha/friendly-challenge) - The widget and docs for the proof of work challenge used in Friendly Captcha. Protect your websites and online services from spam and abuse with Friendly Captcha, a privacy-first anti-bot solution.
 
 ## linux 
@@ -365,10 +366,6 @@
 
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 
-## nextjs 
-
-- [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website
-
 ## open-source 
 
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
@@ -381,6 +378,10 @@
 
 ## others 
 
+- [snowball-lang/packages](https://github.com/snowball-lang/packages) - 📦 Package index for modules made by the snowball comunity.
+- [mauro-balades/rgb](https://github.com/mauro-balades/rgb) - 🎨 A library that allows the usage and modifications of RGB colors for snowball!!!
+- [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
+- [mauro-balades/JS-2-Gera](https://github.com/mauro-balades/JS-2-Gera) - 🗿 Convert javascript files into Gera!
 - [1Dr490n/SCH](https://github.com/1Dr490n/SCH) - 
 - [mauro-balades/townscaper-objects](https://github.com/mauro-balades/townscaper-objects) - my own townscaper builds and object files
 - [amukh1/Lucidus](https://github.com/amukh1/Lucidus) - A small compiled low-level statically typed LLVM-Based Programming language.
@@ -418,7 +419,7 @@
 - [emm312/eepy](https://github.com/emm312/eepy) - 
 - [Khhs167/memstack](https://github.com/Khhs167/memstack) - A basic linked-list based tool for managing memory
 - [mauro-balades/ChromeVaultExtract](https://github.com/mauro-balades/ChromeVaultExtract) - a powerful software tool designed to effortlessly retrieve and extract saved passwords from the Google Chrome web browser.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 140 stars and 172 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 141 stars and 172 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username with SocialTrackr, the ultimate account hunting software.
 - [mauro-balades/password-judger](https://github.com/mauro-balades/password-judger) - Does he bite? no, he judges you
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
@@ -611,7 +612,6 @@
 ## react 
 
 - [mburakerman/reactplosive-modal](https://github.com/mburakerman/reactplosive-modal) - 🔥 A simple React modal component with an explosion effect
-- [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website
 
 ## reverse-engineering 
 
@@ -656,6 +656,7 @@
 ## svelte 
 
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
+- [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website
 
 ## swift 
 
@@ -665,6 +666,10 @@
 ## swiftui 
 
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
+
+## terminal 
+
+- [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website
 
 ## terraform 
 
