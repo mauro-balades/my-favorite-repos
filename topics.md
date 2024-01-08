@@ -33,6 +33,7 @@
 - [firefox](#firefox)
 - [framework](#framework)
 - [game](#game)
+- [game-development](#game-development)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -52,6 +53,7 @@
 - [linux](#linux)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
+- [nim](#nim)
 - [open-source](#open-source)
 - [opengl](#opengl)
 - [others](#others)
@@ -178,6 +180,7 @@
 
 ## cpp 
 
+- [SergeyMakeev/smmalloc](https://github.com/SergeyMakeev/smmalloc) - Blazing fast memory allocator designed for video games
 - [N-Wouda/docblock](https://github.com/N-Wouda/docblock) - Parse C++ documentation blocks using Python.
 - [aelliixx/cpp-inquirer](https://github.com/aelliixx/cpp-inquirer) - Interactive command line prompts with C++
 - [Fuechs/Fux](https://github.com/Fuechs/Fux) - Flawless Unambiguous Programming - A Modern, Flexible Programming Language for All
@@ -249,6 +252,10 @@
 
 - [TypeSafeSchwalbe/Lania](https://github.com/TypeSafeSchwalbe/Lania) - A 2d top-down turn-based strategy terminal game written from scratch in C.
 
+## game-development 
+
+- [SergeyMakeev/smmalloc](https://github.com/SergeyMakeev/smmalloc) - Blazing fast memory allocator designed for video games
+
 ## git 
 
 - [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions
@@ -305,7 +312,7 @@
 
 ## java 
 
-- [omegaui/omegaide](https://github.com/omegaui/omegaide) - An Instant IDE from the Future.
+- [omegaui/omegaide](https://github.com/omegaui/omegaide) - An Instant IDE from the Future that supports any programming language.
 - [mauro-balades/hello-world](https://github.com/mauro-balades/hello-world) - hello-world in any programming language.
 
 ## javascript 
@@ -366,6 +373,10 @@
 
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 
+## nim 
+
+- [nim-lang/packages](https://github.com/nim-lang/packages) - List of packages for Nimble
+
 ## open-source 
 
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
@@ -378,8 +389,11 @@
 
 ## others 
 
+- [mauro-balades/is-odd-sn](https://github.com/mauro-balades/is-odd-sn) - Check if a number is odd
+- [i-voted-for-trump/is-even](https://github.com/i-voted-for-trump/is-even) - I created this in 2014, when I was learning how to program.
+- [mauro-balades/is-even-sn](https://github.com/mauro-balades/is-even-sn) - Check if a number is even
 - [snowball-lang/packages](https://github.com/snowball-lang/packages) - 📦 Package index for modules made by the snowball comunity.
-- [mauro-balades/rgb](https://github.com/mauro-balades/rgb) - 🎨 A library that allows the usage and modifications of RGB colors for snowball!!!
+- [mauro-balades/rgb-sn](https://github.com/mauro-balades/rgb-sn) - 🎨 A library that allows the usage and modifications of RGB colors for snowball!
 - [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [mauro-balades/JS-2-Gera](https://github.com/mauro-balades/JS-2-Gera) - 🗿 Convert javascript files into Gera!
 - [1Dr490n/SCH](https://github.com/1Dr490n/SCH) - 
@@ -419,7 +433,7 @@
 - [emm312/eepy](https://github.com/emm312/eepy) - 
 - [Khhs167/memstack](https://github.com/Khhs167/memstack) - A basic linked-list based tool for managing memory
 - [mauro-balades/ChromeVaultExtract](https://github.com/mauro-balades/ChromeVaultExtract) - a powerful software tool designed to effortlessly retrieve and extract saved passwords from the Google Chrome web browser.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 141 stars and 172 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 142 stars and 172 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username with SocialTrackr, the ultimate account hunting software.
 - [mauro-balades/password-judger](https://github.com/mauro-balades/password-judger) - Does he bite? no, he judges you
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
@@ -429,10 +443,10 @@
 - [scrwdrv/colorful-log](https://github.com/scrwdrv/colorful-log) - Simple, lightweight and good looking logger.
 - [mauro-balades/gravity](https://github.com/mauro-balades/gravity) - Gravity browser - Privacy is not an option, it's a must
 - [dyyllaann/simplefolio-react](https://github.com/dyyllaann/simplefolio-react) - A clean, beautiful and responsive React-based portfolio template for developers!
-- [mauro-useless-web/randomemoji](https://github.com/mauro-useless-web/randomemoji) - Generate a random sequence of emojis
-- [mauro-useless-web/whydidyouclickthis](https://github.com/mauro-useless-web/whydidyouclickthis) - Sometimes the journey is more important than the destination
-- [mauro-useless-web/whattimeisit](https://github.com/mauro-useless-web/whattimeisit) - Because knowing the time dramatically is the only way to know it.
-- [mauro-useless-web/infinite-building](https://github.com/mauro-useless-web/infinite-building) - Legend says that there will be a reward at 1K scrolls...
+- [useless-web/randomemoji](https://github.com/useless-web/randomemoji) - Generate a random sequence of emojis
+- [useless-web/whydidyouclickthis](https://github.com/useless-web/whydidyouclickthis) - Sometimes the journey is more important than the destination
+- [useless-web/whattimeisit](https://github.com/useless-web/whattimeisit) - Because knowing the time dramatically is the only way to know it.
+- [useless-web/infinite-building](https://github.com/useless-web/infinite-building) - Legend says that there will be a reward at 1K scrolls...
 - [mauro-balades/SnapKit](https://github.com/mauro-balades/SnapKit) - 🎨 Make your UI design dreams come true with SnapKit! 🚀
 - [emm312/iron](https://github.com/emm312/iron) - 
 - [mauro-balades/pixel-perfect](https://github.com/mauro-balades/pixel-perfect) - Perfectly Designed, Pixel by Pixel
