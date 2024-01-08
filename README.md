@@ -79,6 +79,7 @@
 
 ## C++ 
 
+- [SergeyMakeev/smmalloc](https://github.com/SergeyMakeev/smmalloc) - Blazing fast memory allocator designed for video games
 - [kisli/vmime](https://github.com/kisli/vmime) - VMime Mail Library
 - [amukh1/Lucidus](https://github.com/amukh1/Lucidus) - A small compiled low-level statically typed LLVM-Based Programming language.
 - [kuredoro/riddle](https://github.com/kuredoro/riddle) - A toy imperative Pascal/C-like compiled language.
@@ -164,10 +165,10 @@
 - [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [mauro-balades/real-fake-updates](https://github.com/mauro-balades/real-fake-updates) - 🕶️ Fool your pals with super believable fake OS updates.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
-- [mauro-useless-web/randomemoji](https://github.com/mauro-useless-web/randomemoji) - Generate a random sequence of emojis
-- [mauro-useless-web/whydidyouclickthis](https://github.com/mauro-useless-web/whydidyouclickthis) - Sometimes the journey is more important than the destination
-- [mauro-useless-web/whattimeisit](https://github.com/mauro-useless-web/whattimeisit) - Because knowing the time dramatically is the only way to know it.
-- [mauro-useless-web/infinite-building](https://github.com/mauro-useless-web/infinite-building) - Legend says that there will be a reward at 1K scrolls...
+- [useless-web/randomemoji](https://github.com/useless-web/randomemoji) - Generate a random sequence of emojis
+- [useless-web/whydidyouclickthis](https://github.com/useless-web/whydidyouclickthis) - Sometimes the journey is more important than the destination
+- [useless-web/whattimeisit](https://github.com/useless-web/whattimeisit) - Because knowing the time dramatically is the only way to know it.
+- [useless-web/infinite-building](https://github.com/useless-web/infinite-building) - Legend says that there will be a reward at 1K scrolls...
 - [proglangdesign/proglangdesign.github.io](https://github.com/proglangdesign/proglangdesign.github.io) - A website for the #proglangdesign community on freenode
 - [chr15m/DoodleCSS](https://github.com/chr15m/DoodleCSS) - A simple hand drawn HTML/CSS theme
 - [spikecodes/peacock](https://github.com/spikecodes/peacock) - 🦚 Open source experimental private-by-default web browser.
@@ -184,13 +185,14 @@
 ## Java 
 
 - [jpcap/jpcap](https://github.com/jpcap/jpcap) - network packet capture library for applications written in java
-- [omegaui/omegaide](https://github.com/omegaui/omegaide) - An Instant IDE from the Future.
+- [omegaui/omegaide](https://github.com/omegaui/omegaide) - An Instant IDE from the Future that supports any programming language.
 - [mauro-balades/WorldGuard](https://github.com/mauro-balades/WorldGuard) - 🛡️ Protect your Minecraft server and lets players claim areas
 - [maurobalades-contributions/AuthMeReloaded](https://github.com/maurobalades-contributions/AuthMeReloaded) - The best authentication plugin for the Bukkit/Spigot API!
 - [mauro-balades/java-render](https://github.com/mauro-balades/java-render) - Render 3D objects in java
 
 ## JavaScript 
 
+- [i-voted-for-trump/is-even](https://github.com/i-voted-for-trump/is-even) - I created this in 2014, when I was learning how to program.
 - [mauro-balades/JS-2-Gera](https://github.com/mauro-balades/JS-2-Gera) - 🗿 Convert javascript files into Gera!
 - [TypeSafeSchwalbe/typeshields](https://github.com/TypeSafeSchwalbe/typeshields) - Add runtime type checking to your Javascript code without writing a bunch of boilerplate.
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
@@ -243,6 +245,7 @@
 
 ## Nim 
 
+- [nim-lang/packages](https://github.com/nim-lang/packages) - List of packages for Nimble
 - [mauro-balades/build-sys](https://github.com/mauro-balades/build-sys) - A recreation from Makefile made in nim!
 - [maurobalades-contributions/packages](https://github.com/maurobalades-contributions/packages) - List of packages for Nimble
 
@@ -252,8 +255,9 @@
 
 ## Others 
 
-- [snowball-lang/packages](https://github.com/snowball-lang/packages) - 📦 Package index for modules made by the snowball comunity.
-- [mauro-balades/rgb](https://github.com/mauro-balades/rgb) - 🎨 A library that allows the usage and modifications of RGB colors for snowball!!!
+- [mauro-balades/is-odd-sn](https://github.com/mauro-balades/is-odd-sn) - Check if a number is odd
+- [mauro-balades/is-even-sn](https://github.com/mauro-balades/is-even-sn) - Check if a number is even
+- [mauro-balades/rgb-sn](https://github.com/mauro-balades/rgb-sn) - 🎨 A library that allows the usage and modifications of RGB colors for snowball!
 - [mauro-balades/townscaper-objects](https://github.com/mauro-balades/townscaper-objects) - my own townscaper builds and object files
 - [mauro-balades/FNAF-Resurgence](https://github.com/mauro-balades/FNAF-Resurgence) - 🌟 Five Nights at Freddy's: Resurgence – a hauntingly revamped FNAF remake bringing classic scares to a new level! 🐻🌙
 - [snowball-lang/syntax-vscode](https://github.com/snowball-lang/syntax-vscode) - VS Code Language extension for snowball
@@ -298,6 +302,7 @@
 
 ## Python 
 
+- [snowball-lang/packages](https://github.com/snowball-lang/packages) - 📦 Package index for modules made by the snowball comunity.
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
 - [Aetheris743/Blender-PBR-Texture-Exporter](https://github.com/Aetheris743/Blender-PBR-Texture-Exporter) - A Blender PBR Material Texture and Object Exporter
 - [godotengine/godot-blender-exporter](https://github.com/godotengine/godot-blender-exporter) - Addon for Blender to directly export to a Godot Scene
@@ -306,7 +311,7 @@
 - [mauro-balades/infra](https://github.com/mauro-balades/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [compiler-explorer/infra](https://github.com/compiler-explorer/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [mauro-balades/ChromeVaultExtract](https://github.com/mauro-balades/ChromeVaultExtract) - a powerful software tool designed to effortlessly retrieve and extract saved passwords from the Google Chrome web browser.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 141 stars and 172 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 142 stars and 172 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username with SocialTrackr, the ultimate account hunting software.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [snowball-lang/SnowBot](https://github.com/snowball-lang/SnowBot) - 🤖 A discord bot that can compile and execute snowball code.
