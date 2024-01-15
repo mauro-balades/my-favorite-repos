@@ -79,6 +79,8 @@
 
 ## C++ 
 
+- [spicelang/spice](https://github.com/spicelang/spice) - Spice Programming Language
+- [onchere/whack](https://github.com/onchere/whack) - The Whack Programming Language
 - [SergeyMakeev/smmalloc](https://github.com/SergeyMakeev/smmalloc) - Blazing fast memory allocator designed for video games
 - [kisli/vmime](https://github.com/kisli/vmime) - VMime Mail Library
 - [amukh1/Lucidus](https://github.com/amukh1/Lucidus) - A small compiled low-level statically typed LLVM-Based Programming language.
@@ -259,7 +261,6 @@
 - [mauro-balades/is-even-sn](https://github.com/mauro-balades/is-even-sn) - Check if a number is even
 - [mauro-balades/rgb-sn](https://github.com/mauro-balades/rgb-sn) - 🎨 A library that allows the usage and modifications of RGB colors for snowball!
 - [mauro-balades/townscaper-objects](https://github.com/mauro-balades/townscaper-objects) - my own townscaper builds and object files
-- [mauro-balades/FNAF-Resurgence](https://github.com/mauro-balades/FNAF-Resurgence) - 🌟 Five Nights at Freddy's: Resurgence – a hauntingly revamped FNAF remake bringing classic scares to a new level! 🐻🌙
 - [snowball-lang/syntax-vscode](https://github.com/snowball-lang/syntax-vscode) - VS Code Language extension for snowball
 - [mauro-balades/llvm-project](https://github.com/mauro-balades/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
@@ -311,7 +312,7 @@
 - [mauro-balades/infra](https://github.com/mauro-balades/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [compiler-explorer/infra](https://github.com/compiler-explorer/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [mauro-balades/ChromeVaultExtract](https://github.com/mauro-balades/ChromeVaultExtract) - a powerful software tool designed to effortlessly retrieve and extract saved passwords from the Google Chrome web browser.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 142 stars and 172 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 143 stars and 172 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username with SocialTrackr, the ultimate account hunting software.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [snowball-lang/SnowBot](https://github.com/snowball-lang/SnowBot) - 🤖 A discord bot that can compile and execute snowball code.
@@ -343,9 +344,10 @@
 
 ## Rust 
 
+- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [alumina-lang/alumina](https://github.com/alumina-lang/alumina) - A general purpose programming language
 - [fmiras/potterscript](https://github.com/fmiras/potterscript) - The Wizarding World Programming Language written in Rust
-- [TypeSafeSchwalbe/gerac](https://github.com/TypeSafeSchwalbe/gerac) - The compiler for the Gera programming language.
+- [geralang/gerac](https://github.com/geralang/gerac) - The compiler for the Gera programming language.
 - [mauro-balades/sslb](https://github.com/mauro-balades/sslb) - 😊 Super Simple Language Backend - An IR constructed language backend that can compile to various different targets, designed to be simple and safe.
 - [mauro-balades/RetroByte](https://github.com/mauro-balades/RetroByte) - Minimalist, nostalgic, text-based OS.
 - [emm312/eepy](https://github.com/emm312/eepy) - 
