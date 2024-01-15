@@ -152,11 +152,13 @@
 
 ## compiler 
 
+- [spicelang/spice](https://github.com/spicelang/spice) - Spice Programming Language
+- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [alumina-lang/alumina](https://github.com/alumina-lang/alumina) - A general purpose programming language
 - [kuredoro/riddle](https://github.com/kuredoro/riddle) - A toy imperative Pascal/C-like compiled language.
 - [thelilylang/lily](https://github.com/thelilylang/lily) - The Lily programming language ⚜
 - [shibatch/xpass](https://github.com/shibatch/xpass) - A collection of experimental optimizing passes for LLVM
-- [TypeSafeSchwalbe/gerac](https://github.com/TypeSafeSchwalbe/gerac) - The compiler for the Gera programming language.
+- [geralang/gerac](https://github.com/geralang/gerac) - The compiler for the Gera programming language.
 - [orosmatthew/hydrogen-cpp](https://github.com/orosmatthew/hydrogen-cpp) - A hobby programming language 🔥
 - [gabivlj/candice](https://github.com/gabivlj/candice) - Candice, a dead simple language and multi-platform.
 - [Fuechs/Fux](https://github.com/Fuechs/Fux) - Flawless Unambiguous Programming - A Modern, Flexible Programming Language for All
@@ -288,6 +290,7 @@
 
 ## hacktoberfest 
 
+- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [thuva4/Algorithms](https://github.com/thuva4/Algorithms) - Collection of algorithms in multiple programming languages.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs) - 🦕 A collection of Orpheus (Hack Club's mascot) drawings!
@@ -317,7 +320,7 @@
 
 ## javascript 
 
-- [TypeSafeSchwalbe/gerac](https://github.com/TypeSafeSchwalbe/gerac) - The compiler for the Gera programming language.
+- [geralang/gerac](https://github.com/geralang/gerac) - The compiler for the Gera programming language.
 - [tutao/tutanota](https://github.com/tutao/tutanota) - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [mauro-balades/secondssincelastjavascriptframework](https://github.com/mauro-balades/secondssincelastjavascriptframework) - Get the up to date information about how many seconds has passed since last javascript framework has been published.
@@ -334,6 +337,8 @@
 
 ## language 
 
+- [spicelang/spice](https://github.com/spicelang/spice) - Spice Programming Language
+- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [fmiras/potterscript](https://github.com/fmiras/potterscript) - The Wizarding World Programming Language written in Rust
 - [kuredoro/riddle](https://github.com/kuredoro/riddle) - A toy imperative Pascal/C-like compiled language.
 - [Usbac/borealis](https://github.com/Usbac/borealis) - The elegant and consistent programming language.
@@ -389,6 +394,7 @@
 
 ## others 
 
+- [onchere/whack](https://github.com/onchere/whack) - The Whack Programming Language
 - [mauro-balades/is-odd-sn](https://github.com/mauro-balades/is-odd-sn) - Check if a number is odd
 - [i-voted-for-trump/is-even](https://github.com/i-voted-for-trump/is-even) - I created this in 2014, when I was learning how to program.
 - [mauro-balades/is-even-sn](https://github.com/mauro-balades/is-even-sn) - Check if a number is even
@@ -401,7 +407,6 @@
 - [amukh1/Lucidus](https://github.com/amukh1/Lucidus) - A small compiled low-level statically typed LLVM-Based Programming language.
 - [Aetheris743/Blender-PBR-Texture-Exporter](https://github.com/Aetheris743/Blender-PBR-Texture-Exporter) - A Blender PBR Material Texture and Object Exporter
 - [godotengine/godot-blender-exporter](https://github.com/godotengine/godot-blender-exporter) - Addon for Blender to directly export to a Godot Scene
-- [mauro-balades/FNAF-Resurgence](https://github.com/mauro-balades/FNAF-Resurgence) - 🌟 Five Nights at Freddy's: Resurgence – a hauntingly revamped FNAF remake bringing classic scares to a new level! 🐻🌙
 - [mauro-balades/GitStatHub](https://github.com/mauro-balades/GitStatHub) - ✨ Find statistics about your github repository and share them!
 - [snowball-lang/syntax-vscode](https://github.com/snowball-lang/syntax-vscode) - VS Code Language extension for snowball
 - [snowball-lang/autodoc-styles](https://github.com/snowball-lang/autodoc-styles) - CSS stylings for snowball's documentation generator
@@ -433,7 +438,7 @@
 - [emm312/eepy](https://github.com/emm312/eepy) - 
 - [Khhs167/memstack](https://github.com/Khhs167/memstack) - A basic linked-list based tool for managing memory
 - [mauro-balades/ChromeVaultExtract](https://github.com/mauro-balades/ChromeVaultExtract) - a powerful software tool designed to effortlessly retrieve and extract saved passwords from the Google Chrome web browser.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 142 stars and 172 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 143 stars and 172 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username with SocialTrackr, the ultimate account hunting software.
 - [mauro-balades/password-judger](https://github.com/mauro-balades/password-judger) - Does he bite? no, he judges you
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
@@ -637,8 +642,9 @@
 
 ## rust 
 
+- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [fmiras/potterscript](https://github.com/fmiras/potterscript) - The Wizarding World Programming Language written in Rust
-- [TypeSafeSchwalbe/gerac](https://github.com/TypeSafeSchwalbe/gerac) - The compiler for the Gera programming language.
+- [geralang/gerac](https://github.com/geralang/gerac) - The compiler for the Gera programming language.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions
 - [Champii/Rock](https://github.com/Champii/Rock) - Native language with Rust & LLVM
