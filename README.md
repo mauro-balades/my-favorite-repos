@@ -11,9 +11,11 @@
 - [C++](#c++)
 - [CMake](#cmake)
 - [CSS](#css)
+- [Crystal](#crystal)
 - [D](#d)
 - [Dart](#dart)
 - [EJS](#ejs)
+- [Fantom](#fantom)
 - [Fortran](#fortran)
 - [GLSL](#glsl)
 - [Gleam](#gleam)
@@ -79,6 +81,7 @@
 
 ## C++ 
 
+- [mauro-balades/GymBuddy](https://github.com/mauro-balades/GymBuddy) - 🏋️ Track and share your fitness path with the rest of the world!
 - [spicelang/spice](https://github.com/spicelang/spice) - Spice Programming Language
 - [onchere/whack](https://github.com/onchere/whack) - The Whack Programming Language
 - [SergeyMakeev/smmalloc](https://github.com/SergeyMakeev/smmalloc) - Blazing fast memory allocator designed for video games
@@ -125,10 +128,14 @@
 ## CSS 
 
 - [snowball-lang/autodoc-styles](https://github.com/snowball-lang/autodoc-styles) - CSS stylings for snowball's documentation generator
-- [mauro-balades/pixel-perfect](https://github.com/mauro-balades/pixel-perfect) - Perfectly Designed, Pixel by Pixel
+- [astra-web/pixel-perfect](https://github.com/astra-web/pixel-perfect) - Perfectly Designed, Pixel by Pixel
 - [mauro-balades/WhyIHateJS](https://github.com/mauro-balades/WhyIHateJS) - A curated list containing things that will make you cry, re-evaluate about your decisions in life and feel disappointed at yourself for even trying JS
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [mauro-balades/dotfiles](https://github.com/mauro-balades/dotfiles) - There is no place like ~/
+
+## Crystal 
+
+- [savi-lang/savi](https://github.com/savi-lang/savi) - A fast language for programmers who are passionate about their craft.
 
 ## D 
 
@@ -141,6 +148,10 @@
 ## EJS 
 
 - [cyda-hub/www](https://github.com/cyda-hub/www) - main website for cyda
+
+## Fantom 
+
+- [fanx-dev/fanx](https://github.com/fanx-dev/fanx) - A full-stack programming language
 
 ## Fortran 
 
@@ -164,6 +175,7 @@
 
 ## HTML 
 
+- [astra-web/www](https://github.com/astra-web/www) - 🌐 Website to showcase astra's tools
 - [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [mauro-balades/real-fake-updates](https://github.com/mauro-balades/real-fake-updates) - 🕶️ Fool your pals with super believable fake OS updates.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -312,7 +324,7 @@
 - [mauro-balades/infra](https://github.com/mauro-balades/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [compiler-explorer/infra](https://github.com/compiler-explorer/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [mauro-balades/ChromeVaultExtract](https://github.com/mauro-balades/ChromeVaultExtract) - a powerful software tool designed to effortlessly retrieve and extract saved passwords from the Google Chrome web browser.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 143 stars and 172 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 142 stars and 172 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username with SocialTrackr, the ultimate account hunting software.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [snowball-lang/SnowBot](https://github.com/snowball-lang/SnowBot) - 🤖 A discord bot that can compile and execute snowball code.
@@ -387,7 +399,7 @@
 - [guilda-app/app](https://github.com/guilda-app/app) - 📢 A dynamic and inclusive communication platform designed for modern communities
 - [Nerimity/nerimity-web](https://github.com/Nerimity/nerimity-web) - A modern and sleek chat app.
 - [ovr/StaticScript](https://github.com/ovr/StaticScript) - :rocket: TypeScript compiler on top of TypeScript as frontend and LLVM as backend
-- [tutao/tutanota](https://github.com/tutao/tutanota) - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
+- [tutao/tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [mauro-balades/compiler-explorer](https://github.com/mauro-balades/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [matteobortolazzo/stylo](https://github.com/matteobortolazzo/stylo) - A new Design-as-code language side project.
