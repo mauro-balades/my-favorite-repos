@@ -81,8 +81,8 @@
 
 ## C++ 
 
-- [mauro-balades/GymBuddy](https://github.com/mauro-balades/GymBuddy) - 🏋️ Track and share your fitness path with the rest of the world!
 - [spicelang/spice](https://github.com/spicelang/spice) - Spice Programming Language
+- [mauro-balades/GymBuddy](https://github.com/mauro-balades/GymBuddy) - 🏋️ Track and share your fitness path with the rest of the world!
 - [onchere/whack](https://github.com/onchere/whack) - The Whack Programming Language
 - [SergeyMakeev/smmalloc](https://github.com/SergeyMakeev/smmalloc) - Blazing fast memory allocator designed for video games
 - [kisli/vmime](https://github.com/kisli/vmime) - VMime Mail Library
@@ -269,6 +269,7 @@
 
 ## Others 
 
+- [mauro-balades/binomial-expansions](https://github.com/mauro-balades/binomial-expansions) - Prove that snowball rocks! Show the equation for binomial expansions using N as high as you want!
 - [mauro-balades/is-odd-sn](https://github.com/mauro-balades/is-odd-sn) - Check if a number is odd
 - [mauro-balades/is-even-sn](https://github.com/mauro-balades/is-even-sn) - Check if a number is even
 - [mauro-balades/rgb-sn](https://github.com/mauro-balades/rgb-sn) - 🎨 A library that allows the usage and modifications of RGB colors for snowball!
@@ -324,7 +325,7 @@
 - [mauro-balades/infra](https://github.com/mauro-balades/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [compiler-explorer/infra](https://github.com/compiler-explorer/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [mauro-balades/ChromeVaultExtract](https://github.com/mauro-balades/ChromeVaultExtract) - a powerful software tool designed to effortlessly retrieve and extract saved passwords from the Google Chrome web browser.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 142 stars and 172 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 146 stars and 172 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username with SocialTrackr, the ultimate account hunting software.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [snowball-lang/SnowBot](https://github.com/snowball-lang/SnowBot) - 🤖 A discord bot that can compile and execute snowball code.
