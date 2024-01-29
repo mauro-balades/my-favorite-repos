@@ -152,9 +152,9 @@
 
 ## compiler 
 
+- [spicelang/spice](https://github.com/spicelang/spice) - Spice Programming Language
 - [savi-lang/savi](https://github.com/savi-lang/savi) - A fast language for programmers who are passionate about their craft.
 - [fanx-dev/fanx](https://github.com/fanx-dev/fanx) - A full-stack programming language
-- [spicelang/spice](https://github.com/spicelang/spice) - Spice Programming Language
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [alumina-lang/alumina](https://github.com/alumina-lang/alumina) - A general purpose programming language
 - [kuredoro/riddle](https://github.com/kuredoro/riddle) - A toy imperative Pascal/C-like compiled language.
@@ -339,8 +339,8 @@
 
 ## language 
 
-- [fanx-dev/fanx](https://github.com/fanx-dev/fanx) - A full-stack programming language
 - [spicelang/spice](https://github.com/spicelang/spice) - Spice Programming Language
+- [fanx-dev/fanx](https://github.com/fanx-dev/fanx) - A full-stack programming language
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [fmiras/potterscript](https://github.com/fmiras/potterscript) - The Wizarding World Programming Language written in Rust
 - [kuredoro/riddle](https://github.com/kuredoro/riddle) - A toy imperative Pascal/C-like compiled language.
@@ -397,6 +397,7 @@
 
 ## others 
 
+- [mauro-balades/binomial-expansions](https://github.com/mauro-balades/binomial-expansions) - Prove that snowball rocks! Show the equation for binomial expansions using N as high as you want!
 - [mauro-balades/GymBuddy](https://github.com/mauro-balades/GymBuddy) - 🏋️ Track and share your fitness path with the rest of the world!
 - [astra-web/www](https://github.com/astra-web/www) - 🌐 Website to showcase astra's tools
 - [onchere/whack](https://github.com/onchere/whack) - The Whack Programming Language
@@ -443,7 +444,7 @@
 - [emm312/eepy](https://github.com/emm312/eepy) - 
 - [Khhs167/memstack](https://github.com/Khhs167/memstack) - A basic linked-list based tool for managing memory
 - [mauro-balades/ChromeVaultExtract](https://github.com/mauro-balades/ChromeVaultExtract) - a powerful software tool designed to effortlessly retrieve and extract saved passwords from the Google Chrome web browser.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 142 stars and 172 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 146 stars and 172 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username with SocialTrackr, the ultimate account hunting software.
 - [mauro-balades/password-judger](https://github.com/mauro-balades/password-judger) - Does he bite? no, he judges you
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
