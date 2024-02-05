@@ -152,6 +152,8 @@
 
 ## compiler 
 
+- [ArachnidAbby/BCL](https://github.com/ArachnidAbby/BCL) - Ben's Compiled Language (BCL)
+- [chrysante/scatha](https://github.com/chrysante/scatha) - Personal toy-compiler project
 - [spicelang/spice](https://github.com/spicelang/spice) - Spice Programming Language
 - [savi-lang/savi](https://github.com/savi-lang/savi) - A fast language for programmers who are passionate about their craft.
 - [fanx-dev/fanx](https://github.com/fanx-dev/fanx) - A full-stack programming language
@@ -397,6 +399,7 @@
 
 ## others 
 
+- [ghc/ghc](https://github.com/ghc/ghc) - Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC's Gitlab instance (https://gitlab.haskell.org/ghc/ghc). First time contributors are encouraged to get started with the n
 - [mauro-balades/binomial-expansions](https://github.com/mauro-balades/binomial-expansions) - Prove that snowball rocks! Show the equation for binomial expansions using N as high as you want!
 - [mauro-balades/GymBuddy](https://github.com/mauro-balades/GymBuddy) - 🏋️ Track and share your fitness path with the rest of the world!
 - [astra-web/www](https://github.com/astra-web/www) - 🌐 Website to showcase astra's tools
@@ -444,7 +447,7 @@
 - [emm312/eepy](https://github.com/emm312/eepy) - 
 - [Khhs167/memstack](https://github.com/Khhs167/memstack) - A basic linked-list based tool for managing memory
 - [mauro-balades/ChromeVaultExtract](https://github.com/mauro-balades/ChromeVaultExtract) - a powerful software tool designed to effortlessly retrieve and extract saved passwords from the Google Chrome web browser.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 146 stars and 172 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 148 stars and 173 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username with SocialTrackr, the ultimate account hunting software.
 - [mauro-balades/password-judger](https://github.com/mauro-balades/password-judger) - Does he bite? no, he judges you
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
@@ -622,6 +625,7 @@
 
 ## python 
 
+- [ArachnidAbby/BCL](https://github.com/ArachnidAbby/BCL) - Ben's Compiled Language (BCL)
 - [N-Wouda/docblock](https://github.com/N-Wouda/docblock) - Parse C++ documentation blocks using Python.
 - [compiler-explorer/infra](https://github.com/compiler-explorer/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
