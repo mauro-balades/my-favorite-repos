@@ -298,8 +298,7 @@
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [thuva4/Algorithms](https://github.com/thuva4/Algorithms) - Collection of algorithms in multiple programming languages.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
-- [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs) - 🦕 A collection of Orpheus (Hack Club's mascot) drawings!
-- [cpp-linter/cpp-linter-action](https://github.com/cpp-linter/cpp-linter-action) - Lint C/C++ code with clang-format and clang-tidy then post annotations, comments, and step summary with results.
+- [cpp-linter/cpp-linter-action](https://github.com/cpp-linter/cpp-linter-action) - Lint C/C++ code with clang-format and clang-tidy then post reviews, annotations, comments, and step summary with results.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - Free & open-source JavaScript library to detect user's Browser, Engine, OS, CPU, and Device type/model. Runs either in browser (client-side) or node.js (server-side).
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
@@ -450,12 +449,13 @@
 - [emm312/eepy](https://github.com/emm312/eepy) - 
 - [Khhs167/memstack](https://github.com/Khhs167/memstack) - A basic linked-list based tool for managing memory
 - [mauro-balades/ChromeVaultExtract](https://github.com/mauro-balades/ChromeVaultExtract) - a powerful software tool designed to effortlessly retrieve and extract saved passwords from the Google Chrome web browser.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 148 stars and 174 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 149 stars and 176 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username with SocialTrackr, the ultimate account hunting software.
 - [mauro-balades/password-judger](https://github.com/mauro-balades/password-judger) - Does he bite? no, he judges you
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
 - [DestroyerXyz/upstash-kv](https://github.com/DestroyerXyz/upstash-kv) - Simple Upstash Redis client based on @vercel/kv
 - [ric2b/Vivaldi-browser](https://github.com/ric2b/Vivaldi-browser) - Source code for the Vivali browser, taken from
+- [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs) - 🦕 A collection of Orpheus (Hack Club's mascot) drawings! Look at them at rawr.hackclub.com :)
 - [snowball-lang/snowball-rs](https://github.com/snowball-lang/snowball-rs) - (WIP): [borken] rewrite for the snowball programming language in rust!
 - [scrwdrv/colorful-log](https://github.com/scrwdrv/colorful-log) - Simple, lightweight and good looking logger.
 - [mauro-balades/gravity](https://github.com/mauro-balades/gravity) - Gravity browser - Privacy is not an option, it's a must
