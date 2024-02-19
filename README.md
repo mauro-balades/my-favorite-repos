@@ -287,10 +287,10 @@
 - [snowball-lang/docs](https://github.com/snowball-lang/docs) - 📚 The official documentation for @snowball-lang.
 - [payloadbox/xss-payload-list](https://github.com/payloadbox/xss-payload-list) - 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List
 - [ric2b/Vivaldi-browser](https://github.com/ric2b/Vivaldi-browser) - Source code for the Vivali browser, taken from
-- [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs) - 🦕 A collection of Orpheus (Hack Club's mascot) drawings!
+- [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs) - 🦕 A collection of Orpheus (Hack Club's mascot) drawings! Look at them at rawr.hackclub.com :)
 - [snowball-lang/.github](https://github.com/snowball-lang/.github) - Snowballers, Unite!
 - [qexat/Vism](https://github.com/qexat/Vism) - Specification for the Vism esoteric programming language.
-- [cpp-linter/cpp-linter-action](https://github.com/cpp-linter/cpp-linter-action) - Lint C/C++ code with clang-format and clang-tidy then post annotations, comments, and step summary with results.
+- [cpp-linter/cpp-linter-action](https://github.com/cpp-linter/cpp-linter-action) - Lint C/C++ code with clang-format and clang-tidy then post reviews, annotations, comments, and step summary with results.
 - [mauro-balades/my-favorite-repos](https://github.com/mauro-balades/my-favorite-repos) - ⭐:octocat: A curated list of GitHub repositories I've starred!
 - [rogue-shadowdancer/misbrands](https://github.com/rogue-shadowdancer/misbrands) - The world's most hated IT stickers
 - [jozefg/learn-tt](https://github.com/jozefg/learn-tt) - A collection of resources for learning type theory and type theory adjacent fields.
@@ -332,7 +332,7 @@
 - [mauro-balades/infra](https://github.com/mauro-balades/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [compiler-explorer/infra](https://github.com/compiler-explorer/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [mauro-balades/ChromeVaultExtract](https://github.com/mauro-balades/ChromeVaultExtract) - a powerful software tool designed to effortlessly retrieve and extract saved passwords from the Google Chrome web browser.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 148 stars and 174 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 149 stars and 176 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username with SocialTrackr, the ultimate account hunting software.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [snowball-lang/SnowBot](https://github.com/snowball-lang/SnowBot) - 🤖 A discord bot that can compile and execute snowball code.
