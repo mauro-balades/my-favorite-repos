@@ -82,6 +82,7 @@
 
 ## C++ 
 
+- [zionlang/zion](https://github.com/zionlang/zion) - A statically-typed strictly-evaluated garbage-collected readable programming language.
 - [chrysante/scatha](https://github.com/chrysante/scatha) - Personal toy-compiler project
 - [spicelang/spice](https://github.com/spicelang/spice) - Spice Programming Language
 - [mauro-balades/GymBuddy](https://github.com/mauro-balades/GymBuddy) - 🏋️ Track and share your fitness path with the rest of the world!
@@ -275,10 +276,6 @@
 
 ## Others 
 
-- [mauro-balades/binomial-expansions](https://github.com/mauro-balades/binomial-expansions) - Prove that snowball rocks! Show the equation for binomial expansions using N as high as you want!
-- [mauro-balades/is-odd-sn](https://github.com/mauro-balades/is-odd-sn) - Check if a number is odd
-- [mauro-balades/is-even-sn](https://github.com/mauro-balades/is-even-sn) - Check if a number is even
-- [mauro-balades/rgb-sn](https://github.com/mauro-balades/rgb-sn) - 🎨 A library that allows the usage and modifications of RGB colors for snowball!
 - [mauro-balades/townscaper-objects](https://github.com/mauro-balades/townscaper-objects) - my own townscaper builds and object files
 - [snowball-lang/syntax-vscode](https://github.com/snowball-lang/syntax-vscode) - VS Code Language extension for snowball
 - [mauro-balades/llvm-project](https://github.com/mauro-balades/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
@@ -290,7 +287,7 @@
 - [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs) - 🦕 A collection of Orpheus (Hack Club's mascot) drawings! Look at them at rawr.hackclub.com :)
 - [snowball-lang/.github](https://github.com/snowball-lang/.github) - Snowballers, Unite!
 - [qexat/Vism](https://github.com/qexat/Vism) - Specification for the Vism esoteric programming language.
-- [cpp-linter/cpp-linter-action](https://github.com/cpp-linter/cpp-linter-action) - Lint C/C++ code with clang-format and clang-tidy then post reviews, annotations, comments, and step summary with results.
+- [cpp-linter/cpp-linter-action](https://github.com/cpp-linter/cpp-linter-action) - A Github Action for linting C/C++ code integrating clang-tidy and clang-format to collect feedback provided in the form of file-annotations, thread-comments, workflow step-summary, and Pull Request re
 - [mauro-balades/my-favorite-repos](https://github.com/mauro-balades/my-favorite-repos) - ⭐:octocat: A curated list of GitHub repositories I've starred!
 - [rogue-shadowdancer/misbrands](https://github.com/rogue-shadowdancer/misbrands) - The world's most hated IT stickers
 - [jozefg/learn-tt](https://github.com/jozefg/learn-tt) - A collection of resources for learning type theory and type theory adjacent fields.
@@ -332,7 +329,7 @@
 - [mauro-balades/infra](https://github.com/mauro-balades/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [compiler-explorer/infra](https://github.com/compiler-explorer/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [mauro-balades/ChromeVaultExtract](https://github.com/mauro-balades/ChromeVaultExtract) - a powerful software tool designed to effortlessly retrieve and extract saved passwords from the Google Chrome web browser.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 149 stars and 176 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 151 stars and 175 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username with SocialTrackr, the ultimate account hunting software.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [snowball-lang/SnowBot](https://github.com/snowball-lang/SnowBot) - 🤖 A discord bot that can compile and execute snowball code.
