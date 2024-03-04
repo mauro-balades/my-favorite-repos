@@ -77,8 +77,8 @@
 - [mauro-balades/socket-library-c](https://github.com/mauro-balades/socket-library-c) - Librería para implementar comunicación entre un servidor y cliente
 - [Rust-for-Linux/linux](https://github.com/Rust-for-Linux/linux) - Adding support for the Rust language to the Linux kernel.
 - [mauro-balades/http-parser](https://github.com/mauro-balades/http-parser) - http request/response parser for c
-- [maurobalades-contributions/scrcpy](https://github.com/maurobalades-contributions/scrcpy) - Display and control your Android device
-- [maurobalades-contributions/minecraft-weekend](https://github.com/maurobalades-contributions/minecraft-weekend) - Minecraft, but I made it in 48 hours.
+- [karkutsi/scrcpy](https://github.com/karkutsi/scrcpy) - Display and control your Android device
+- [karkutsi/minecraft-weekend](https://github.com/karkutsi/minecraft-weekend) - Minecraft, but I made it in 48 hours.
 
 ## C++ 
 
@@ -146,7 +146,7 @@
 
 ## Dart 
 
-- [maurobalades-contributions/fcharts](https://github.com/maurobalades-contributions/fcharts) - :bar_chart: [wip] Create beautiful, responsive, animated charts using a simple and intuitive API.
+- [karkutsi/fcharts](https://github.com/karkutsi/fcharts) - :bar_chart: [wip] Create beautiful, responsive, animated charts using a simple and intuitive API.
 
 ## EJS 
 
@@ -208,11 +208,13 @@
 - [jpcap/jpcap](https://github.com/jpcap/jpcap) - network packet capture library for applications written in java
 - [omegaui/omegaide](https://github.com/omegaui/omegaide) - An Instant IDE from the Future that supports any programming language.
 - [mauro-balades/WorldGuard](https://github.com/mauro-balades/WorldGuard) - 🛡️ Protect your Minecraft server and lets players claim areas
-- [maurobalades-contributions/AuthMeReloaded](https://github.com/maurobalades-contributions/AuthMeReloaded) - The best authentication plugin for the Bukkit/Spigot API!
+- [karkutsi/AuthMeReloaded](https://github.com/karkutsi/AuthMeReloaded) - The best authentication plugin for the Bukkit/Spigot API!
 - [mauro-balades/java-render](https://github.com/mauro-balades/java-render) - Render 3D objects in java
 
 ## JavaScript 
 
+- [renatomoor/storybook-tailwind-dark-mode](https://github.com/renatomoor/storybook-tailwind-dark-mode) - 
+- [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
 - [i-voted-for-trump/is-even](https://github.com/i-voted-for-trump/is-even) - I created this in 2014, when I was learning how to program.
 - [mauro-balades/JS-2-Gera](https://github.com/mauro-balades/JS-2-Gera) - 🗿 Convert javascript files into Gera!
 - [TypeSafeSchwalbe/typeshields](https://github.com/TypeSafeSchwalbe/typeshields) - Add runtime type checking to your Javascript code without writing a bunch of boilerplate.
@@ -242,17 +244,17 @@
 - [sindresorhus/npm-name-cli](https://github.com/sindresorhus/npm-name-cli) - Check whether a package or organization name is available on npm
 - [mauro-balades/jsbin](https://github.com/mauro-balades/jsbin) - Collaborative JavaScript Debugging App
 - [mauro-balades/browsh](https://github.com/mauro-balades/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
-- [maurobalades-contributions/simple-icons](https://github.com/maurobalades-contributions/simple-icons) - SVG icons for popular brands
-- [maurobalades-contributions/Qscrape](https://github.com/maurobalades-contributions/Qscrape) - Scraping API, which gets results from Bing.
-- [maurobalades-contributions/github-readme-stats](https://github.com/maurobalades-contributions/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+- [karkutsi/simple-icons](https://github.com/karkutsi/simple-icons) - SVG icons for popular brands
+- [karkutsi/Qscrape](https://github.com/karkutsi/Qscrape) - Scraping API, which gets results from Bing.
+- [karkutsi/github-readme-stats](https://github.com/karkutsi/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [mauro-balades/generator-licenser](https://github.com/mauro-balades/generator-licenser) - 📄 create a license with greate TUI
 
 ## Kotlin 
 
 - [1Dr490n/SCH](https://github.com/1Dr490n/SCH) - 
 - [iamgio/pikt](https://github.com/iamgio/pikt) - :art: Image-based poetic programming language.
-- [maurobalades-contributions/jasync-sql](https://github.com/maurobalades-contributions/jasync-sql) - Java & Kotlin Async DataBase Driver for MySQL and PostgreSQL written in Kotlin
-- [maurobalades-contributions/lyricist](https://github.com/maurobalades-contributions/lyricist) - 🌎 The missing I18N/L10N (internationalization/localization) library for Jetpack Compose!
+- [karkutsi/jasync-sql](https://github.com/karkutsi/jasync-sql) - Java & Kotlin Async DataBase Driver for MySQL and PostgreSQL written in Kotlin
+- [karkutsi/lyricist](https://github.com/karkutsi/lyricist) - 🌎 The missing I18N/L10N (internationalization/localization) library for Jetpack Compose!
 
 ## Makefile 
 
@@ -268,11 +270,11 @@
 
 - [nim-lang/packages](https://github.com/nim-lang/packages) - List of packages for Nimble
 - [mauro-balades/build-sys](https://github.com/mauro-balades/build-sys) - A recreation from Makefile made in nim!
-- [maurobalades-contributions/packages](https://github.com/maurobalades-contributions/packages) - List of packages for Nimble
+- [karkutsi/packages](https://github.com/karkutsi/packages) - List of packages for Nimble
 
 ## Objective-C 
 
-- [maurobalades-contributions/TheAmazingAudioEngine](https://github.com/maurobalades-contributions/TheAmazingAudioEngine) - Core Audio, Cordially: A sophisticated framework for iOS audio applications, built so you don't have to.
+- [karkutsi/TheAmazingAudioEngine](https://github.com/karkutsi/TheAmazingAudioEngine) - Core Audio, Cordially: A sophisticated framework for iOS audio applications, built so you don't have to.
 
 ## Others 
 
@@ -303,10 +305,10 @@
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [cheese-official/.github](https://github.com/cheese-official/.github) - Cheese is a dairy product produced in wide ranges of flavors, textures and forms by coagulation of the milk protein casein.
 - [Blankj/awesome-comment](https://github.com/Blankj/awesome-comment) - :boom: Funny comments
-- [maurobalades-contributions/Best-README-Template](https://github.com/maurobalades-contributions/Best-README-Template) - An awesome README template to jumpstart your projects!
-- [maurobalades-contributions/awesome-tuis](https://github.com/maurobalades-contributions/awesome-tuis) - List of projects that provide terminal user interfaces
-- [maurobalades-contributions/chromium](https://github.com/maurobalades-contributions/chromium) - The official GitHub mirror of the Chromium source
-- [maurobalades-contributions/free-programming-books](https://github.com/maurobalades-contributions/free-programming-books) - :books: Freely available programming books
+- [karkutsi/Best-README-Template](https://github.com/karkutsi/Best-README-Template) - An awesome README template to jumpstart your projects!
+- [karkutsi/awesome-tuis](https://github.com/karkutsi/awesome-tuis) - List of projects that provide terminal user interfaces
+- [karkutsi/chromium](https://github.com/karkutsi/chromium) - The official GitHub mirror of the Chromium source
+- [karkutsi/free-programming-books](https://github.com/karkutsi/free-programming-books) - :books: Freely available programming books
 - [mauro-balades/github-issue-templates](https://github.com/mauro-balades/github-issue-templates) - some issue templates for github issues
 
 ## PHP 
@@ -315,7 +317,7 @@
 - [blade-ui-kit/blade-ui-kit](https://github.com/blade-ui-kit/blade-ui-kit) - A set of renderless components to utilise in your Laravel Blade views.
 - [joshgaber/NovaUnit](https://github.com/joshgaber/NovaUnit) - Unit testing suite for Laravel Nova, built to extend PHPUnit
 - [RobThree/TwoFactorAuth](https://github.com/RobThree/TwoFactorAuth) - PHP library for Two Factor Authentication (TFA / 2FA)
-- [maurobalades-contributions/laravel](https://github.com/maurobalades-contributions/laravel) - A PHP framework for web artisans.
+- [karkutsi/laravel](https://github.com/karkutsi/laravel) - A PHP framework for web artisans.
 
 ## Python 
 
@@ -329,7 +331,7 @@
 - [mauro-balades/infra](https://github.com/mauro-balades/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [compiler-explorer/infra](https://github.com/compiler-explorer/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [mauro-balades/ChromeVaultExtract](https://github.com/mauro-balades/ChromeVaultExtract) - a powerful software tool designed to effortlessly retrieve and extract saved passwords from the Google Chrome web browser.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 151 stars and 175 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 151 stars and 176 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username with SocialTrackr, the ultimate account hunting software.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [snowball-lang/SnowBot](https://github.com/snowball-lang/SnowBot) - 🤖 A discord bot that can compile and execute snowball code.
@@ -356,8 +358,8 @@
 ## Ruby 
 
 - [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
-- [maurobalades-contributions/command-t](https://github.com/maurobalades-contributions/command-t) - ⌨️ Fast file navigation for VIM
-- [maurobalades-contributions/linguist](https://github.com/maurobalades-contributions/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
+- [karkutsi/command-t](https://github.com/karkutsi/command-t) - ⌨️ Fast file navigation for VIM
+- [karkutsi/linguist](https://github.com/karkutsi/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 
 ## Rust 
 
@@ -397,10 +399,11 @@
 ## Swift 
 
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
-- [maurobalades-contributions/async-http-client](https://github.com/maurobalades-contributions/async-http-client) - HTTP client library built on SwiftNIO
+- [karkutsi/async-http-client](https://github.com/karkutsi/async-http-client) - HTTP client library built on SwiftNIO
 
 ## TypeScript 
 
+- [mauro-balades/maui](https://github.com/mauro-balades/maui) - 🎨 Make your UI design dreams come true with MaUI! 🚀
 - [mauro-balades/GitStatHub](https://github.com/mauro-balades/GitStatHub) - ✨ Find statistics about your github repository and share them!
 - [guilda-app/app](https://github.com/guilda-app/app) - 📢 A dynamic and inclusive communication platform designed for modern communities
 - [Nerimity/nerimity-web](https://github.com/Nerimity/nerimity-web) - A modern and sleek chat app.
@@ -414,7 +417,6 @@
 - [DestroyerXyz/upstash-kv](https://github.com/DestroyerXyz/upstash-kv) - Simple Upstash Redis client based on @vercel/kv
 - [scrwdrv/colorful-log](https://github.com/scrwdrv/colorful-log) - Simple, lightweight and good looking logger.
 - [dyyllaann/simplefolio-react](https://github.com/dyyllaann/simplefolio-react) - A clean, beautiful and responsive React-based portfolio template for developers!
-- [mauro-balades/SnapKit](https://github.com/mauro-balades/SnapKit) - 🎨 Make your UI design dreams come true with SnapKit! 🚀
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [Basl-Language/Basl-Compiler](https://github.com/Basl-Language/Basl-Compiler) - :monkey: Compiler for the Backend Server Language (formerly known as Bad Ass Language).
 - [mauro-balades/url-motion](https://github.com/mauro-balades/url-motion) - Animate your browser url and make your website 1000 times more attractive.
@@ -437,11 +439,11 @@
 - [JedWatson/react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
 - [mauro-balades/NativeTS](https://github.com/mauro-balades/NativeTS) - A modern Typescript transpiler to llvm
 - [mauro-balades/SponsorBlock](https://github.com/mauro-balades/SponsorBlock) - Skip YouTube video sponsors (browser extension)
-- [maurobalades-contributions/deskreen](https://github.com/maurobalades-contributions/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
+- [karkutsi/deskreen](https://github.com/karkutsi/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
 
 ## V 
 
-- [maurobalades-contributions/v](https://github.com/maurobalades-contributions/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
+- [karkutsi/v](https://github.com/karkutsi/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 
 ## Vue 
 
