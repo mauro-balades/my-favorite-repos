@@ -402,6 +402,9 @@
 
 ## others 
 
+- [renatomoor/storybook-tailwind-dark-mode](https://github.com/renatomoor/storybook-tailwind-dark-mode) - 
+- [mauro-balades/maui](https://github.com/mauro-balades/maui) - 🎨 Make your UI design dreams come true with MaUI! 🚀
+- [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
 - [ghc/ghc](https://github.com/ghc/ghc) - Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC's Gitlab instance (https://gitlab.haskell.org/ghc/ghc). First time contributors are encouraged to get started with the n
 - [mauro-balades/GymBuddy](https://github.com/mauro-balades/GymBuddy) - 🏋️ Track and share your fitness path with the rest of the world!
 - [astra-web/www](https://github.com/astra-web/www) - 🌐 Website to showcase astra's tools
@@ -446,7 +449,7 @@
 - [emm312/eepy](https://github.com/emm312/eepy) - 
 - [Khhs167/memstack](https://github.com/Khhs167/memstack) - A basic linked-list based tool for managing memory
 - [mauro-balades/ChromeVaultExtract](https://github.com/mauro-balades/ChromeVaultExtract) - a powerful software tool designed to effortlessly retrieve and extract saved passwords from the Google Chrome web browser.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 151 stars and 175 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 151 stars and 176 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username with SocialTrackr, the ultimate account hunting software.
 - [mauro-balades/password-judger](https://github.com/mauro-balades/password-judger) - Does he bite? no, he judges you
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
@@ -461,7 +464,6 @@
 - [useless-web/whydidyouclickthis](https://github.com/useless-web/whydidyouclickthis) - Sometimes the journey is more important than the destination
 - [useless-web/whattimeisit](https://github.com/useless-web/whattimeisit) - Because knowing the time dramatically is the only way to know it.
 - [useless-web/infinite-building](https://github.com/useless-web/infinite-building) - Legend says that there will be a reward at 1K scrolls...
-- [mauro-balades/SnapKit](https://github.com/mauro-balades/SnapKit) - 🎨 Make your UI design dreams come true with SnapKit! 🚀
 - [emm312/iron](https://github.com/emm312/iron) - 
 - [astra-web/pixel-perfect](https://github.com/astra-web/pixel-perfect) - Perfectly Designed, Pixel by Pixel
 - [mauro-balades/RTCM](https://github.com/mauro-balades/RTCM) - RTCM is a tool to monitor command performance in real-time.
@@ -563,40 +565,40 @@
 - [jondgoodwin/conesite](https://github.com/jondgoodwin/conesite) - Cone website and playground
 - [mauro-balades/WorldGuard](https://github.com/mauro-balades/WorldGuard) - 🛡️ Protect your Minecraft server and lets players claim areas
 - [sindresorhus/npm-name-cli](https://github.com/sindresorhus/npm-name-cli) - Check whether a package or organization name is available on npm
-- [maurobalades-contributions/command-t](https://github.com/maurobalades-contributions/command-t) - ⌨️ Fast file navigation for VIM
+- [karkutsi/command-t](https://github.com/karkutsi/command-t) - ⌨️ Fast file navigation for VIM
 - [mauro-balades/http-parser](https://github.com/mauro-balades/http-parser) - http request/response parser for c
-- [maurobalades-contributions/async-http-client](https://github.com/maurobalades-contributions/async-http-client) - HTTP client library built on SwiftNIO
-- [maurobalades-contributions/fcharts](https://github.com/maurobalades-contributions/fcharts) - :bar_chart: [wip] Create beautiful, responsive, animated charts using a simple and intuitive API.
-- [maurobalades-contributions/TheAmazingAudioEngine](https://github.com/maurobalades-contributions/TheAmazingAudioEngine) - Core Audio, Cordially: A sophisticated framework for iOS audio applications, built so you don't have to.
+- [karkutsi/async-http-client](https://github.com/karkutsi/async-http-client) - HTTP client library built on SwiftNIO
+- [karkutsi/fcharts](https://github.com/karkutsi/fcharts) - :bar_chart: [wip] Create beautiful, responsive, animated charts using a simple and intuitive API.
+- [karkutsi/TheAmazingAudioEngine](https://github.com/karkutsi/TheAmazingAudioEngine) - Core Audio, Cordially: A sophisticated framework for iOS audio applications, built so you don't have to.
 - [mauro-balades/jsbin](https://github.com/mauro-balades/jsbin) - Collaborative JavaScript Debugging App
 - [mauro-balades/browsh](https://github.com/mauro-balades/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [mauro-balades/Makefile-Templates](https://github.com/mauro-balades/Makefile-Templates) - Makefile templates for different sized projects
-- [maurobalades-contributions/Best-README-Template](https://github.com/maurobalades-contributions/Best-README-Template) - An awesome README template to jumpstart your projects!
+- [karkutsi/Best-README-Template](https://github.com/karkutsi/Best-README-Template) - An awesome README template to jumpstart your projects!
 - [mauro-balades/vox](https://github.com/mauro-balades/vox) - Vox language compiler. AOT / JIT / Linker. Zero dependencies
 - [mauro-balades/Doom4Doom](https://github.com/mauro-balades/Doom4Doom) - A mod for GZDoom, backporting Doom 2016's weapons, monsters and features to Doom 2.
 - [mauro-balades/SponsorBlock](https://github.com/mauro-balades/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [mauro-balades/os-fetch](https://github.com/mauro-balades/os-fetch) - Fetch information from your Linux distribution and computer.
 - [mauro-balades/number-recognizer](https://github.com/mauro-balades/number-recognizer) - Recognize numbers from an (28 x 28) image using neural networks
-- [maurobalades-contributions/linguist](https://github.com/maurobalades-contributions/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
-- [maurobalades-contributions/v](https://github.com/maurobalades-contributions/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
-- [maurobalades-contributions/simple-icons](https://github.com/maurobalades-contributions/simple-icons) - SVG icons for popular brands
-- [maurobalades-contributions/awesome-tuis](https://github.com/maurobalades-contributions/awesome-tuis) - List of projects that provide terminal user interfaces
-- [maurobalades-contributions/AuthMeReloaded](https://github.com/maurobalades-contributions/AuthMeReloaded) - The best authentication plugin for the Bukkit/Spigot API!
-- [maurobalades-contributions/scrcpy](https://github.com/maurobalades-contributions/scrcpy) - Display and control your Android device
-- [maurobalades-contributions/deskreen](https://github.com/maurobalades-contributions/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
-- [maurobalades-contributions/Qscrape](https://github.com/maurobalades-contributions/Qscrape) - Scraping API, which gets results from Bing.
-- [maurobalades-contributions/chromium](https://github.com/maurobalades-contributions/chromium) - The official GitHub mirror of the Chromium source
+- [karkutsi/linguist](https://github.com/karkutsi/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
+- [karkutsi/v](https://github.com/karkutsi/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
+- [karkutsi/simple-icons](https://github.com/karkutsi/simple-icons) - SVG icons for popular brands
+- [karkutsi/awesome-tuis](https://github.com/karkutsi/awesome-tuis) - List of projects that provide terminal user interfaces
+- [karkutsi/AuthMeReloaded](https://github.com/karkutsi/AuthMeReloaded) - The best authentication plugin for the Bukkit/Spigot API!
+- [karkutsi/scrcpy](https://github.com/karkutsi/scrcpy) - Display and control your Android device
+- [karkutsi/deskreen](https://github.com/karkutsi/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
+- [karkutsi/Qscrape](https://github.com/karkutsi/Qscrape) - Scraping API, which gets results from Bing.
+- [karkutsi/chromium](https://github.com/karkutsi/chromium) - The official GitHub mirror of the Chromium source
 - [mauro-balades/r-shell](https://github.com/mauro-balades/r-shell) - A shell made in rust
 - [mauro-balades/java-render](https://github.com/mauro-balades/java-render) - Render 3D objects in java
 - [mauro-balades/build-sys](https://github.com/mauro-balades/build-sys) - A recreation from Makefile made in nim!
 - [mauro-balades/repository-generator](https://github.com/mauro-balades/repository-generator) - Generate your repositories in a markdown file in where you can use it as a github readme profile!
-- [maurobalades-contributions/jasync-sql](https://github.com/maurobalades-contributions/jasync-sql) - Java & Kotlin Async DataBase Driver for MySQL and PostgreSQL written in Kotlin
-- [maurobalades-contributions/minecraft-weekend](https://github.com/maurobalades-contributions/minecraft-weekend) - Minecraft, but I made it in 48 hours.
-- [maurobalades-contributions/lyricist](https://github.com/maurobalades-contributions/lyricist) - 🌎 The missing I18N/L10N (internationalization/localization) library for Jetpack Compose!
-- [maurobalades-contributions/laravel](https://github.com/maurobalades-contributions/laravel) - A PHP framework for web artisans.
-- [maurobalades-contributions/free-programming-books](https://github.com/maurobalades-contributions/free-programming-books) - :books: Freely available programming books
-- [maurobalades-contributions/github-readme-stats](https://github.com/maurobalades-contributions/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-- [maurobalades-contributions/packages](https://github.com/maurobalades-contributions/packages) - List of packages for Nimble
+- [karkutsi/jasync-sql](https://github.com/karkutsi/jasync-sql) - Java & Kotlin Async DataBase Driver for MySQL and PostgreSQL written in Kotlin
+- [karkutsi/minecraft-weekend](https://github.com/karkutsi/minecraft-weekend) - Minecraft, but I made it in 48 hours.
+- [karkutsi/lyricist](https://github.com/karkutsi/lyricist) - 🌎 The missing I18N/L10N (internationalization/localization) library for Jetpack Compose!
+- [karkutsi/laravel](https://github.com/karkutsi/laravel) - A PHP framework for web artisans.
+- [karkutsi/free-programming-books](https://github.com/karkutsi/free-programming-books) - :books: Freely available programming books
+- [karkutsi/github-readme-stats](https://github.com/karkutsi/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+- [karkutsi/packages](https://github.com/karkutsi/packages) - List of packages for Nimble
 - [mauro-balades/.github](https://github.com/mauro-balades/.github) - 🌐 The default files for my repos
 - [mauro-balades/fortran-timer](https://github.com/mauro-balades/fortran-timer) - ⚗️ I wanted to learn some fortran
 - [mauro-balades/generator-licenser](https://github.com/mauro-balades/generator-licenser) - 📄 create a license with greate TUI
