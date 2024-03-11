@@ -152,8 +152,9 @@
 
 ## compiler 
 
+- [amun-lang/docs](https://github.com/amun-lang/docs) - Documentations website for Amun programming language
 - [zionlang/zion](https://github.com/zionlang/zion) - A statically-typed strictly-evaluated garbage-collected readable programming language.
-- [ArachnidAbby/BCL](https://github.com/ArachnidAbby/BCL) - Ben's Compiled Language (BCL)
+- [ArachnidAbby/BCL](https://github.com/ArachnidAbby/BCL) - BCL Compiled Language (BCL)
 - [chrysante/scatha](https://github.com/chrysante/scatha) - Personal toy-compiler project
 - [spicelang/spice](https://github.com/spicelang/spice) - Spice Programming Language
 - [savi-lang/savi](https://github.com/savi-lang/savi) - A fast language for programmers who are passionate about their craft.
@@ -242,6 +243,7 @@
 
 ## documentation 
 
+- [amun-lang/docs](https://github.com/amun-lang/docs) - Documentations website for Amun programming language
 - [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
 
 ## electron 
@@ -402,6 +404,8 @@
 
 ## others 
 
+- [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀
+- [wdamron/poly](https://github.com/wdamron/poly) - Hindley-Milner type system with extensible records and variants, implemented in Go
 - [renatomoor/storybook-tailwind-dark-mode](https://github.com/renatomoor/storybook-tailwind-dark-mode) - 
 - [mauro-balades/maui](https://github.com/mauro-balades/maui) - 🎨 Make your UI design dreams come true with MaUI! 🚀
 - [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
@@ -449,7 +453,7 @@
 - [emm312/eepy](https://github.com/emm312/eepy) - 
 - [Khhs167/memstack](https://github.com/Khhs167/memstack) - A basic linked-list based tool for managing memory
 - [mauro-balades/ChromeVaultExtract](https://github.com/mauro-balades/ChromeVaultExtract) - a powerful software tool designed to effortlessly retrieve and extract saved passwords from the Google Chrome web browser.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 151 stars and 176 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 152 stars and 176 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username with SocialTrackr, the ultimate account hunting software.
 - [mauro-balades/password-judger](https://github.com/mauro-balades/password-judger) - Does he bite? no, he judges you
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
@@ -627,7 +631,7 @@
 
 ## python 
 
-- [ArachnidAbby/BCL](https://github.com/ArachnidAbby/BCL) - Ben's Compiled Language (BCL)
+- [ArachnidAbby/BCL](https://github.com/ArachnidAbby/BCL) - BCL Compiled Language (BCL)
 - [N-Wouda/docblock](https://github.com/N-Wouda/docblock) - Parse C++ documentation blocks using Python.
 - [compiler-explorer/infra](https://github.com/compiler-explorer/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
