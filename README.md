@@ -54,6 +54,7 @@
 
 ## C 
 
+- [apachejuice/aloxotl](https://github.com/apachejuice/aloxotl) - An implementation of Bob Nystrom's Lox language in C.
 - [SenegalLang/Senegal](https://github.com/SenegalLang/Senegal) - Senegal programming language
 - [thelilylang/lily](https://github.com/thelilylang/lily) - The Lily programming language ⚜
 - [ianlancetaylor/libbacktrace](https://github.com/ianlancetaylor/libbacktrace) - A C library that may be linked into a C/C++ program to produce symbolic backtraces
@@ -82,6 +83,7 @@
 
 ## C++ 
 
+- [scrossuk/locic](https://github.com/scrossuk/locic) - Compiler and tools for the Loci programming language.
 - [zionlang/zion](https://github.com/zionlang/zion) - A statically-typed strictly-evaluated garbage-collected readable programming language.
 - [chrysante/scatha](https://github.com/chrysante/scatha) - Personal toy-compiler project
 - [spicelang/spice](https://github.com/spicelang/spice) - Spice Programming Language
@@ -333,7 +335,7 @@
 - [mauro-balades/infra](https://github.com/mauro-balades/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [compiler-explorer/infra](https://github.com/compiler-explorer/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [mauro-balades/ChromeVaultExtract](https://github.com/mauro-balades/ChromeVaultExtract) - a powerful software tool designed to effortlessly retrieve and extract saved passwords from the Google Chrome web browser.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 152 stars and 176 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 153 stars and 176 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username with SocialTrackr, the ultimate account hunting software.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [snowball-lang/SnowBot](https://github.com/snowball-lang/SnowBot) - 🤖 A discord bot that can compile and execute snowball code.
