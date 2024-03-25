@@ -45,6 +45,7 @@
 - [ios](#ios)
 - [java](#java)
 - [javascript](#javascript)
+- [js](#js)
 - [json](#json)
 - [kubernetes](#kubernetes)
 - [language](#language)
@@ -54,6 +55,7 @@
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [nim](#nim)
+- [nodejs](#nodejs)
 - [open-source](#open-source)
 - [opengl](#opengl)
 - [others](#others)
@@ -81,7 +83,9 @@
 - [typescript](#typescript)
 - [vue](#vue)
 - [vuejs](#vuejs)
+- [web](#web)
 - [website](#website)
+- [windows](#windows)
 
 ## automation 
 
@@ -118,6 +122,7 @@
 
 ## c 
 
+- [Snaipe/Criterion](https://github.com/Snaipe/Criterion) - A cross-platform C and C++ unit testing framework for the 21st century
 - [N-Wouda/docblock](https://github.com/N-Wouda/docblock) - Parse C++ documentation blocks using Python.
 - [thelilylang/lily](https://github.com/thelilylang/lily) - The Lily programming language ⚜
 - [lz4/lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm
@@ -248,6 +253,7 @@
 
 ## electron 
 
+- [ModuleArt/ferny](https://github.com/ModuleArt/ferny) - Chromium-based web browser, built on top of Electron.
 - [Electron-Store/electron-app-store](https://github.com/Electron-Store/electron-app-store) - A Cross-Platform App Store for Electron.js Apps
 
 ## firefox 
@@ -256,6 +262,7 @@
 
 ## framework 
 
+- [Snaipe/Criterion](https://github.com/Snaipe/Criterion) - A cross-platform C and C++ unit testing framework for the 21st century
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 
 ## game 
@@ -334,6 +341,10 @@
 - [mauro-balades/secondssincelastjavascriptframework](https://github.com/mauro-balades/secondssincelastjavascriptframework) - Get the up to date information about how many seconds has passed since last javascript framework has been published.
 - [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website
 
+## js 
+
+- [ModuleArt/ferny](https://github.com/ModuleArt/ferny) - Chromium-based web browser, built on top of Electron.
+
 ## json 
 
 - [Haruno19/CustomQuest](https://github.com/Haruno19/CustomQuest) - Modular turn-based-RPG-like battle simulator with JSON configuration files
@@ -376,6 +387,7 @@
 
 ## linux 
 
+- [ModuleArt/ferny](https://github.com/ModuleArt/ferny) - Chromium-based web browser, built on top of Electron.
 - [robiot/xclicker](https://github.com/robiot/xclicker) - XClicker - Fast gui autoclicker for x11 linux desktops
 - [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
@@ -392,6 +404,10 @@
 
 - [nim-lang/packages](https://github.com/nim-lang/packages) - List of packages for Nimble
 
+## nodejs 
+
+- [ModuleArt/ferny](https://github.com/ModuleArt/ferny) - Chromium-based web browser, built on top of Electron.
+
 ## open-source 
 
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
@@ -404,6 +420,7 @@
 
 ## others 
 
+- [mauro-balades/blib](https://github.com/mauro-balades/blib) - (BLib: Better Library) A next generation C stdandard library replacement.
 - [scrossuk/locic](https://github.com/scrossuk/locic) - Compiler and tools for the Loci programming language.
 - [apachejuice/aloxotl](https://github.com/apachejuice/aloxotl) - An implementation of Bob Nystrom's Lox language in C.
 - [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀
@@ -455,7 +472,7 @@
 - [emm312/eepy](https://github.com/emm312/eepy) - 
 - [Khhs167/memstack](https://github.com/Khhs167/memstack) - A basic linked-list based tool for managing memory
 - [mauro-balades/ChromeVaultExtract](https://github.com/mauro-balades/ChromeVaultExtract) - a powerful software tool designed to effortlessly retrieve and extract saved passwords from the Google Chrome web browser.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 153 stars and 176 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 154 stars and 177 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username with SocialTrackr, the ultimate account hunting software.
 - [mauro-balades/password-judger](https://github.com/mauro-balades/password-judger) - Does he bite? no, he judges you
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
@@ -544,7 +561,6 @@
 - [jpcap/jpcap](https://github.com/jpcap/jpcap) - network packet capture library for applications written in java
 - [google/googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework
 - [shieldCaptcha/captcha](https://github.com/shieldCaptcha/captcha) - A secure, anty bots, good looking captcha to protect your bussiness.
-- [mauro-balades/SimpleSQL](https://github.com/mauro-balades/SimpleSQL) - A simple SQL parser. It converts SQL statements into cpp objects for databases to use.
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [brave/brave-core](https://github.com/brave/brave-core) - Core engine for the Brave browser for Android, Linux, macOS, Windows. For issues https://github.com/brave/brave-browser/issues
 - [berzniz/github_pr_tree](https://github.com/berzniz/github_pr_tree) - Add a file tree to GitHub's Pull Request
@@ -620,6 +636,7 @@
 
 ## privacy 
 
+- [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [tutao/tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [gautamkrishnar/nothing-private](https://github.com/gautamkrishnar/nothing-private) - Do you think you are safe using private browsing or incognito mode?. :smile: :imp: This will prove that you're wrong.   Previously hosted at nothingprivate.ml
 - [FriendlyCaptcha/friendly-challenge](https://github.com/FriendlyCaptcha/friendly-challenge) - The widget and docs for the proof of work challenge used in Friendly Captcha. Protect your websites and online services from spam and abuse with Friendly Captcha, a privacy-first anti-bot solution.
@@ -735,9 +752,17 @@
 
 - [Electron-Store/electron-app-store](https://github.com/Electron-Store/electron-app-store) - A Cross-Platform App Store for Electron.js Apps
 
+## web 
+
+- [ModuleArt/ferny](https://github.com/ModuleArt/ferny) - Chromium-based web browser, built on top of Electron.
+
 ## website 
 
 - [gautamkrishnar/nothing-private](https://github.com/gautamkrishnar/nothing-private) - Do you think you are safe using private browsing or incognito mode?. :smile: :imp: This will prove that you're wrong.   Previously hosted at nothingprivate.ml
+
+## windows 
+
+- [ModuleArt/ferny](https://github.com/ModuleArt/ferny) - Chromium-based web browser, built on top of Electron.
 
 
 ## License
