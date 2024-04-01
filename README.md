@@ -85,6 +85,10 @@
 
 ## C++ 
 
+- [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
+- [R3nzTheCodeGOD/R3nzSkin](https://github.com/R3nzTheCodeGOD/R3nzSkin) - Skin changer for League of Legends (LOL)
+- [szeged/sprocket](https://github.com/szeged/sprocket) - Experimental minimal browser based on Chromium
+- [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [scrossuk/locic](https://github.com/scrossuk/locic) - Compiler and tools for the Loci programming language.
 - [zionlang/zion](https://github.com/zionlang/zion) - A statically-typed strictly-evaluated garbage-collected readable programming language.
 - [chrysante/scatha](https://github.com/chrysante/scatha) - Personal toy-compiler project
@@ -133,6 +137,7 @@
 
 ## CSS 
 
+- [Shina-SG/Shina-Fox](https://github.com/Shina-SG/Shina-Fox) - A Minimal, Cozy, Vertical Optimized Firefox Theme
 - [snowball-lang/autodoc-styles](https://github.com/snowball-lang/autodoc-styles) - CSS stylings for snowball's documentation generator
 - [astra-web/pixel-perfect](https://github.com/astra-web/pixel-perfect) - Perfectly Designed, Pixel by Pixel
 - [mauro-balades/WhyIHateJS](https://github.com/mauro-balades/WhyIHateJS) - A curated list containing things that will make you cry, re-evaluate about your decisions in life and feel disappointed at yourself for even trying JS
@@ -182,6 +187,7 @@
 
 ## HTML 
 
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Zen Browser: Experience tranquility while browsing the web without people tracking you!
 - [astra-web/www](https://github.com/astra-web/www) - 🌐 Website to showcase astra's tools
 - [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [mauro-balades/real-fake-updates](https://github.com/mauro-balades/real-fake-updates) - 🕶️ Fool your pals with super believable fake OS updates.
@@ -338,7 +344,7 @@
 - [mauro-balades/infra](https://github.com/mauro-balades/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [compiler-explorer/infra](https://github.com/compiler-explorer/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [mauro-balades/ChromeVaultExtract](https://github.com/mauro-balades/ChromeVaultExtract) - a powerful software tool designed to effortlessly retrieve and extract saved passwords from the Google Chrome web browser.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 154 stars and 177 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 153 stars and 177 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username with SocialTrackr, the ultimate account hunting software.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [snowball-lang/SnowBot](https://github.com/snowball-lang/SnowBot) - 🤖 A discord bot that can compile and execute snowball code.
