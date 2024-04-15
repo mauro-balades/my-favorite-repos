@@ -265,6 +265,7 @@
 
 ## firefox 
 
+- [FirefoxCSS-Store/FirefoxCSS-Store.github.io](https://github.com/FirefoxCSS-Store/FirefoxCSS-Store.github.io) - A collection site of Firefox userchrome themes, mostly from FirefoxCSS Reddit community.
 - [amnweb/firefox-plus](https://github.com/amnweb/firefox-plus) - CSS tweaks for Firefox
 - [Shina-SG/Shina-Fox](https://github.com/Shina-SG/Shina-Fox) - A Minimal, Cozy, Vertical Optimized Firefox Theme
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
@@ -451,10 +452,10 @@
 
 ## others 
 
+- [Floorp-Projects/Floorp-core](https://github.com/Floorp-Projects/Floorp-core) - 
 - [szeged/sprocket](https://github.com/szeged/sprocket) - Experimental minimal browser based on Chromium
 - [mauro-balades/blib](https://github.com/mauro-balades/blib) - (BLib: Better Library) A next generation C stdandard library replacement.
 - [scrossuk/locic](https://github.com/scrossuk/locic) - Compiler and tools for the Loci programming language.
-- [apachejuice/aloxotl](https://github.com/apachejuice/aloxotl) - An implementation of Bob Nystrom's Lox language in C.
 - [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀
 - [wdamron/poly](https://github.com/wdamron/poly) - Hindley-Milner type system with extensible records and variants, implemented in Go
 - [renatomoor/storybook-tailwind-dark-mode](https://github.com/renatomoor/storybook-tailwind-dark-mode) - 
@@ -503,7 +504,7 @@
 - [payloadbox/xss-payload-list](https://github.com/payloadbox/xss-payload-list) - 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List
 - [emm312/eepy](https://github.com/emm312/eepy) - 
 - [Khhs167/memstack](https://github.com/Khhs167/memstack) - A basic linked-list based tool for managing memory
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 154 stars and 176 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 155 stars and 176 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username with SocialTrackr, the ultimate account hunting software.
 - [mauro-balades/password-judger](https://github.com/mauro-balades/password-judger) - Does he bite? no, he judges you
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
