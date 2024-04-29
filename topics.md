@@ -72,6 +72,7 @@
 - [programming](#programming)
 - [python](#python)
 - [python3](#python3)
+- [qt](#qt)
 - [react](#react)
 - [reverse-engineering](#reverse-engineering)
 - [ruby](#ruby)
@@ -525,7 +526,7 @@
 - [payloadbox/xss-payload-list](https://github.com/payloadbox/xss-payload-list) - 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List
 - [emm312/eepy](https://github.com/emm312/eepy) - 
 - [Khhs167/memstack](https://github.com/Khhs167/memstack) - A basic linked-list based tool for managing memory
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 157 stars and 176 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 158 stars and 176 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username with SocialTrackr, the ultimate account hunting software.
 - [mauro-balades/password-judger](https://github.com/mauro-balades/password-judger) - Does he bite? no, he judges you
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
@@ -615,7 +616,7 @@
 - [google/googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework
 - [shieldCaptcha/captcha](https://github.com/shieldCaptcha/captcha) - A secure, anty bots, good looking captcha to protect your bussiness.
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
-- [brave/brave-core](https://github.com/brave/brave-core) - Core engine for the Brave browser for Android, Linux, macOS, Windows. For issues https://github.com/brave/brave-browser/issues
+- [brave/brave-core](https://github.com/brave/brave-core) - Core engine for the Brave browser for mobile and desktop. For issues https://github.com/brave/brave-browser/issues
 - [berzniz/github_pr_tree](https://github.com/berzniz/github_pr_tree) - Add a file tree to GitHub's Pull Request
 - [acdemiralp/cmake_templates](https://github.com/acdemiralp/cmake_templates) - Concise CMake templates for creating C++ libraries or executables.
 - [mauro-balades/cpp-html-parser](https://github.com/mauro-balades/cpp-html-parser) - A HTML tree generator library for C(PP)
@@ -703,6 +704,7 @@
 
 ## python 
 
+- [TrueHerobrine/SwiftBrowse](https://github.com/TrueHerobrine/SwiftBrowse) - Fast, Private, Lightweight browser based on PyQt5/QtWebEngine
 - [ArachnidAbby/BCL](https://github.com/ArachnidAbby/BCL) - BCL Compiled Language (BCL)
 - [N-Wouda/docblock](https://github.com/N-Wouda/docblock) - Parse C++ documentation blocks using Python.
 - [compiler-explorer/infra](https://github.com/compiler-explorer/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
@@ -715,6 +717,10 @@
 
 - [mauro-balades/expross](https://github.com/mauro-balades/expross) - Expross is a lightweight webserver to introduce JavaScript developers familiar with Express to Python.
 - [mauro-b-cringe-zone/meeSeeks-Kirkland](https://github.com/mauro-b-cringe-zone/meeSeeks-Kirkland) - Mee6 (Kirkland) | El mejor bot de la historia
+
+## qt 
+
+- [TrueHerobrine/SwiftBrowse](https://github.com/TrueHerobrine/SwiftBrowse) - Fast, Private, Lightweight browser based on PyQt5/QtWebEngine
 
 ## react 
 
