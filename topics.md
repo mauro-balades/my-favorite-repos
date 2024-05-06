@@ -472,6 +472,8 @@
 
 ## others 
 
+- [snowball-lang/Confy](https://github.com/snowball-lang/Confy) - Configure projects effortlessly! 💻
+- [mauro-balades/Confy](https://github.com/mauro-balades/Confy) - Configure projects effortlessly! 💻
 - [Naezr/ShyFox](https://github.com/Naezr/ShyFox) - A very shy little theme that hides the entire browser interface in the window border
 - [zen-browser/pdf.js](https://github.com/zen-browser/pdf.js) - PDF Reader in JavaScript
 - [Floorp-Projects/Floorp-core](https://github.com/Floorp-Projects/Floorp-core) - 
@@ -498,7 +500,6 @@
 - [godotengine/godot-blender-exporter](https://github.com/godotengine/godot-blender-exporter) - Addon for Blender to directly export to a Godot Scene
 - [mauro-balades/GitStatHub](https://github.com/mauro-balades/GitStatHub) - ✨ Find statistics about your github repository and share them!
 - [snowball-lang/syntax-vscode](https://github.com/snowball-lang/syntax-vscode) - VS Code Language extension for snowball
-- [snowball-lang/autodoc-styles](https://github.com/snowball-lang/autodoc-styles) - CSS stylings for snowball's documentation generator
 - [gleam-lang/stdlib](https://github.com/gleam-lang/stdlib) - 🎁  Gleam's standard library
 - [SenegalLang/Senegal](https://github.com/SenegalLang/Senegal) - Senegal programming language
 - [ianlancetaylor/libbacktrace](https://github.com/ianlancetaylor/libbacktrace) - A C library that may be linked into a C/C++ program to produce symbolic backtraces
@@ -526,7 +527,7 @@
 - [payloadbox/xss-payload-list](https://github.com/payloadbox/xss-payload-list) - 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List
 - [emm312/eepy](https://github.com/emm312/eepy) - 
 - [Khhs167/memstack](https://github.com/Khhs167/memstack) - A basic linked-list based tool for managing memory
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 158 stars and 176 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 159 stars and 176 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username with SocialTrackr, the ultimate account hunting software.
 - [mauro-balades/password-judger](https://github.com/mauro-balades/password-judger) - Does he bite? no, he judges you
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
