@@ -14,6 +14,7 @@
 - [Crystal](#crystal)
 - [D](#d)
 - [Dart](#dart)
+- [Dockerfile](#dockerfile)
 - [EJS](#ejs)
 - [Fantom](#fantom)
 - [Fortran](#fortran)
@@ -139,9 +140,11 @@
 ## CSS 
 
 - [Naezr/ShyFox](https://github.com/Naezr/ShyFox) - A very shy little theme that hides the entire browser interface in the window border
+- [Floorp-Projects/Floorp-core](https://github.com/Floorp-Projects/Floorp-core) - 
 - [amnweb/firefox-plus](https://github.com/amnweb/firefox-plus) - CSS tweaks for Firefox
 - [Shina-SG/Shina-Fox](https://github.com/Shina-SG/Shina-Fox) - A Minimal, Cozy, Vertical Optimized Firefox Theme
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
+- [snowball-lang/autodoc-styles](https://github.com/snowball-lang/autodoc-styles) - CSS stylings for snowball's documentation generator
 - [astra-web/pixel-perfect](https://github.com/astra-web/pixel-perfect) - Perfectly Designed, Pixel by Pixel
 - [mauro-balades/WhyIHateJS](https://github.com/mauro-balades/WhyIHateJS) - A curated list containing things that will make you cry, re-evaluate about your decisions in life and feel disappointed at yourself for even trying JS
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
@@ -158,6 +161,10 @@
 ## Dart 
 
 - [karkutsi/fcharts](https://github.com/karkutsi/fcharts) - :bar_chart: [wip] Create beautiful, responsive, animated charts using a simple and intuitive API.
+
+## Dockerfile 
+
+- [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 
 ## EJS 
 
@@ -226,9 +233,9 @@
 
 ## JavaScript 
 
+- [polypixeldev/emojip](https://github.com/polypixeldev/emojip) - IPv4 addresses as emoji!
 - [zen-browser/pdf.js](https://github.com/zen-browser/pdf.js) - PDF Reader in JavaScript
 - [FirefoxCSS-Store/FirefoxCSS-Store.github.io](https://github.com/FirefoxCSS-Store/FirefoxCSS-Store.github.io) - A collection site of Firefox userchrome themes, mostly from FirefoxCSS Reddit community.
-- [Floorp-Projects/Floorp-core](https://github.com/Floorp-Projects/Floorp-core) - 
 - [ModuleArt/ferny](https://github.com/ModuleArt/ferny) - Chromium-based web browser, built on top of Electron.
 - [renatomoor/storybook-tailwind-dark-mode](https://github.com/renatomoor/storybook-tailwind-dark-mode) - 
 - [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
@@ -295,6 +302,7 @@
 
 ## Others 
 
+- [pierotofy/set-swap-space](https://github.com/pierotofy/set-swap-space) - GitHub Action to Increase Swap Space on GitHub Runners
 - [ashleymavericks/ashleymavericks](https://github.com/ashleymavericks/ashleymavericks) - :octocat: Config for my GitHub profile
 - [amun-lang/docs](https://github.com/amun-lang/docs) - Documentations website for Amun programming language
 - [mauro-balades/townscaper-objects](https://github.com/mauro-balades/townscaper-objects) - my own townscaper builds and object files
@@ -352,7 +360,7 @@
 - [mauro-balades/infra](https://github.com/mauro-balades/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [compiler-explorer/infra](https://github.com/compiler-explorer/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [mauro-balades/ChromeVaultExtract](https://github.com/mauro-balades/ChromeVaultExtract) - a powerful software tool designed to effortlessly retrieve and extract saved passwords from the Google Chrome web browser.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 159 stars and 176 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 161 stars and 177 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username with SocialTrackr, the ultimate account hunting software.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [snowball-lang/SnowBot](https://github.com/snowball-lang/SnowBot) - 🤖 A discord bot that can compile and execute snowball code.
@@ -389,7 +397,7 @@
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [alumina-lang/alumina](https://github.com/alumina-lang/alumina) - A general purpose programming language
 - [fmiras/potterscript](https://github.com/fmiras/potterscript) - The Wizarding World Programming Language written in Rust
-- [geralang/gerac](https://github.com/geralang/gerac) - The compiler for the Gera programming language.
+- [geralang/geralc](https://github.com/geralang/geralc) - The initial (legacy) compiler for the Gera programming language.
 - [mauro-balades/sslb](https://github.com/mauro-balades/sslb) - 😊 Super Simple Language Backend - An IR constructed language backend that can compile to various different targets, designed to be simple and safe.
 - [mauro-balades/RetroByte](https://github.com/mauro-balades/RetroByte) - Minimalist, nostalgic, text-based OS.
 - [emm312/eepy](https://github.com/emm312/eepy) - 
