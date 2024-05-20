@@ -169,6 +169,7 @@
 
 ## compiler 
 
+- [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go.
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
 - [amun-lang/docs](https://github.com/amun-lang/docs) - Documentations website for Amun programming language
 - [zionlang/zion](https://github.com/zionlang/zion) - A statically-typed strictly-evaluated garbage-collected readable programming language.
@@ -187,7 +188,7 @@
 - [gabivlj/candice](https://github.com/gabivlj/candice) - Candice, a dead simple language and multi-platform.
 - [Fuechs/Fux](https://github.com/Fuechs/Fux) - Flawless Unambiguous Programming - A Modern, Flexible Programming Language for All
 - [AmrDeveloper/Amun](https://github.com/AmrDeveloper/Amun) - A Statically typed, compiled general purpose low level programming language built using C++ and LLVM Infrastructure framework designed to be simple and fast
-- [snowball-lang/snowball](https://github.com/snowball-lang/snowball) - [WIP] 🐱 Snowball is a low-weight, statically typed, object oriented programming language.
+- [snowball-lang/snowball](https://github.com/snowball-lang/snowball) - Anything that can be written in Snowball, will eventually be written in Snowball
 - [c3lang/c3c](https://github.com/c3lang/c3c) - Compiler for the C3 language
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [matteobortolazzo/stylo](https://github.com/matteobortolazzo/stylo) - A new Design-as-code language side project.
@@ -345,6 +346,7 @@
 
 ## golang 
 
+- [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go.
 - [gabivlj/candice](https://github.com/gabivlj/candice) - Candice, a dead simple language and multi-platform.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 
@@ -483,6 +485,9 @@
 
 ## others 
 
+- [openai/gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
+- [geralang/geraup](https://github.com/geralang/geraup) - Making installing Gera as easy as possible.
+- [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [pierotofy/set-swap-space](https://github.com/pierotofy/set-swap-space) - GitHub Action to Increase Swap Space on GitHub Runners
 - [polypixeldev/emojip](https://github.com/polypixeldev/emojip) - IPv4 addresses as emoji!
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
@@ -541,7 +546,7 @@
 - [payloadbox/xss-payload-list](https://github.com/payloadbox/xss-payload-list) - 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List
 - [emm312/eepy](https://github.com/emm312/eepy) - 
 - [Khhs167/memstack](https://github.com/Khhs167/memstack) - A basic linked-list based tool for managing memory
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 161 stars and 177 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 164 stars and 177 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username with SocialTrackr, the ultimate account hunting software.
 - [mauro-balades/password-judger](https://github.com/mauro-balades/password-judger) - Does he bite? no, he judges you
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
