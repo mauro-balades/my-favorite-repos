@@ -85,8 +85,10 @@
 
 ## C++ 
 
-- [snowball-lang/Confy](https://github.com/snowball-lang/Confy) - Configure projects effortlessly! 💻
-- [mauro-balades/Confy](https://github.com/mauro-balades/Confy) - Configure projects effortlessly! 💻
+- [snowball-lang/reky](https://github.com/snowball-lang/reky) - 📄 Source code for Snowball's (reky)rements (requirements) manager!
+- [MaxXSoft/YuLang](https://github.com/MaxXSoft/YuLang) - The Yu (羽) programming language.
+- [snowball-lang/Confy](https://github.com/snowball-lang/Confy) - 💻 Configure projects effortlessly!
+- [mauro-balades/Confy](https://github.com/mauro-balades/Confy) - 💻 Configure projects effortlessly!
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [R3nzTheCodeGOD/R3nzSkin](https://github.com/R3nzTheCodeGOD/R3nzSkin) - Skin changer for League of Legends (LOL)
 - [szeged/sprocket](https://github.com/szeged/sprocket) - Experimental minimal browser based on Chromium
@@ -112,7 +114,7 @@
 - [demqa/Language](https://github.com/demqa/Language) - This is my own programming language
 - [Ark1409/shift](https://github.com/Ark1409/shift) - The 'shift' programming language
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
-- [snowball-lang/snowball](https://github.com/snowball-lang/snowball) - Anything that can be written in Snowball, will eventually be written in Snowball
+- [snowball-lang/snowball](https://github.com/snowball-lang/snowball) - 🐱 Anything that can be written in Snowball, will eventually be written in Snowball
 - [lhmouse/asteria](https://github.com/lhmouse/asteria) - The Asteria Programming Language
 - [RainingComputers/ShnooTalk](https://github.com/RainingComputers/ShnooTalk) - ShnooTalk is a new programming language
 - [felixjulianheitmann/licensecxx](https://github.com/felixjulianheitmann/licensecxx) - Software licensing, copy protection in C++
@@ -156,6 +158,7 @@
 
 ## D 
 
+- [VoltLang/Volta](https://github.com/VoltLang/Volta) - Compiler for the Volt Programming Language
 - [mauro-balades/vox](https://github.com/mauro-balades/vox) - Vox language compiler. AOT / JIT / Linker. Zero dependencies
 
 ## Dart 
@@ -302,6 +305,7 @@
 
 ## Others 
 
+- [snowball-lang/template-library](https://github.com/snowball-lang/template-library) - 😎 Template repository for a minimal snowball library!
 - [pierotofy/set-swap-space](https://github.com/pierotofy/set-swap-space) - GitHub Action to Increase Swap Space on GitHub Runners
 - [ashleymavericks/ashleymavericks](https://github.com/ashleymavericks/ashleymavericks) - :octocat: Config for my GitHub profile
 - [amun-lang/docs](https://github.com/amun-lang/docs) - Documentations website for Amun programming language
@@ -362,7 +366,7 @@
 - [compiler-explorer/infra](https://github.com/compiler-explorer/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [mauro-balades/ChromeVaultExtract](https://github.com/mauro-balades/ChromeVaultExtract) - a powerful software tool designed to effortlessly retrieve and extract saved passwords from the Google Chrome web browser.
 - [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 164 stars and 177 forks 🌟
-- [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username with SocialTrackr, the ultimate account hunting software.
+- [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username, the ultimate account hunting software.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [snowball-lang/SnowBot](https://github.com/snowball-lang/SnowBot) - 🤖 A discord bot that can compile and execute snowball code.
 - [ml-for-nlp/build-your-search-engine](https://github.com/ml-for-nlp/build-your-search-engine) - A repository to learn basic data processing techniques (Wikipedia processing, feature selection), and use them for some basic Web query classification.
@@ -431,6 +435,8 @@
 
 ## Swift 
 
+- [snowball-lang/core](https://github.com/snowball-lang/core) - 🧠 Snowball's core standard library!
+- [snowball-lang/std](https://github.com/snowball-lang/std) - 📦 Snowball's standard library!
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [karkutsi/async-http-client](https://github.com/karkutsi/async-http-client) - HTTP client library built on SwiftNIO
 
