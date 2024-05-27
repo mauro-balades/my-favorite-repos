@@ -169,6 +169,7 @@
 
 ## compiler 
 
+- [MaxXSoft/YuLang](https://github.com/MaxXSoft/YuLang) - The Yu (羽) programming language.
 - [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go.
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
 - [amun-lang/docs](https://github.com/amun-lang/docs) - Documentations website for Amun programming language
@@ -188,7 +189,7 @@
 - [gabivlj/candice](https://github.com/gabivlj/candice) - Candice, a dead simple language and multi-platform.
 - [Fuechs/Fux](https://github.com/Fuechs/Fux) - Flawless Unambiguous Programming - A Modern, Flexible Programming Language for All
 - [AmrDeveloper/Amun](https://github.com/AmrDeveloper/Amun) - A Statically typed, compiled general purpose low level programming language built using C++ and LLVM Infrastructure framework designed to be simple and fast
-- [snowball-lang/snowball](https://github.com/snowball-lang/snowball) - Anything that can be written in Snowball, will eventually be written in Snowball
+- [snowball-lang/snowball](https://github.com/snowball-lang/snowball) - 🐱 Anything that can be written in Snowball, will eventually be written in Snowball
 - [c3lang/c3c](https://github.com/c3lang/c3c) - Compiler for the C3 language
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [matteobortolazzo/stylo](https://github.com/matteobortolazzo/stylo) - A new Design-as-code language side project.
@@ -202,7 +203,7 @@
 
 ## config 
 
-- [mauro-balades/Confy](https://github.com/mauro-balades/Confy) - Configure projects effortlessly! 💻
+- [mauro-balades/Confy](https://github.com/mauro-balades/Confy) - 💻 Configure projects effortlessly!
 
 ## continuous-integration 
 
@@ -414,6 +415,7 @@
 
 ## language 
 
+- [VoltLang/Volta](https://github.com/VoltLang/Volta) - Compiler for the Volt Programming Language
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 - [spicelang/spice](https://github.com/spicelang/spice) - Spice Programming Language
@@ -485,13 +487,17 @@
 
 ## others 
 
+- [snowball-lang/core](https://github.com/snowball-lang/core) - 🧠 Snowball's core standard library!
+- [snowball-lang/template-library](https://github.com/snowball-lang/template-library) - 😎 Template repository for a minimal snowball library!
+- [snowball-lang/reky](https://github.com/snowball-lang/reky) - 📄 Source code for Snowball's (reky)rements (requirements) manager!
+- [snowball-lang/std](https://github.com/snowball-lang/std) - 📦 Snowball's standard library!
 - [openai/gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [geralang/geraup](https://github.com/geralang/geraup) - Making installing Gera as easy as possible.
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [pierotofy/set-swap-space](https://github.com/pierotofy/set-swap-space) - GitHub Action to Increase Swap Space on GitHub Runners
 - [polypixeldev/emojip](https://github.com/polypixeldev/emojip) - IPv4 addresses as emoji!
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-- [snowball-lang/Confy](https://github.com/snowball-lang/Confy) - Configure projects effortlessly! 💻
+- [snowball-lang/Confy](https://github.com/snowball-lang/Confy) - 💻 Configure projects effortlessly!
 - [Naezr/ShyFox](https://github.com/Naezr/ShyFox) - A very shy little theme that hides the entire browser interface in the window border
 - [zen-browser/pdf.js](https://github.com/zen-browser/pdf.js) - PDF Reader in JavaScript
 - [Floorp-Projects/Floorp-core](https://github.com/Floorp-Projects/Floorp-core) - 
@@ -547,7 +553,7 @@
 - [emm312/eepy](https://github.com/emm312/eepy) - 
 - [Khhs167/memstack](https://github.com/Khhs167/memstack) - A basic linked-list based tool for managing memory
 - [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 164 stars and 177 forks 🌟
-- [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username with SocialTrackr, the ultimate account hunting software.
+- [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username, the ultimate account hunting software.
 - [mauro-balades/password-judger](https://github.com/mauro-balades/password-judger) - Does he bite? no, he judges you
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
 - [CodeWithShreyans/upstash-kv](https://github.com/CodeWithShreyans/upstash-kv) - Simple Upstash Redis client based on @vercel/kv
