@@ -169,6 +169,8 @@
 
 ## compiler 
 
+- [zaalang/zacc](https://github.com/zaalang/zacc) - zaalang compiler
+- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [MaxXSoft/YuLang](https://github.com/MaxXSoft/YuLang) - The Yu (羽) programming language.
 - [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go.
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
@@ -212,6 +214,7 @@
 
 ## cpp 
 
+- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [R3nzTheCodeGOD/R3nzSkin](https://github.com/R3nzTheCodeGOD/R3nzSkin) - Skin changer for League of Legends (LOL)
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 - [SergeyMakeev/smmalloc](https://github.com/SergeyMakeev/smmalloc) - Blazing fast memory allocator designed for video games
@@ -415,6 +418,7 @@
 
 ## language 
 
+- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [VoltLang/Volta](https://github.com/VoltLang/Volta) - Compiler for the Volt Programming Language
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
@@ -487,6 +491,8 @@
 
 ## others 
 
+- [aardappel/lobster](https://github.com/aardappel/lobster) - The Lobster Programming Language
+- [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - the official Rust and C implementations of the BLAKE3 cryptographic hash function
 - [snowball-lang/core](https://github.com/snowball-lang/core) - 🧠 Snowball's core standard library!
 - [snowball-lang/template-library](https://github.com/snowball-lang/template-library) - 😎 Template repository for a minimal snowball library!
 - [snowball-lang/reky](https://github.com/snowball-lang/reky) - 📄 Source code for Snowball's (reky)rements (requirements) manager!
