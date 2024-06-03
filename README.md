@@ -46,6 +46,7 @@
 
 ## Assembly 
 
+- [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - the official Rust and C implementations of the BLAKE3 cryptographic hash function
 - [mauro-balades/afetch](https://github.com/mauro-balades/afetch) - A command-line system information tool written in x86 assembly language
 - [mauro-balades/hello-world](https://github.com/mauro-balades/hello-world) - hello-world in any programming language.
 
@@ -85,6 +86,9 @@
 
 ## C++ 
 
+- [aardappel/lobster](https://github.com/aardappel/lobster) - The Lobster Programming Language
+- [zaalang/zacc](https://github.com/zaalang/zacc) - zaalang compiler
+- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [snowball-lang/reky](https://github.com/snowball-lang/reky) - 📄 Source code for Snowball's (reky)rements (requirements) manager!
 - [MaxXSoft/YuLang](https://github.com/MaxXSoft/YuLang) - The Yu (羽) programming language.
 - [snowball-lang/Confy](https://github.com/snowball-lang/Confy) - 💻 Configure projects effortlessly!
