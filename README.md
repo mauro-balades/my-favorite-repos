@@ -27,6 +27,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Kotlin](#kotlin)
+- [LLVM](#llvm)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Nim](#nim)
@@ -86,6 +87,7 @@
 
 ## C++ 
 
+- [CanftIn/cocktail-lang](https://github.com/CanftIn/cocktail-lang) - Experimental attempt on LLVM. A step by step forking of Carbon.
 - [aardappel/lobster](https://github.com/aardappel/lobster) - The Lobster Programming Language
 - [zaalang/zacc](https://github.com/zaalang/zacc) - zaalang compiler
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
@@ -162,6 +164,7 @@
 
 ## D 
 
+- [ldc-developers/ldc](https://github.com/ldc-developers/ldc) - The LLVM-based D Compiler.
 - [VoltLang/Volta](https://github.com/VoltLang/Volta) - Compiler for the Volt Programming Language
 - [mauro-balades/vox](https://github.com/mauro-balades/vox) - Vox language compiler. AOT / JIT / Linker. Zero dependencies
 
@@ -240,6 +243,7 @@
 
 ## JavaScript 
 
+- [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [polypixeldev/emojip](https://github.com/polypixeldev/emojip) - IPv4 addresses as emoji!
 - [zen-browser/pdf.js](https://github.com/zen-browser/pdf.js) - PDF Reader in JavaScript
 - [FirefoxCSS-Store/FirefoxCSS-Store.github.io](https://github.com/FirefoxCSS-Store/FirefoxCSS-Store.github.io) - A collection site of Firefox userchrome themes, mostly from FirefoxCSS Reddit community.
@@ -287,6 +291,10 @@
 - [karkutsi/jasync-sql](https://github.com/karkutsi/jasync-sql) - Java & Kotlin Async DataBase Driver for MySQL and PostgreSQL written in Kotlin
 - [karkutsi/lyricist](https://github.com/karkutsi/lyricist) - 🌎 The missing I18N/L10N (internationalization/localization) library for Jetpack Compose!
 
+## LLVM 
+
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+
 ## Makefile 
 
 - [siko-lang/siko](https://github.com/siko-lang/siko) - siko
@@ -316,7 +324,6 @@
 - [mauro-balades/townscaper-objects](https://github.com/mauro-balades/townscaper-objects) - my own townscaper builds and object files
 - [snowball-lang/syntax-vscode](https://github.com/snowball-lang/syntax-vscode) - VS Code Language extension for snowball
 - [mauro-balades/llvm-project](https://github.com/mauro-balades/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
-- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [snowball-lang/docs](https://github.com/snowball-lang/docs) - 📚 The official documentation for @snowball-lang.
 - [payloadbox/xss-payload-list](https://github.com/payloadbox/xss-payload-list) - 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List
@@ -369,7 +376,7 @@
 - [mauro-balades/infra](https://github.com/mauro-balades/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [compiler-explorer/infra](https://github.com/compiler-explorer/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [mauro-balades/ChromeVaultExtract](https://github.com/mauro-balades/ChromeVaultExtract) - a powerful software tool designed to effortlessly retrieve and extract saved passwords from the Google Chrome web browser.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 164 stars and 177 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 165 stars and 177 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username, the ultimate account hunting software.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [snowball-lang/SnowBot](https://github.com/snowball-lang/SnowBot) - 🤖 A discord bot that can compile and execute snowball code.
@@ -487,6 +494,7 @@
 
 ## V 
 
+- [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
 - [karkutsi/v](https://github.com/karkutsi/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 
 ## Vue 
