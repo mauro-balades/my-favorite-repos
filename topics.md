@@ -372,7 +372,6 @@
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [thuva4/Algorithms](https://github.com/thuva4/Algorithms) - Collection of algorithms in multiple programming languages.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
-- [cpp-linter/cpp-linter-action](https://github.com/cpp-linter/cpp-linter-action) - A Github Action for linting C/C++ code integrating clang-tidy and clang-format to collect feedback provided in the form of file-annotations, thread-comments, workflow step-summary, and Pull Request re
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - Free & open-source JavaScript library to detect user's Browser, Engine, OS, CPU, and Device type/model. Runs either in browser (client-side) or node.js (server-side).
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
@@ -497,9 +496,10 @@
 
 ## others 
 
+- [s3cur3/llvm-data-structure-benchmarks](https://github.com/s3cur3/llvm-data-structure-benchmarks) - A benchmark for cache efficient data structures.
+- [kuafuwang/LspCpp](https://github.com/kuafuwang/LspCpp) - A Language Server Protocol implementation in C++
 - [aardappel/lobster](https://github.com/aardappel/lobster) - The Lobster Programming Language
 - [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - the official Rust and C implementations of the BLAKE3 cryptographic hash function
-- [snowball-lang/core](https://github.com/snowball-lang/core) - 🧠 Snowball's core standard library!
 - [snowball-lang/template-library](https://github.com/snowball-lang/template-library) - 😎 Template repository for a minimal snowball library!
 - [snowball-lang/reky](https://github.com/snowball-lang/reky) - 📄 Source code for Snowball's (reky)rements (requirements) manager!
 - [snowball-lang/std](https://github.com/snowball-lang/std) - 📦 Snowball's standard library!
@@ -564,7 +564,7 @@
 - [payloadbox/xss-payload-list](https://github.com/payloadbox/xss-payload-list) - 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List
 - [emm312/eepy](https://github.com/emm312/eepy) - 
 - [Khhs167/memstack](https://github.com/Khhs167/memstack) - A basic linked-list based tool for managing memory
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 165 stars and 177 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 166 stars and 177 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username, the ultimate account hunting software.
 - [mauro-balades/password-judger](https://github.com/mauro-balades/password-judger) - Does he bite? no, he judges you
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
@@ -591,6 +591,7 @@
 - [qexat/Vism](https://github.com/qexat/Vism) - Specification for the Vism esoteric programming language.
 - [snowball-lang/SnowBot](https://github.com/snowball-lang/SnowBot) - 🤖 A discord bot that can compile and execute snowball code.
 - [skiplang/skip](https://github.com/skiplang/skip) - A programming language to skip the things you have already computed
+- [cpp-linter/cpp-linter-action](https://github.com/cpp-linter/cpp-linter-action) - A Github Action for linting C/C++ code integrating clang-tidy and clang-format to collect feedback provided in the form of file-annotations, thread-comments, workflow step-summary, and Pull Request re
 - [IvanLudvig/clang-format-action](https://github.com/IvanLudvig/clang-format-action) - A github action to run clang-format on all C/C++ sources in a repository
 - [Ninesquared81/caretbang](https://github.com/Ninesquared81/caretbang) - A stack-based esoteric langauge
 - [Im-0xea/binfetch](https://github.com/Im-0xea/binfetch) - A Neofetch inspired binary analyzer
