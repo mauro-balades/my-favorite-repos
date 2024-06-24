@@ -57,6 +57,7 @@
 
 ## C 
 
+- [mauro-balades/mart-please-fix-your-damn-parser](https://github.com/mauro-balades/mart-please-fix-your-damn-parser) - Experimental compiler
 - [Snaipe/Criterion](https://github.com/Snaipe/Criterion) - A cross-platform C and C++ unit testing framework for the 21st century
 - [mauro-balades/blib](https://github.com/mauro-balades/blib) - (BLib: Better Library) A next generation C stdandard library replacement.
 - [SenegalLang/Senegal](https://github.com/SenegalLang/Senegal) - Senegal programming language
@@ -87,6 +88,8 @@
 
 ## C++ 
 
+- [mauro-balades/whoops-cpp](https://github.com/mauro-balades/whoops-cpp) - 🌟 A growing collection of ulity classes and functions for common c++ tasks
+- [wheybags/glibc_version_header](https://github.com/wheybags/glibc_version_header) - Build portable Linux binaries without using an ancient distro
 - [s3cur3/llvm-data-structure-benchmarks](https://github.com/s3cur3/llvm-data-structure-benchmarks) - A benchmark for cache efficient data structures.
 - [kuafuwang/LspCpp](https://github.com/kuafuwang/LspCpp) - A Language Server Protocol implementation in C++
 - [CanftIn/cocktail-lang](https://github.com/CanftIn/cocktail-lang) - Experimental attempt on LLVM. A step by step forking of Carbon.
@@ -95,7 +98,6 @@
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [snowball-lang/reky](https://github.com/snowball-lang/reky) - 📄 Source code for Snowball's (reky)rements (requirements) manager!
 - [MaxXSoft/YuLang](https://github.com/MaxXSoft/YuLang) - The Yu (羽) programming language.
-- [snowball-lang/Confy](https://github.com/snowball-lang/Confy) - 💻 Configure projects effortlessly!
 - [mauro-balades/Confy](https://github.com/mauro-balades/Confy) - 💻 Configure projects effortlessly!
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [R3nzTheCodeGOD/R3nzSkin](https://github.com/R3nzTheCodeGOD/R3nzSkin) - Skin changer for League of Legends (LOL)
@@ -237,6 +239,7 @@
 
 ## Java 
 
+- [drtshock/Potato](https://github.com/drtshock/Potato) - If you fork this then you can say you forked a potato.
 - [jpcap/jpcap](https://github.com/jpcap/jpcap) - network packet capture library for applications written in java
 - [omegaui/omegaide](https://github.com/omegaui/omegaide) - An Instant IDE from the Future that supports any programming language.
 - [mauro-balades/WorldGuard](https://github.com/mauro-balades/WorldGuard) - 🛡️ Protect your Minecraft server and lets players claim areas
@@ -262,7 +265,7 @@
 - [mauro-balades/gravity](https://github.com/mauro-balades/gravity) - Gravity browser - Privacy is not an option, it's a must
 - [thesephist/tabloid](https://github.com/thesephist/tabloid) - A minimal programming language inspired by clickbait headlines
 - [skiplang/skip](https://github.com/skiplang/skip) - A programming language to skip the things you have already computed
-- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - Free & open-source JavaScript library to detect user's Browser, Engine, OS, CPU, and Device type/model. Runs either in browser (client-side) or node.js (server-side).
+- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - The Essential Tool for User-Agent Detection in JavaScript & Web Development.
 - [zspecza/system](https://github.com/zspecza/system) - A component system syntax for CSS
 - [mauro-balades/Codex](https://github.com/mauro-balades/Codex) - Codex is a multi-platform IDE with intuitive and modern design.
 - [curist/lxlox](https://github.com/curist/lxlox) - Lox derived programming language
@@ -378,7 +381,7 @@
 - [mauro-balades/infra](https://github.com/mauro-balades/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [compiler-explorer/infra](https://github.com/compiler-explorer/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [mauro-balades/ChromeVaultExtract](https://github.com/mauro-balades/ChromeVaultExtract) - a powerful software tool designed to effortlessly retrieve and extract saved passwords from the Google Chrome web browser.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 166 stars and 177 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 168 stars and 178 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username, the ultimate account hunting software.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [snowball-lang/SnowBot](https://github.com/snowball-lang/SnowBot) - 🤖 A discord bot that can compile and execute snowball code.
@@ -437,6 +440,7 @@
 
 ## Shell 
 
+- [snowball-lang/install](https://github.com/snowball-lang/install) - 💪 Download snowball and use it with a single command!
 - [geralang/geraup](https://github.com/geralang/geraup) - Making installing Gera as easy as possible.
 - [mauro-balades/RTCM](https://github.com/mauro-balades/RTCM) - RTCM is a tool to monitor command performance in real-time.
 - [TheAssassin/prebuilt-cmake](https://github.com/TheAssassin/prebuilt-cmake) - CMake builds, made on various distros. Very useful for CI purposes.
