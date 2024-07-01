@@ -88,6 +88,7 @@
 
 ## C++ 
 
+- [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
 - [mauro-balades/whoops-cpp](https://github.com/mauro-balades/whoops-cpp) - 🌟 A growing collection of ulity classes and functions for common c++ tasks
 - [wheybags/glibc_version_header](https://github.com/wheybags/glibc_version_header) - Build portable Linux binaries without using an ancient distro
 - [s3cur3/llvm-data-structure-benchmarks](https://github.com/s3cur3/llvm-data-structure-benchmarks) - A benchmark for cache efficient data structures.
@@ -248,6 +249,7 @@
 
 ## JavaScript 
 
+- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv`
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [polypixeldev/emojip](https://github.com/polypixeldev/emojip) - IPv4 addresses as emoji!
 - [zen-browser/pdf.js](https://github.com/zen-browser/pdf.js) - PDF Reader in JavaScript
@@ -322,6 +324,7 @@
 
 ## Others 
 
+- [ShrekMan293/Brass](https://github.com/ShrekMan293/Brass) - A statically typed language that I hope can be a long term project that is updated constantly
 - [snowball-lang/template-library](https://github.com/snowball-lang/template-library) - 😎 Template repository for a minimal snowball library!
 - [pierotofy/set-swap-space](https://github.com/pierotofy/set-swap-space) - GitHub Action to Increase Swap Space on GitHub Runners
 - [ashleymavericks/ashleymavericks](https://github.com/ashleymavericks/ashleymavericks) - :octocat: Config for my GitHub profile
@@ -344,7 +347,7 @@
 - [jin/awesome-bazel](https://github.com/jin/awesome-bazel) - A curated list of Bazel rules, tooling and resources.
 - [dark-flow/vscode](https://github.com/dark-flow/vscode) - Dark theme for visual studio code
 - [return-node/requests](https://github.com/return-node/requests) - Submit new languages!
-- [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
+- [race2infinity/The-Documentation-Compendium](https://github.com/race2infinity/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
 - [samuelmarina/is-even](https://github.com/samuelmarina/is-even) - Is a number even?
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [mauro-balades/hands](https://github.com/mauro-balades/hands) - A repository storing my assets
@@ -370,6 +373,7 @@
 
 - [openai/gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [TrueHerobrine/SwiftBrowse](https://github.com/TrueHerobrine/SwiftBrowse) - Fast, Private, Lightweight browser based on PyQt5/QtWebEngine
+- [mauro-balades/craftingcompilers](https://github.com/mauro-balades/craftingcompilers) - A book I wrote to help and engage people into building their own compiler
 - [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [ArachnidAbby/BCL](https://github.com/ArachnidAbby/BCL) - BCL Compiled Language (BCL)
 - [snowball-lang/packages](https://github.com/snowball-lang/packages) - 📦 Package index for modules made by the snowball comunity.
@@ -381,7 +385,7 @@
 - [mauro-balades/infra](https://github.com/mauro-balades/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [compiler-explorer/infra](https://github.com/compiler-explorer/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [mauro-balades/ChromeVaultExtract](https://github.com/mauro-balades/ChromeVaultExtract) - a powerful software tool designed to effortlessly retrieve and extract saved passwords from the Google Chrome web browser.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 168 stars and 178 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 167 stars and 178 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username, the ultimate account hunting software.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [snowball-lang/SnowBot](https://github.com/snowball-lang/SnowBot) - 🤖 A discord bot that can compile and execute snowball code.
