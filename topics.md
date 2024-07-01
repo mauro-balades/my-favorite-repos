@@ -106,7 +106,7 @@
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [jin/awesome-bazel](https://github.com/jin/awesome-bazel) - A curated list of Bazel rules, tooling and resources.
-- [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
+- [race2infinity/The-Documentation-Compendium](https://github.com/race2infinity/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
 - [Blankj/awesome-comment](https://github.com/Blankj/awesome-comment) - :boom: Funny comments
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 
@@ -276,7 +276,7 @@
 ## documentation 
 
 - [amun-lang/docs](https://github.com/amun-lang/docs) - Documentations website for Amun programming language
-- [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
+- [race2infinity/The-Documentation-Compendium](https://github.com/race2infinity/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
 
 ## dotfiles 
 
@@ -496,6 +496,9 @@
 
 ## others 
 
+- [ShrekMan293/Brass](https://github.com/ShrekMan293/Brass) - A statically typed language that I hope can be a long term project that is updated constantly
+- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv`
+- [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
 - [mauro-balades/mart-please-fix-your-damn-parser](https://github.com/mauro-balades/mart-please-fix-your-damn-parser) - Experimental compiler
 - [mauro-balades/whoops-cpp](https://github.com/mauro-balades/whoops-cpp) - 🌟 A growing collection of ulity classes and functions for common c++ tasks
 - [drtshock/Potato](https://github.com/drtshock/Potato) - If you fork this then you can say you forked a potato.
@@ -516,6 +519,7 @@
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [Naezr/ShyFox](https://github.com/Naezr/ShyFox) - A very shy little theme that hides the entire browser interface in the window border
 - [zen-browser/pdf.js](https://github.com/zen-browser/pdf.js) - PDF Reader in JavaScript
+- [mauro-balades/craftingcompilers](https://github.com/mauro-balades/craftingcompilers) - A book I wrote to help and engage people into building their own compiler
 - [Floorp-Projects/Floorp-core](https://github.com/Floorp-Projects/Floorp-core) - 
 - [szeged/sprocket](https://github.com/szeged/sprocket) - Experimental minimal browser based on Chromium
 - [mauro-balades/blib](https://github.com/mauro-balades/blib) - (BLib: Better Library) A next generation C stdandard library replacement.
@@ -568,7 +572,7 @@
 - [payloadbox/xss-payload-list](https://github.com/payloadbox/xss-payload-list) - 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List
 - [emm312/eepy](https://github.com/emm312/eepy) - 
 - [Khhs167/memstack](https://github.com/Khhs167/memstack) - A basic linked-list based tool for managing memory
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 168 stars and 178 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 167 stars and 178 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username, the ultimate account hunting software.
 - [mauro-balades/password-judger](https://github.com/mauro-balades/password-judger) - Does he bite? no, he judges you
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
