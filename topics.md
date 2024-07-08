@@ -63,6 +63,8 @@
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
+- [material-design](#material-design)
+- [nextjs](#nextjs)
 - [nim](#nim)
 - [nodejs](#nodejs)
 - [open-source](#open-source)
@@ -177,7 +179,7 @@
 - [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go.
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
 - [amun-lang/docs](https://github.com/amun-lang/docs) - Documentations website for Amun programming language
-- [zionlang/zion](https://github.com/zionlang/zion) - A statically-typed strictly-evaluated garbage-collected readable programming language.
+- [wbbradley/ace](https://github.com/wbbradley/ace) - A statically-typed strictly-evaluated garbage-collected readable programming language.
 - [ArachnidAbby/BCL](https://github.com/ArachnidAbby/BCL) - BCL Compiled Language (BCL)
 - [chrysante/scatha](https://github.com/chrysante/scatha) - Personal toy-compiler project
 - [spicelang/spice](https://github.com/spicelang/spice) - Spice Programming Language
@@ -236,6 +238,7 @@
 
 ## css 
 
+- [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated) - Firefox theme looks similar to Chrome
 - [Shina-SG/Shina-Fox](https://github.com/Shina-SG/Shina-Fox) - A Minimal, Cozy, Vertical Optimized Firefox Theme
 - [chr15m/DoodleCSS](https://github.com/chr15m/DoodleCSS) - A simple hand drawn HTML/CSS theme
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
@@ -290,6 +293,7 @@
 
 ## firefox 
 
+- [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated) - Firefox theme looks similar to Chrome
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [FirefoxCSS-Store/FirefoxCSS-Store.github.io](https://github.com/FirefoxCSS-Store/FirefoxCSS-Store.github.io) - A collection site of Firefox userchrome themes, mostly from FirefoxCSS Reddit community.
 - [amnweb/firefox-plus](https://github.com/amnweb/firefox-plus) - CSS tweaks for Firefox
@@ -475,6 +479,14 @@
 
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
 
+## material-design 
+
+- [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated) - Firefox theme looks similar to Chrome
+
+## nextjs 
+
+- [nyxb-ui/ui](https://github.com/nyxb-ui/ui) - Fusion UI library combining Shadcn/UI and MagicUI. Featuring 150+ free and open-source components built with React, Typescript, Tailwind CSS, and Framer Motion. Create stunning, responsive interfaces 
+
 ## nim 
 
 - [nim-lang/packages](https://github.com/nim-lang/packages) - List of packages for Nimble
@@ -496,6 +508,9 @@
 
 ## others 
 
+- [zen-browser/surfer](https://github.com/zen-browser/surfer) - Simplifying building firefox forks!
+- [zen-browser/updates-server](https://github.com/zen-browser/updates-server) - Resource server used for firefox's automatic updates system
+- [zen-browser/www](https://github.com/zen-browser/www) - 🌐 Homepage for @zen-browser!
 - [ShrekMan293/Brass](https://github.com/ShrekMan293/Brass) - A statically typed language that I hope can be a long term project that is updated constantly
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv`
 - [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
@@ -572,7 +587,7 @@
 - [payloadbox/xss-payload-list](https://github.com/payloadbox/xss-payload-list) - 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List
 - [emm312/eepy](https://github.com/emm312/eepy) - 
 - [Khhs167/memstack](https://github.com/Khhs167/memstack) - A basic linked-list based tool for managing memory
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 167 stars and 178 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 168 stars and 178 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username, the ultimate account hunting software.
 - [mauro-balades/password-judger](https://github.com/mauro-balades/password-judger) - Does he bite? no, he judges you
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
@@ -771,6 +786,7 @@
 
 ## react 
 
+- [nyxb-ui/ui](https://github.com/nyxb-ui/ui) - Fusion UI library combining Shadcn/UI and MagicUI. Featuring 150+ free and open-source components built with React, Typescript, Tailwind CSS, and Framer Motion. Create stunning, responsive interfaces 
 - [mburakerman/reactplosive-modal](https://github.com/mburakerman/reactplosive-modal) - 🔥 A simple React modal component with an explosion effect
 
 ## reverse-engineering 
@@ -844,6 +860,7 @@
 
 ## typescript 
 
+- [nyxb-ui/ui](https://github.com/nyxb-ui/ui) - Fusion UI library combining Shadcn/UI and MagicUI. Featuring 150+ free and open-source components built with React, Typescript, Tailwind CSS, and Framer Motion. Create stunning, responsive interfaces 
 - [ovr/StaticScript](https://github.com/ovr/StaticScript) - :rocket: TypeScript compiler on top of TypeScript as frontend and LLVM as backend
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [mauro-balades/url-motion](https://github.com/mauro-balades/url-motion) - Animate your browser url and make your website 1000 times more attractive.
