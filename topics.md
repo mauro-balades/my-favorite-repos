@@ -10,6 +10,7 @@
 - [awesome-list](#awesome-list)
 - [bash](#bash)
 - [bootstrap](#bootstrap)
+- [bugbounty](#bugbounty)
 - [c](#c)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
@@ -132,6 +133,10 @@
 - [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
 - [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 
+## bugbounty 
+
+- [payloadbox/xss-payload-list](https://github.com/payloadbox/xss-payload-list) - 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List
+
 ## c 
 
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
@@ -156,7 +161,6 @@
 
 ## chrome 
 
-- [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [zombieFox/nightTab](https://github.com/zombieFox/nightTab) - A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks with nightTab.
 
 ## chrome-extension 
@@ -461,7 +465,6 @@
 
 ## linux 
 
-- [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [ModuleArt/ferny](https://github.com/ModuleArt/ferny) - Chromium-based web browser, built on top of Electron.
 - [robiot/xclicker](https://github.com/robiot/xclicker) - XClicker - Fast gui autoclicker for x11 linux desktops
 - [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
@@ -508,6 +511,9 @@
 
 ## others 
 
+- [zen-browser/flatpak](https://github.com/zen-browser/flatpak) - 📦 official flatpak packges for @zen-browser!
+- [flatpak/flatpak-github-actions](https://github.com/flatpak/flatpak-github-actions) - Build your Flatpak application using Github Actions
+- [WarpBuilds/action-debugger](https://github.com/WarpBuilds/action-debugger) - Debug your GitHub Actions via SSH to get access to the WARP runner system itself.
 - [zen-browser/surfer](https://github.com/zen-browser/surfer) - Simplifying building firefox forks!
 - [zen-browser/updates-server](https://github.com/zen-browser/updates-server) - Resource server used for firefox's automatic updates system
 - [zen-browser/www](https://github.com/zen-browser/www) - 🌐 Homepage for @zen-browser!
@@ -535,7 +541,6 @@
 - [Naezr/ShyFox](https://github.com/Naezr/ShyFox) - A very shy little theme that hides the entire browser interface in the window border
 - [zen-browser/pdf.js](https://github.com/zen-browser/pdf.js) - PDF Reader in JavaScript
 - [mauro-balades/craftingcompilers](https://github.com/mauro-balades/craftingcompilers) - A book I wrote to help and engage people into building their own compiler
-- [Floorp-Projects/Floorp-core](https://github.com/Floorp-Projects/Floorp-core) - 
 - [szeged/sprocket](https://github.com/szeged/sprocket) - Experimental minimal browser based on Chromium
 - [mauro-balades/blib](https://github.com/mauro-balades/blib) - (BLib: Better Library) A next generation C stdandard library replacement.
 - [scrossuk/locic](https://github.com/scrossuk/locic) - Compiler and tools for the Loci programming language.
@@ -584,10 +589,9 @@
 - [mauro-balades/infra](https://github.com/mauro-balades/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [snowball-lang/docs](https://github.com/snowball-lang/docs) - 📚 The official documentation for @snowball-lang.
 - [mauro-balades/RetroByte](https://github.com/mauro-balades/RetroByte) - Minimalist, nostalgic, text-based OS.
-- [payloadbox/xss-payload-list](https://github.com/payloadbox/xss-payload-list) - 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List
 - [emm312/eepy](https://github.com/emm312/eepy) - 
 - [Khhs167/memstack](https://github.com/Khhs167/memstack) - A basic linked-list based tool for managing memory
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 168 stars and 178 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 170 stars and 177 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username, the ultimate account hunting software.
 - [mauro-balades/password-judger](https://github.com/mauro-balades/password-judger) - Does he bite? no, he judges you
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
