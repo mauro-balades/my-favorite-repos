@@ -25,6 +25,7 @@
 - [data-science](#data-science)
 - [database](#database)
 - [deno](#deno)
+- [dependency-management](#dependency-management)
 - [deployment](#deployment)
 - [design](#design)
 - [devops](#devops)
@@ -61,6 +62,7 @@
 - [laravel](#laravel)
 - [library](#library)
 - [linux](#linux)
+- [lua](#lua)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
@@ -68,9 +70,11 @@
 - [nextjs](#nextjs)
 - [nim](#nim)
 - [nodejs](#nodejs)
+- [objective-c](#objective-c)
 - [open-source](#open-source)
 - [opengl](#opengl)
 - [others](#others)
+- [package-manager](#package-manager)
 - [parsing](#parsing)
 - [php](#php)
 - [privacy](#privacy)
@@ -129,6 +133,7 @@
 
 ## bootstrap 
 
+- [abdes/asap](https://github.com/abdes/asap) - A modern cmake starter project for C++ with a complete build lifecycle, testing, dependency management, etc. Portable across Linux, OS X and Windows.
 - [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter) - 🚀 Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more.
 - [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
 - [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
@@ -139,6 +144,8 @@
 
 ## c 
 
+- [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
+- [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter) - 🚀 Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more.
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
 - [Snaipe/Criterion](https://github.com/Snaipe/Criterion) - A cross-platform C and C++ unit testing framework for the 21st century
 - [N-Wouda/docblock](https://github.com/N-Wouda/docblock) - Parse C++ documentation blocks using Python.
@@ -146,7 +153,6 @@
 - [lz4/lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm
 - [phillbush/xmenu](https://github.com/phillbush/xmenu) - a x11 menu utility
 - [robiot/xclicker](https://github.com/robiot/xclicker) - XClicker - Fast gui autoclicker for x11 linux desktops
-- [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter) - 🚀 Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more.
 - [mauro-balades/hello-world](https://github.com/mauro-balades/hello-world) - hello-world in any programming language.
 
 ## chatgpt 
@@ -213,15 +219,20 @@
 
 ## config 
 
+- [kylejlin/yscl](https://github.com/kylejlin/yscl) - A simple, readable config lang for when JSON or YML is overkill. "yscl" rhymes with "Haskell."
 - [mauro-balades/Confy](https://github.com/mauro-balades/Confy) - 💻 Configure projects effortlessly!
 
 ## continuous-integration 
 
-- [jin/awesome-bazel](https://github.com/jin/awesome-bazel) - A curated list of Bazel rules, tooling and resources.
+- [abdes/asap](https://github.com/abdes/asap) - A modern cmake starter project for C++ with a complete build lifecycle, testing, dependency management, etc. Portable across Linux, OS X and Windows.
 - [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter) - 🚀 Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more.
+- [jin/awesome-bazel](https://github.com/jin/awesome-bazel) - A curated list of Bazel rules, tooling and resources.
 
 ## cpp 
 
+- [Jonathan-Greve/Xmake-template](https://github.com/Jonathan-Greve/Xmake-template) - Xmake C++23 project template. Using C++ modules, github workflows for CI/CD (Windows and Ubuntu) and gtest for testing. Compiles with both GCC on Ubuntu and MSVC on Windows. See the linux.yml file for
+- [abdes/asap](https://github.com/abdes/asap) - A modern cmake starter project for C++ with a complete build lifecycle, testing, dependency management, etc. Portable across Linux, OS X and Windows.
+- [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter) - 🚀 Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more.
 - [CanftIn/cocktail-lang](https://github.com/CanftIn/cocktail-lang) - Experimental attempt on LLVM. A step by step forking of Carbon.
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [R3nzTheCodeGOD/R3nzSkin](https://github.com/R3nzTheCodeGOD/R3nzSkin) - Skin changer for League of Legends (LOL)
@@ -237,12 +248,11 @@
 - [yhirose/cpp-peglib](https://github.com/yhirose/cpp-peglib) - A single file C++ header-only PEG (Parsing Expression Grammars) library
 - [qiubit/lattec](https://github.com/qiubit/lattec) - LLVM based compiler for simple OO programming language, made for compilers university class
 - [maksmakuta/CProcessing](https://github.com/maksmakuta/CProcessing) - Processing C++ Edition
-- [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter) - 🚀 Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more.
 - [mauro-balades/hello-world](https://github.com/mauro-balades/hello-world) - hello-world in any programming language.
 
 ## css 
 
-- [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated) - Firefox theme looks similar to Chrome
+- [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated) - Firefox user CSS theme looks similar to Chrome
 - [Shina-SG/Shina-Fox](https://github.com/Shina-SG/Shina-Fox) - A Minimal, Cozy, Vertical Optimized Firefox Theme
 - [chr15m/DoodleCSS](https://github.com/chr15m/DoodleCSS) - A simple hand drawn HTML/CSS theme
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
@@ -258,6 +268,10 @@
 ## deno 
 
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
+
+## dependency-management 
+
+- [abdes/asap](https://github.com/abdes/asap) - A modern cmake starter project for C++ with a complete build lifecycle, testing, dependency management, etc. Portable across Linux, OS X and Windows.
 
 ## deployment 
 
@@ -297,7 +311,8 @@
 
 ## firefox 
 
-- [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated) - Firefox theme looks similar to Chrome
+- [CYFARE/HellFire](https://github.com/CYFARE/HellFire) - Optimized Firefox for GNU/Linux
+- [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated) - Firefox user CSS theme looks similar to Chrome
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [FirefoxCSS-Store/FirefoxCSS-Store.github.io](https://github.com/FirefoxCSS-Store/FirefoxCSS-Store.github.io) - A collection site of Firefox userchrome themes, mostly from FirefoxCSS Reddit community.
 - [amnweb/firefox-plus](https://github.com/amnweb/firefox-plus) - CSS tweaks for Firefox
@@ -406,6 +421,7 @@
 
 ## javascript 
 
+- [ghostery/adblocker](https://github.com/ghostery/adblocker) - Efficient embeddable adblocker library
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 - [geralang/geralc](https://github.com/geralang/geralc) - The initial (legacy) compiler for the Gera programming language.
@@ -465,10 +481,16 @@
 
 ## linux 
 
+- [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
+- [CYFARE/HellFire](https://github.com/CYFARE/HellFire) - Optimized Firefox for GNU/Linux
 - [ModuleArt/ferny](https://github.com/ModuleArt/ferny) - Chromium-based web browser, built on top of Electron.
 - [robiot/xclicker](https://github.com/robiot/xclicker) - XClicker - Fast gui autoclicker for x11 linux desktops
 - [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
+
+## lua 
+
+- [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 
 ## machine-learning 
 
@@ -484,7 +506,7 @@
 
 ## material-design 
 
-- [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated) - Firefox theme looks similar to Chrome
+- [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated) - Firefox user CSS theme looks similar to Chrome
 
 ## nextjs 
 
@@ -498,12 +520,16 @@
 
 - [ModuleArt/ferny](https://github.com/ModuleArt/ferny) - Chromium-based web browser, built on top of Electron.
 
+## objective-c 
+
+- [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
+
 ## open-source 
 
+- [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter) - 🚀 Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more.
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website
-- [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter) - 🚀 Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more.
 
 ## opengl 
 
@@ -511,6 +537,9 @@
 
 ## others 
 
+- [xmake-io/xmake-repo](https://github.com/xmake-io/xmake-repo) - 📦 An official xmake package repository
+- [mauro-balades/auto-make](https://github.com/mauro-balades/auto-make) - 📦 A new build tool that compilers bash script into makefile automatically
+- [licenses/license-templates](https://github.com/licenses/license-templates) - Templates for open source and other licenses
 - [zen-browser/flatpak](https://github.com/zen-browser/flatpak) - 📦 official flatpak packges for @zen-browser!
 - [flatpak/flatpak-github-actions](https://github.com/flatpak/flatpak-github-actions) - Build your Flatpak application using Github Actions
 - [WarpBuilds/action-debugger](https://github.com/WarpBuilds/action-debugger) - Debug your GitHub Actions via SSH to get access to the WARP runner system itself.
@@ -591,7 +620,7 @@
 - [mauro-balades/RetroByte](https://github.com/mauro-balades/RetroByte) - Minimalist, nostalgic, text-based OS.
 - [emm312/eepy](https://github.com/emm312/eepy) - 
 - [Khhs167/memstack](https://github.com/Khhs167/memstack) - A basic linked-list based tool for managing memory
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 170 stars and 177 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 171 stars and 179 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username, the ultimate account hunting software.
 - [mauro-balades/password-judger](https://github.com/mauro-balades/password-judger) - Does he bite? no, he judges you
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
@@ -746,6 +775,10 @@
 - [mauro-balades/generator-licenser](https://github.com/mauro-balades/generator-licenser) - 📄 create a license with greate TUI
 - [mauro-balades/github-issue-templates](https://github.com/mauro-balades/github-issue-templates) - some issue templates for github issues
 
+## package-manager 
+
+- [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
+
 ## parsing 
 
 - [yhirose/cpp-peglib](https://github.com/yhirose/cpp-peglib) - A single file C++ header-only PEG (Parsing Expression Grammars) library
@@ -756,6 +789,7 @@
 
 ## privacy 
 
+- [ghostery/adblocker](https://github.com/ghostery/adblocker) - Efficient embeddable adblocker library
 - [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [tutao/tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [gautamkrishnar/nothing-private](https://github.com/gautamkrishnar/nothing-private) - Do you think you are safe using private browsing or incognito mode?. :smile: :imp: This will prove that you're wrong.   Previously hosted at nothingprivate.ml
