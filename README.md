@@ -28,6 +28,7 @@
 - [JavaScript](#javascript)
 - [Kotlin](#kotlin)
 - [LLVM](#llvm)
+- [Lua](#lua)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Nim](#nim)
@@ -68,6 +69,7 @@
 - [TypeSafeSchwalbe/Lania](https://github.com/TypeSafeSchwalbe/Lania) - A 2d top-down turn-based strategy terminal game written from scratch in C.
 - [Usbac/borealis](https://github.com/Usbac/borealis) - The elegant and consistent programming language.
 - [mauro-balades/ultimate-string-library](https://github.com/mauro-balades/ultimate-string-library) - The ultimate string library for C where it's purpose is to eliminate the use of null terminators but allow C stdlib interactivity without the use of structs and still use char* arrays
+- [snowball-lang/snowball](https://github.com/snowball-lang/snowball) - 🐱 Anything that can be written in Snowball, will eventually be written in Snowball
 - [TypeSafeSchwalbe/iolitevm](https://github.com/TypeSafeSchwalbe/iolitevm) - The virtual machine for the Iolite programming language.
 - [c3lang/c3c](https://github.com/c3lang/c3c) - Compiler for the C3 language
 - [Khhs167/memstack](https://github.com/Khhs167/memstack) - A basic linked-list based tool for managing memory
@@ -89,6 +91,7 @@
 
 ## C++ 
 
+- [Jonathan-Greve/Xmake-template](https://github.com/Jonathan-Greve/Xmake-template) - Xmake C++23 project template. Using C++ modules, github workflows for CI/CD (Windows and Ubuntu) and gtest for testing. Compiles with both GCC on Ubuntu and MSVC on Windows. See the linux.yml file for
 - [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
 - [mauro-balades/whoops-cpp](https://github.com/mauro-balades/whoops-cpp) - 🌟 A growing collection of ulity classes and functions for common c++ tasks
 - [wheybags/glibc_version_header](https://github.com/wheybags/glibc_version_header) - Build portable Linux binaries without using an ancient distro
@@ -125,7 +128,6 @@
 - [demqa/Language](https://github.com/demqa/Language) - This is my own programming language
 - [Ark1409/shift](https://github.com/Ark1409/shift) - The 'shift' programming language
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
-- [snowball-lang/snowball](https://github.com/snowball-lang/snowball) - 🐱 Anything that can be written in Snowball, will eventually be written in Snowball
 - [lhmouse/asteria](https://github.com/lhmouse/asteria) - The Asteria Programming Language
 - [RainingComputers/ShnooTalk](https://github.com/RainingComputers/ShnooTalk) - ShnooTalk is a new programming language
 - [felixjulianheitmann/licensecxx](https://github.com/felixjulianheitmann/licensecxx) - Software licensing, copy protection in C++
@@ -141,6 +143,7 @@
 - [Haruno19/CustomQuest](https://github.com/Haruno19/CustomQuest) - Modular turn-based-RPG-like battle simulator with JSON configuration files
 - [google/googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework
 - [maksmakuta/CProcessing](https://github.com/maksmakuta/CProcessing) - Processing C++ Edition
+- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [acdemiralp/cmake_templates](https://github.com/acdemiralp/cmake_templates) - Concise CMake templates for creating C++ libraries or executables.
 - [mauro-balades/cpp-html-parser](https://github.com/mauro-balades/cpp-html-parser) - A HTML tree generator library for C(PP)
 - [mauro-balades/cclipboard](https://github.com/mauro-balades/cclipboard) - A multi-platform utility module to handle common tasks with the clipboard for C/C++
@@ -148,6 +151,7 @@
 
 ## CMake 
 
+- [abdes/asap](https://github.com/abdes/asap) - A modern cmake starter project for C++ with a complete build lifecycle, testing, dependency management, etc. Portable across Linux, OS X and Windows.
 - [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter) - 🚀 Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more.
 
 ## CSS 
@@ -248,6 +252,7 @@
 
 ## JavaScript 
 
+- [mauro-balades/auto-make](https://github.com/mauro-balades/auto-make) - 📦 A new build tool that compilers bash script into makefile automatically
 - [flatpak/flatpak-github-actions](https://github.com/flatpak/flatpak-github-actions) - Build your Flatpak application using Github Actions
 - [WarpBuilds/action-debugger](https://github.com/WarpBuilds/action-debugger) - Debug your GitHub Actions via SSH to get access to the WARP runner system itself.
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv`
@@ -303,6 +308,11 @@
 
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 
+## Lua 
+
+- [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
+- [xmake-io/xmake-repo](https://github.com/xmake-io/xmake-repo) - 📦 An official xmake package repository
+
 ## Makefile 
 
 - [siko-lang/siko](https://github.com/siko-lang/siko) - siko
@@ -325,6 +335,7 @@
 
 ## Others 
 
+- [licenses/license-templates](https://github.com/licenses/license-templates) - Templates for open source and other licenses
 - [zen-browser/flatpak](https://github.com/zen-browser/flatpak) - 📦 official flatpak packges for @zen-browser!
 - [zen-browser/updates-server](https://github.com/zen-browser/updates-server) - Resource server used for firefox's automatic updates system
 - [ShrekMan293/Brass](https://github.com/ShrekMan293/Brass) - A statically typed language that I hope can be a long term project that is updated constantly
@@ -354,7 +365,6 @@
 - [samuelmarina/is-even](https://github.com/samuelmarina/is-even) - Is a number even?
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [mauro-balades/hands](https://github.com/mauro-balades/hands) - A repository storing my assets
-- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [cheese-official/.github](https://github.com/cheese-official/.github) - Cheese is a dairy product produced in wide ranges of flavors, textures and forms by coagulation of the milk protein casein.
 - [Blankj/awesome-comment](https://github.com/Blankj/awesome-comment) - :boom: Funny comments
@@ -388,7 +398,7 @@
 - [mauro-balades/infra](https://github.com/mauro-balades/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [compiler-explorer/infra](https://github.com/compiler-explorer/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [mauro-balades/ChromeVaultExtract](https://github.com/mauro-balades/ChromeVaultExtract) - a powerful software tool designed to effortlessly retrieve and extract saved passwords from the Google Chrome web browser.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 170 stars and 177 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 171 stars and 179 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username, the ultimate account hunting software.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [snowball-lang/SnowBot](https://github.com/snowball-lang/SnowBot) - 🤖 A discord bot that can compile and execute snowball code.
@@ -420,6 +430,7 @@
 
 ## Rust 
 
+- [kylejlin/yscl](https://github.com/kylejlin/yscl) - A simple, readable config lang for when JSON or YML is overkill. "yscl" rhymes with "Haskell."
 - [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go.
 - [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
@@ -443,7 +454,7 @@
 
 ## SCSS 
 
-- [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated) - Firefox theme looks similar to Chrome
+- [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated) - Firefox user CSS theme looks similar to Chrome
 
 ## Scala 
 
@@ -451,6 +462,7 @@
 
 ## Shell 
 
+- [CYFARE/HellFire](https://github.com/CYFARE/HellFire) - Optimized Firefox for GNU/Linux
 - [snowball-lang/install](https://github.com/snowball-lang/install) - 💪 Download snowball and use it with a single command!
 - [geralang/geraup](https://github.com/geralang/geraup) - Making installing Gera as easy as possible.
 - [mauro-balades/RTCM](https://github.com/mauro-balades/RTCM) - RTCM is a tool to monitor command performance in real-time.
@@ -469,6 +481,7 @@
 
 ## TypeScript 
 
+- [ghostery/adblocker](https://github.com/ghostery/adblocker) - Efficient embeddable adblocker library
 - [zen-browser/surfer](https://github.com/zen-browser/surfer) - Simplifying building firefox forks!
 - [nyxb-ui/ui](https://github.com/nyxb-ui/ui) - Fusion UI library combining Shadcn/UI and MagicUI. Featuring 150+ free and open-source components built with React, Typescript, Tailwind CSS, and Framer Motion. Create stunning, responsive interfaces 
 - [zen-browser/www](https://github.com/zen-browser/www) - 🌐 Homepage for @zen-browser!
