@@ -151,11 +151,13 @@
 
 ## CMake 
 
+- [geekbrother/cxx-corrosion-cmake](https://github.com/geekbrother/cxx-corrosion-cmake) - Rust CXX Corrosion and CMake integration with example
 - [abdes/asap](https://github.com/abdes/asap) - A modern cmake starter project for C++ with a complete build lifecycle, testing, dependency management, etc. Portable across Linux, OS X and Windows.
 - [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter) - 🚀 Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more.
 
 ## CSS 
 
+- [yiiyahui/Neptune-Firefox](https://github.com/yiiyahui/Neptune-Firefox) - A clean and compact Firefox theme.
 - [Naezr/ShyFox](https://github.com/Naezr/ShyFox) - A very shy little theme that hides the entire browser interface in the window border
 - [amnweb/firefox-plus](https://github.com/amnweb/firefox-plus) - CSS tweaks for Firefox
 - [Shina-SG/Shina-Fox](https://github.com/Shina-SG/Shina-Fox) - A Minimal, Cozy, Vertical Optimized Firefox Theme
@@ -335,8 +337,9 @@
 
 ## Others 
 
+- [zen-browser/zen](https://github.com/zen-browser/zen) - Flatpak repository used for validation
+- [actionhippie/swap-space](https://github.com/actionhippie/swap-space) - Action to resize or create swap space
 - [licenses/license-templates](https://github.com/licenses/license-templates) - Templates for open source and other licenses
-- [zen-browser/flatpak](https://github.com/zen-browser/flatpak) - 📦 official flatpak packges for @zen-browser!
 - [zen-browser/updates-server](https://github.com/zen-browser/updates-server) - Resource server used for firefox's automatic updates system
 - [ShrekMan293/Brass](https://github.com/ShrekMan293/Brass) - A statically typed language that I hope can be a long term project that is updated constantly
 - [snowball-lang/template-library](https://github.com/snowball-lang/template-library) - 😎 Template repository for a minimal snowball library!
@@ -398,7 +401,7 @@
 - [mauro-balades/infra](https://github.com/mauro-balades/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [compiler-explorer/infra](https://github.com/compiler-explorer/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [mauro-balades/ChromeVaultExtract](https://github.com/mauro-balades/ChromeVaultExtract) - a powerful software tool designed to effortlessly retrieve and extract saved passwords from the Google Chrome web browser.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 171 stars and 179 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 172 stars and 179 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username, the ultimate account hunting software.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [snowball-lang/SnowBot](https://github.com/snowball-lang/SnowBot) - 🤖 A discord bot that can compile and execute snowball code.
@@ -430,6 +433,7 @@
 
 ## Rust 
 
+- [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
 - [kylejlin/yscl](https://github.com/kylejlin/yscl) - A simple, readable config lang for when JSON or YML is overkill. "yscl" rhymes with "Haskell."
 - [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go.
 - [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀
@@ -454,7 +458,7 @@
 
 ## SCSS 
 
-- [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated) - Firefox user CSS theme looks similar to Chrome
+- [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated) - 🦊 Firefox user CSS theme looks similar to Chrome
 
 ## Scala 
 
@@ -463,6 +467,7 @@
 ## Shell 
 
 - [CYFARE/HellFire](https://github.com/CYFARE/HellFire) - Optimized Firefox for GNU/Linux
+- [zen-browser/flatpak](https://github.com/zen-browser/flatpak) - 📦 official flatpak packges for @zen-browser!
 - [snowball-lang/install](https://github.com/snowball-lang/install) - 💪 Download snowball and use it with a single command!
 - [geralang/geraup](https://github.com/geralang/geraup) - Making installing Gera as easy as possible.
 - [mauro-balades/RTCM](https://github.com/mauro-balades/RTCM) - RTCM is a tool to monitor command performance in real-time.
