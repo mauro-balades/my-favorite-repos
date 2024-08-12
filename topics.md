@@ -224,6 +224,7 @@
 
 ## continuous-integration 
 
+- [jlumbroso/free-disk-space](https://github.com/jlumbroso/free-disk-space) - :octocat:⚙️🗑️ A GitHub Action to free disk space on an Ubuntu runner.
 - [abdes/asap](https://github.com/abdes/asap) - A modern cmake starter project for C++ with a complete build lifecycle, testing, dependency management, etc. Portable across Linux, OS X and Windows.
 - [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter) - 🚀 Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more.
 - [jin/awesome-bazel](https://github.com/jin/awesome-bazel) - A curated list of Bazel rules, tooling and resources.
@@ -395,7 +396,6 @@
 
 ## hacktoberfest 
 
-- [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [thuva4/Algorithms](https://github.com/thuva4/Algorithms) - Collection of algorithms in multiple programming languages.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
@@ -629,7 +629,7 @@
 - [mauro-balades/RetroByte](https://github.com/mauro-balades/RetroByte) - Minimalist, nostalgic, text-based OS.
 - [emm312/eepy](https://github.com/emm312/eepy) - 
 - [Khhs167/memstack](https://github.com/Khhs167/memstack) - A basic linked-list based tool for managing memory
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 174 stars and 178 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 173 stars and 178 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username, the ultimate account hunting software.
 - [mauro-balades/password-judger](https://github.com/mauro-balades/password-judger) - Does he bite? no, he judges you
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
@@ -779,7 +779,6 @@
 - [karkutsi/free-programming-books](https://github.com/karkutsi/free-programming-books) - :books: Freely available programming books
 - [karkutsi/github-readme-stats](https://github.com/karkutsi/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [karkutsi/packages](https://github.com/karkutsi/packages) - List of packages for Nimble
-- [mauro-balades/.github](https://github.com/mauro-balades/.github) - 🌐 The default files for my repos
 - [mauro-balades/fortran-timer](https://github.com/mauro-balades/fortran-timer) - ⚗️ I wanted to learn some fortran
 - [mauro-balades/generator-licenser](https://github.com/mauro-balades/generator-licenser) - 📄 create a license with greate TUI
 - [mauro-balades/github-issue-templates](https://github.com/mauro-balades/github-issue-templates) - some issue templates for github issues
