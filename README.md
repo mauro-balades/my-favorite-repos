@@ -45,7 +45,6 @@
 - [TypeScript](#typescript)
 - [V](#v)
 - [Vue](#vue)
-- [YAML](#yaml)
 
 ## Assembly 
 
@@ -337,6 +336,7 @@
 
 ## Others 
 
+- [jlumbroso/free-disk-space](https://github.com/jlumbroso/free-disk-space) - :octocat:⚙️🗑️ A GitHub Action to free disk space on an Ubuntu runner.
 - [flathub/io.github.zen_browser.zen](https://github.com/flathub/io.github.zen_browser.zen) - 
 - [zen-browser/zen](https://github.com/zen-browser/zen) - Flatpak repository used for validation
 - [actionhippie/swap-space](https://github.com/actionhippie/swap-space) - Action to resize or create swap space
@@ -402,7 +402,7 @@
 - [mauro-balades/infra](https://github.com/mauro-balades/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [compiler-explorer/infra](https://github.com/compiler-explorer/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [mauro-balades/ChromeVaultExtract](https://github.com/mauro-balades/ChromeVaultExtract) - a powerful software tool designed to effortlessly retrieve and extract saved passwords from the Google Chrome web browser.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 174 stars and 178 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 173 stars and 178 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username, the ultimate account hunting software.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [snowball-lang/SnowBot](https://github.com/snowball-lang/SnowBot) - 🤖 A discord bot that can compile and execute snowball code.
@@ -542,10 +542,6 @@
 - [biigpongsatorn/vue-slide-bar](https://github.com/biigpongsatorn/vue-slide-bar) - 🎢 A Simple Vue Slider Bar Component.
 - [Electron-Store/electron-app-store](https://github.com/Electron-Store/electron-app-store) - A Cross-Platform App Store for Electron.js Apps
 - [stevebauman/showcode](https://github.com/stevebauman/showcode) - Create beautiful images of code.
-
-## YAML 
-
-- [mauro-balades/.github](https://github.com/mauro-balades/.github) - 🌐 The default files for my repos
 
 
 ## License
