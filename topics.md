@@ -94,6 +94,7 @@
 - [svelte](#svelte)
 - [swift](#swift)
 - [swiftui](#swiftui)
+- [tailwindcss](#tailwindcss)
 - [terminal](#terminal)
 - [terraform](#terraform)
 - [testing](#testing)
@@ -541,6 +542,10 @@
 
 ## others 
 
+- [zen-browser/docs](https://github.com/zen-browser/docs) - 📄 Documentation for zen's core principals such as information about the theme marketshare
+- [zen-browser/theme-components](https://github.com/zen-browser/theme-components) - 📦 Some of @zen-browser's official themes and utility styles!
+- [zen-browser/theme-store](https://github.com/zen-browser/theme-store) - 🎨 Theme repository for @zen-browser!
+- [DamianReeves/write-file-action](https://github.com/DamianReeves/write-file-action) - A GitHub action to write a file
 - [flathub/io.github.zen_browser.zen](https://github.com/flathub/io.github.zen_browser.zen) - 
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
 - [srevinsaju/Firefox-Appimage](https://github.com/srevinsaju/Firefox-Appimage) - Mozilla Firefox Stable AppImages by Continuous Integration
@@ -892,6 +897,10 @@
 ## swiftui 
 
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
+
+## tailwindcss 
+
+- [nyxb-ui/ui](https://github.com/nyxb-ui/ui) - Fusion UI library combining Shadcn/UI and MagicUI. Featuring 150+ free and open-source components built with React, Typescript, Tailwind CSS, and Framer Motion. Create stunning, responsive interfaces 
 
 ## terminal 
 
