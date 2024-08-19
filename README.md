@@ -105,6 +105,7 @@
 - [mauro-balades/Confy](https://github.com/mauro-balades/Confy) - 💻 Configure projects effortlessly!
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [R3nzTheCodeGOD/R3nzSkin](https://github.com/R3nzTheCodeGOD/R3nzSkin) - Skin changer for League of Legends (LOL)
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [szeged/sprocket](https://github.com/szeged/sprocket) - Experimental minimal browser based on Chromium
 - [scrossuk/locic](https://github.com/scrossuk/locic) - Compiler and tools for the Loci programming language.
 - [wbbradley/ace](https://github.com/wbbradley/ace) - A statically-typed strictly-evaluated garbage-collected readable programming language.
@@ -156,11 +157,11 @@
 
 ## CSS 
 
+- [zen-browser/theme-components](https://github.com/zen-browser/theme-components) - 📦 Some of @zen-browser's official themes and utility styles!
 - [yiiyahui/Neptune-Firefox](https://github.com/yiiyahui/Neptune-Firefox) - A clean and compact Firefox theme.
 - [Naezr/ShyFox](https://github.com/Naezr/ShyFox) - A very shy little theme that hides the entire browser interface in the window border
 - [amnweb/firefox-plus](https://github.com/amnweb/firefox-plus) - CSS tweaks for Firefox
 - [Shina-SG/Shina-Fox](https://github.com/Shina-SG/Shina-Fox) - A Minimal, Cozy, Vertical Optimized Firefox Theme
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [snowball-lang/autodoc-styles](https://github.com/snowball-lang/autodoc-styles) - CSS stylings for snowball's documentation generator
 - [astra-web/pixel-perfect](https://github.com/astra-web/pixel-perfect) - Perfectly Designed, Pixel by Pixel
 - [mauro-balades/WhyIHateJS](https://github.com/mauro-balades/WhyIHateJS) - A curated list containing things that will make you cry, re-evaluate about your decisions in life and feel disappointed at yourself for even trying JS
@@ -388,6 +389,7 @@
 
 ## Python 
 
+- [zen-browser/theme-store](https://github.com/zen-browser/theme-store) - 🎨 Theme repository for @zen-browser!
 - [openai/gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [TrueHerobrine/SwiftBrowse](https://github.com/TrueHerobrine/SwiftBrowse) - Fast, Private, Lightweight browser based on PyQt5/QtWebEngine
 - [mauro-balades/craftingcompilers](https://github.com/mauro-balades/craftingcompilers) - A book I wrote to help and engage people into building their own compiler
@@ -488,6 +490,8 @@
 
 ## TypeScript 
 
+- [zen-browser/docs](https://github.com/zen-browser/docs) - 📄 Documentation for zen's core principals such as information about the theme marketshare
+- [DamianReeves/write-file-action](https://github.com/DamianReeves/write-file-action) - A GitHub action to write a file
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
 - [ghostery/adblocker](https://github.com/ghostery/adblocker) - Efficient embeddable adblocker library
 - [zen-browser/surfer](https://github.com/zen-browser/surfer) - Simplifying building firefox forks!
