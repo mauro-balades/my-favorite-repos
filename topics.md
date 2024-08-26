@@ -12,6 +12,7 @@
 - [bootstrap](#bootstrap)
 - [bugbounty](#bugbounty)
 - [c](#c)
+- [c-plus-plus](#c-plus-plus)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
 - [chrome](#chrome)
@@ -155,6 +156,14 @@
 - [phillbush/xmenu](https://github.com/phillbush/xmenu) - a x11 menu utility
 - [robiot/xclicker](https://github.com/robiot/xclicker) - XClicker - Fast gui autoclicker for x11 linux desktops
 - [mauro-balades/hello-world](https://github.com/mauro-balades/hello-world) - hello-world in any programming language.
+
+## c-plus-plus 
+
+- [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
+- [Snaipe/Criterion](https://github.com/Snaipe/Criterion) - A cross-platform C and C++ unit testing framework for the 21st century
+- [kisli/vmime](https://github.com/kisli/vmime) - VMime Mail Library
+- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
+- [yhirose/cpp-peglib](https://github.com/yhirose/cpp-peglib) - A single file C++ header-only PEG (Parsing Expression Grammars) library
 
 ## chatgpt 
 
@@ -542,10 +551,12 @@
 
 ## others 
 
+- [zen-browser/l10n-packs](https://github.com/zen-browser/l10n-packs) - 💪 Localisation packs for @zen-browser so everyone can enjoy it, no matter where they are from!
 - [zen-browser/docs](https://github.com/zen-browser/docs) - 📄 Documentation for zen's core principals such as information about the theme marketshare
 - [zen-browser/theme-components](https://github.com/zen-browser/theme-components) - 📦 Some of @zen-browser's official themes and utility styles!
 - [zen-browser/theme-store](https://github.com/zen-browser/theme-store) - 🎨 Theme repository for @zen-browser!
 - [DamianReeves/write-file-action](https://github.com/DamianReeves/write-file-action) - A GitHub action to write a file
+- [zen-browser/components](https://github.com/zen-browser/components) - Some components used by @zen-browser as an attempt to make firefox forks a better place
 - [flathub/io.github.zen_browser.zen](https://github.com/flathub/io.github.zen_browser.zen) - 
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
 - [srevinsaju/Firefox-Appimage](https://github.com/srevinsaju/Firefox-Appimage) - Mozilla Firefox Stable AppImages by Continuous Integration
@@ -634,7 +645,7 @@
 - [mauro-balades/RetroByte](https://github.com/mauro-balades/RetroByte) - Minimalist, nostalgic, text-based OS.
 - [emm312/eepy](https://github.com/emm312/eepy) - 
 - [Khhs167/memstack](https://github.com/Khhs167/memstack) - A basic linked-list based tool for managing memory
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 173 stars and 178 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 172 stars and 178 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username, the ultimate account hunting software.
 - [mauro-balades/password-judger](https://github.com/mauro-balades/password-judger) - Does he bite? no, he judges you
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
