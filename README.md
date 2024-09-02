@@ -409,7 +409,7 @@
 - [mauro-balades/infra](https://github.com/mauro-balades/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [compiler-explorer/infra](https://github.com/compiler-explorer/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [mauro-balades/ChromeVaultExtract](https://github.com/mauro-balades/ChromeVaultExtract) - a powerful software tool designed to effortlessly retrieve and extract saved passwords from the Google Chrome web browser.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 172 stars and 178 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 172 stars and 177 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username, the ultimate account hunting software.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [snowball-lang/SnowBot](https://github.com/snowball-lang/SnowBot) - 🤖 A discord bot that can compile and execute snowball code.
@@ -495,6 +495,8 @@
 
 ## TypeScript 
 
+- [oozcitak/xmlbuilder2](https://github.com/oozcitak/xmlbuilder2) - An XML builder for node.js
+- [zen-browser/release-utils](https://github.com/zen-browser/release-utils) - Scripts used by @zen-browser to make release workflow a less painful process
 - [zen-browser/docs](https://github.com/zen-browser/docs) - 📄 Documentation for zen's core principals such as information about the theme marketshare
 - [DamianReeves/write-file-action](https://github.com/DamianReeves/write-file-action) - A GitHub action to write a file
 - [zen-browser/components](https://github.com/zen-browser/components) - Some components used by @zen-browser as an attempt to make firefox forks a better place
