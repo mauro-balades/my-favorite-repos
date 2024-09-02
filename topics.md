@@ -13,6 +13,7 @@
 - [bugbounty](#bugbounty)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
 - [chrome](#chrome)
@@ -105,6 +106,7 @@
 - [web](#web)
 - [website](#website)
 - [windows](#windows)
+- [xml](#xml)
 
 ## automation 
 
@@ -164,6 +166,11 @@
 - [kisli/vmime](https://github.com/kisli/vmime) - VMime Mail Library
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [yhirose/cpp-peglib](https://github.com/yhirose/cpp-peglib) - A single file C++ header-only PEG (Parsing Expression Grammars) library
+
+## chatbot 
+
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 
 ## chatgpt 
 
@@ -435,6 +442,7 @@
 
 ## javascript 
 
+- [oozcitak/xmlbuilder2](https://github.com/oozcitak/xmlbuilder2) - An XML builder for node.js
 - [ghostery/adblocker](https://github.com/ghostery/adblocker) - Efficient embeddable adblocker library
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
@@ -551,6 +559,7 @@
 
 ## others 
 
+- [zen-browser/release-utils](https://github.com/zen-browser/release-utils) - Scripts used by @zen-browser to make release workflow a less painful process
 - [zen-browser/l10n-packs](https://github.com/zen-browser/l10n-packs) - 💪 Localisation packs for @zen-browser so everyone can enjoy it, no matter where they are from!
 - [zen-browser/docs](https://github.com/zen-browser/docs) - 📄 Documentation for zen's core principals such as information about the theme marketshare
 - [zen-browser/theme-components](https://github.com/zen-browser/theme-components) - 📦 Some of @zen-browser's official themes and utility styles!
@@ -645,7 +654,7 @@
 - [mauro-balades/RetroByte](https://github.com/mauro-balades/RetroByte) - Minimalist, nostalgic, text-based OS.
 - [emm312/eepy](https://github.com/emm312/eepy) - 
 - [Khhs167/memstack](https://github.com/Khhs167/memstack) - A basic linked-list based tool for managing memory
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 172 stars and 178 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 172 stars and 177 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username, the ultimate account hunting software.
 - [mauro-balades/password-judger](https://github.com/mauro-balades/password-judger) - Does he bite? no, he judges you
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
@@ -955,6 +964,10 @@
 
 - [R3nzTheCodeGOD/R3nzSkin](https://github.com/R3nzTheCodeGOD/R3nzSkin) - Skin changer for League of Legends (LOL)
 - [ModuleArt/ferny](https://github.com/ModuleArt/ferny) - Chromium-based web browser, built on top of Electron.
+
+## xml 
+
+- [oozcitak/xmlbuilder2](https://github.com/oozcitak/xmlbuilder2) - An XML builder for node.js
 
 
 ## License
