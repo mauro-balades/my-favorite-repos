@@ -559,6 +559,7 @@
 
 ## others 
 
+- [zen-browser/.github](https://github.com/zen-browser/.github) - For Zen gh page
 - [zen-browser/release-utils](https://github.com/zen-browser/release-utils) - Scripts used by @zen-browser to make release workflow a less painful process
 - [zen-browser/l10n-packs](https://github.com/zen-browser/l10n-packs) - 💪 Localisation packs for @zen-browser so everyone can enjoy it, no matter where they are from!
 - [zen-browser/docs](https://github.com/zen-browser/docs) - 📄 Documentation for zen's core principals such as information about the theme marketshare
@@ -654,7 +655,7 @@
 - [mauro-balades/RetroByte](https://github.com/mauro-balades/RetroByte) - Minimalist, nostalgic, text-based OS.
 - [emm312/eepy](https://github.com/emm312/eepy) - 
 - [Khhs167/memstack](https://github.com/Khhs167/memstack) - A basic linked-list based tool for managing memory
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 172 stars and 177 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 171 stars and 177 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username, the ultimate account hunting software.
 - [mauro-balades/password-judger](https://github.com/mauro-balades/password-judger) - Does he bite? no, he judges you
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
