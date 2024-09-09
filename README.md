@@ -329,6 +329,7 @@
 ## Markdown 
 
 - [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) - A collection listing all Achievements available on the GitHub profile 🏆
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [mauro-balades/mauro-balades](https://github.com/mauro-balades/mauro-balades) - My own github profile!
 
 ## Nim 
@@ -343,6 +344,7 @@
 
 ## Others 
 
+- [zen-browser/.github](https://github.com/zen-browser/.github) - For Zen gh page
 - [jlumbroso/free-disk-space](https://github.com/jlumbroso/free-disk-space) - :octocat:⚙️🗑️ A GitHub Action to free disk space on an Ubuntu runner.
 - [flathub/io.github.zen_browser.zen](https://github.com/flathub/io.github.zen_browser.zen) - 
 - [zen-browser/zen](https://github.com/zen-browser/zen) - Flatpak repository used for validation
@@ -376,7 +378,6 @@
 - [samuelmarina/is-even](https://github.com/samuelmarina/is-even) - Is a number even?
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [mauro-balades/hands](https://github.com/mauro-balades/hands) - A repository storing my assets
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [cheese-official/.github](https://github.com/cheese-official/.github) - Cheese is a dairy product produced in wide ranges of flavors, textures and forms by coagulation of the milk protein casein.
 - [Blankj/awesome-comment](https://github.com/Blankj/awesome-comment) - :boom: Funny comments
 - [karkutsi/Best-README-Template](https://github.com/karkutsi/Best-README-Template) - An awesome README template to jumpstart your projects!
@@ -409,7 +410,7 @@
 - [mauro-balades/infra](https://github.com/mauro-balades/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [compiler-explorer/infra](https://github.com/compiler-explorer/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [mauro-balades/ChromeVaultExtract](https://github.com/mauro-balades/ChromeVaultExtract) - a powerful software tool designed to effortlessly retrieve and extract saved passwords from the Google Chrome web browser.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 172 stars and 177 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 171 stars and 177 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username, the ultimate account hunting software.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [snowball-lang/SnowBot](https://github.com/snowball-lang/SnowBot) - 🤖 A discord bot that can compile and execute snowball code.
