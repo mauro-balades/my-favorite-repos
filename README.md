@@ -91,6 +91,7 @@
 
 ## C++ 
 
+- [fraunhoferfokus/open-content-decryption-module](https://github.com/fraunhoferfokus/open-content-decryption-module) - Open Content Decryption Module (OCDM)
 - [Jonathan-Greve/Xmake-template](https://github.com/Jonathan-Greve/Xmake-template) - Xmake C++23 project template. Using C++ modules, github workflows for CI/CD (Windows and Ubuntu) and gtest for testing. Compiles with both GCC on Ubuntu and MSVC on Windows. See the linux.yml file for
 - [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
 - [mauro-balades/whoops-cpp](https://github.com/mauro-balades/whoops-cpp) - 🌟 A growing collection of ulity classes and functions for common c++ tasks
@@ -157,6 +158,7 @@
 
 ## CSS 
 
+- [11x1/zen-solar-theme](https://github.com/11x1/zen-solar-theme) - A minimalistic dark theme reskin for Zen (https://zen-browser.app)
 - [zen-browser/theme-components](https://github.com/zen-browser/theme-components) - 📦 Some of @zen-browser's official themes and utility styles!
 - [zen-browser/theme-store](https://github.com/zen-browser/theme-store) - 🎨 Theme repository for @zen-browser!
 - [yiiyahui/Neptune-Firefox](https://github.com/yiiyahui/Neptune-Firefox) - A clean and compact Firefox theme.
@@ -344,13 +346,13 @@
 
 ## Others 
 
+- [zen-browser/branding](https://github.com/zen-browser/branding) - Zen's branding assets
 - [zen-browser/.github](https://github.com/zen-browser/.github) - For Zen gh page
 - [jlumbroso/free-disk-space](https://github.com/jlumbroso/free-disk-space) - :octocat:⚙️🗑️ A GitHub Action to free disk space on an Ubuntu runner.
 - [flathub/io.github.zen_browser.zen](https://github.com/flathub/io.github.zen_browser.zen) - 
 - [zen-browser/zen](https://github.com/zen-browser/zen) - Flatpak repository used for validation
 - [actionhippie/swap-space](https://github.com/actionhippie/swap-space) - Action to resize or create swap space
 - [licenses/license-templates](https://github.com/licenses/license-templates) - Templates for open source and other licenses
-- [zen-browser/updates-server](https://github.com/zen-browser/updates-server) - Resource server used for firefox's automatic updates system
 - [ShrekMan293/Brass](https://github.com/ShrekMan293/Brass) - A statically typed language that I hope can be a long term project that is updated constantly
 - [snowball-lang/template-library](https://github.com/snowball-lang/template-library) - 😎 Template repository for a minimal snowball library!
 - [pierotofy/set-swap-space](https://github.com/pierotofy/set-swap-space) - GitHub Action to Increase Swap Space on GitHub Runners
@@ -478,6 +480,7 @@
 - [srevinsaju/Firefox-Appimage](https://github.com/srevinsaju/Firefox-Appimage) - Mozilla Firefox Stable AppImages by Continuous Integration
 - [CYFARE/HellFire](https://github.com/CYFARE/HellFire) - Optimized Firefox for GNU/Linux
 - [zen-browser/flatpak](https://github.com/zen-browser/flatpak) - 📦 official flatpak packges for @zen-browser!
+- [zen-browser/updates-server](https://github.com/zen-browser/updates-server) - Resource server used for firefox's automatic updates system
 - [snowball-lang/install](https://github.com/snowball-lang/install) - 💪 Download snowball and use it with a single command!
 - [geralang/geraup](https://github.com/geralang/geraup) - Making installing Gera as easy as possible.
 - [mauro-balades/RTCM](https://github.com/mauro-balades/RTCM) - RTCM is a tool to monitor command performance in real-time.
