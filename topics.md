@@ -559,6 +559,9 @@
 
 ## others 
 
+- [fraunhoferfokus/open-content-decryption-module](https://github.com/fraunhoferfokus/open-content-decryption-module) - Open Content Decryption Module (OCDM)
+- [11x1/zen-solar-theme](https://github.com/11x1/zen-solar-theme) - A minimalistic dark theme reskin for Zen (https://zen-browser.app)
+- [zen-browser/branding](https://github.com/zen-browser/branding) - Zen's branding assets
 - [zen-browser/.github](https://github.com/zen-browser/.github) - For Zen gh page
 - [zen-browser/release-utils](https://github.com/zen-browser/release-utils) - Scripts used by @zen-browser to make release workflow a less painful process
 - [zen-browser/l10n-packs](https://github.com/zen-browser/l10n-packs) - 💪 Localisation packs for @zen-browser so everyone can enjoy it, no matter where they are from!
