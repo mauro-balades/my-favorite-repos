@@ -74,6 +74,7 @@
 - [nodejs](#nodejs)
 - [objective-c](#objective-c)
 - [open-source](#open-source)
+- [openai](#openai)
 - [opengl](#opengl)
 - [others](#others)
 - [package-manager](#package-manager)
@@ -553,12 +554,17 @@
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website
 
+## openai 
+
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
+
 ## opengl 
 
 - [maksmakuta/CProcessing](https://github.com/maksmakuta/CProcessing) - Processing C++ Edition
 
 ## others 
 
+- [andrefelipe18/Zen-TodoList](https://github.com/andrefelipe18/Zen-TodoList) - TodoList inspired by Zen-Browser
 - [fraunhoferfokus/open-content-decryption-module](https://github.com/fraunhoferfokus/open-content-decryption-module) - Open Content Decryption Module (OCDM)
 - [11x1/zen-solar-theme](https://github.com/11x1/zen-solar-theme) - A minimalistic dark theme reskin for Zen (https://zen-browser.app)
 - [zen-browser/branding](https://github.com/zen-browser/branding) - Zen's branding assets
@@ -658,7 +664,7 @@
 - [mauro-balades/RetroByte](https://github.com/mauro-balades/RetroByte) - Minimalist, nostalgic, text-based OS.
 - [emm312/eepy](https://github.com/emm312/eepy) - 
 - [Khhs167/memstack](https://github.com/Khhs167/memstack) - A basic linked-list based tool for managing memory
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 171 stars and 177 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 171 stars and 176 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username, the ultimate account hunting software.
 - [mauro-balades/password-judger](https://github.com/mauro-balades/password-judger) - Does he bite? no, he judges you
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
