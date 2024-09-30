@@ -19,6 +19,7 @@
 - [Fantom](#fantom)
 - [Fluent](#fluent)
 - [Fortran](#fortran)
+- [GDScript](#gdscript)
 - [GLSL](#glsl)
 - [Gleam](#gleam)
 - [Go](#go)
@@ -76,7 +77,7 @@
 - [Ninesquared81/caretbang](https://github.com/Ninesquared81/caretbang) - A stack-based esoteric langauge
 - [Im-0xea/binfetch](https://github.com/Im-0xea/binfetch) - A Neofetch inspired binary analyzer
 - [dstogov/ir](https://github.com/dstogov/ir) - Lightweight JIT Compilation Framework
-- [travisdoor/bl](https://github.com/travisdoor/bl) - Simple imperative programming language created for fun.
+- [travisdoor/bl](https://github.com/travisdoor/bl) - Simple programming language created for fun.
 - [graydon/rust-prehistory](https://github.com/graydon/rust-prehistory) - historical archive of rust pre-publication development
 - [lz4/lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm
 - [sudo-project/sudo](https://github.com/sudo-project/sudo) - Utility to execute a command as another user
@@ -206,6 +207,10 @@
 
 - [mauro-balades/fortran-timer](https://github.com/mauro-balades/fortran-timer) - ⚗️ I wanted to learn some fortran
 
+## GDScript 
+
+- [face-hh/wattesigma](https://github.com/face-hh/wattesigma) - 
+
 ## GLSL 
 
 - [mauro-balades/Doom4Doom](https://github.com/mauro-balades/Doom4Doom) - A mod for GZDoom, backporting Doom 2016's weapons, monsters and features to Doom 2.
@@ -262,6 +267,7 @@
 
 ## JavaScript 
 
+- [rNeomy/auto-tab-discard](https://github.com/rNeomy/auto-tab-discard) - Use native tab discarding method to automatically reduce memory usage of inactive tabs
 - [mauro-balades/auto-make](https://github.com/mauro-balades/auto-make) - 📦 A new build tool that compilers bash script into makefile automatically
 - [flatpak/flatpak-github-actions](https://github.com/flatpak/flatpak-github-actions) - Build your Flatpak application using Github Actions
 - [WarpBuilds/action-debugger](https://github.com/WarpBuilds/action-debugger) - Debug your GitHub Actions via SSH to get access to the WARP runner system itself.
@@ -412,7 +418,7 @@
 - [mauro-balades/infra](https://github.com/mauro-balades/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [compiler-explorer/infra](https://github.com/compiler-explorer/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [mauro-balades/ChromeVaultExtract](https://github.com/mauro-balades/ChromeVaultExtract) - a powerful software tool designed to effortlessly retrieve and extract saved passwords from the Google Chrome web browser.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 171 stars and 176 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 171 stars and 175 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username, the ultimate account hunting software.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [snowball-lang/SnowBot](https://github.com/snowball-lang/SnowBot) - 🤖 A discord bot that can compile and execute snowball code.
