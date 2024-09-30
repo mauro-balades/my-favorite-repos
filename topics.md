@@ -185,10 +185,12 @@
 
 ## chrome 
 
+- [rNeomy/auto-tab-discard](https://github.com/rNeomy/auto-tab-discard) - Use native tab discarding method to automatically reduce memory usage of inactive tabs
 - [zombieFox/nightTab](https://github.com/zombieFox/nightTab) - A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks with nightTab.
 
 ## chrome-extension 
 
+- [rNeomy/auto-tab-discard](https://github.com/rNeomy/auto-tab-discard) - Use native tab discarding method to automatically reduce memory usage of inactive tabs
 - [zombieFox/nightTab](https://github.com/zombieFox/nightTab) - A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks with nightTab.
 
 ## cli 
@@ -227,7 +229,7 @@
 - [c3lang/c3c](https://github.com/c3lang/c3c) - Compiler for the C3 language
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [matteobortolazzo/stylo](https://github.com/matteobortolazzo/stylo) - A new Design-as-code language side project.
-- [travisdoor/bl](https://github.com/travisdoor/bl) - Simple imperative programming language created for fun.
+- [travisdoor/bl](https://github.com/travisdoor/bl) - Simple programming language created for fun.
 - [iamgio/pikt](https://github.com/iamgio/pikt) - :art: Image-based poetic programming language.
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [ALANVF/star](https://github.com/ALANVF/star) - An experimental programming language that's made to be powerful, productive, and predictable
@@ -489,7 +491,7 @@
 - [c3lang/c3c](https://github.com/c3lang/c3c) - Compiler for the C3 language
 - [RainingComputers/ShnooTalk](https://github.com/RainingComputers/ShnooTalk) - ShnooTalk is a new programming language
 - [matteobortolazzo/stylo](https://github.com/matteobortolazzo/stylo) - A new Design-as-code language side project.
-- [travisdoor/bl](https://github.com/travisdoor/bl) - Simple imperative programming language created for fun.
+- [travisdoor/bl](https://github.com/travisdoor/bl) - Simple programming language created for fun.
 - [ALANVF/star](https://github.com/ALANVF/star) - An experimental programming language that's made to be powerful, productive, and predictable
 - [shreder95ua/teasharp](https://github.com/shreder95ua/teasharp) - My new begginer-friendly programming language
 
@@ -564,6 +566,7 @@
 
 ## others 
 
+- [face-hh/wattesigma](https://github.com/face-hh/wattesigma) - 
 - [andrefelipe18/Zen-TodoList](https://github.com/andrefelipe18/Zen-TodoList) - TodoList inspired by Zen-Browser
 - [fraunhoferfokus/open-content-decryption-module](https://github.com/fraunhoferfokus/open-content-decryption-module) - Open Content Decryption Module (OCDM)
 - [11x1/zen-solar-theme](https://github.com/11x1/zen-solar-theme) - A minimalistic dark theme reskin for Zen (https://zen-browser.app)
@@ -664,7 +667,7 @@
 - [mauro-balades/RetroByte](https://github.com/mauro-balades/RetroByte) - Minimalist, nostalgic, text-based OS.
 - [emm312/eepy](https://github.com/emm312/eepy) - 
 - [Khhs167/memstack](https://github.com/Khhs167/memstack) - A basic linked-list based tool for managing memory
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 171 stars and 176 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 171 stars and 175 forks 🌟
 - [mauro-balades/shaggy](https://github.com/mauro-balades/shaggy) - Discover social media accounts across multiple platforms using just a username, the ultimate account hunting software.
 - [mauro-balades/password-judger](https://github.com/mauro-balades/password-judger) - Does he bite? no, he judges you
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
@@ -842,7 +845,7 @@
 
 - [Usbac/borealis](https://github.com/Usbac/borealis) - The elegant and consistent programming language.
 - [orosmatthew/hydrogen-cpp](https://github.com/orosmatthew/hydrogen-cpp) - A hobby programming language 🔥
-- [travisdoor/bl](https://github.com/travisdoor/bl) - Simple imperative programming language created for fun.
+- [travisdoor/bl](https://github.com/travisdoor/bl) - Simple programming language created for fun.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 ## python 
